@@ -93,6 +93,20 @@ def read_wibbi():
     topic = []
     topic.append("sport")
     topic.append("games")
+    topic.append("health")
+    topic.append("recreation")
+    topic.append("regional")
+    topic.append("science")
+    topic.append("shopping")
+    topic.append("society")
+    topic.append("arts")
+    topic.append("business")
+    topic.append("kids-and-teens")
+    topic.append("news")
+    topic.append("reference")
+    topic.append("shopping")
+    topic.append("computers")
+    
     topic_graph = dict()
     topic_db = dict()
     index=-1
