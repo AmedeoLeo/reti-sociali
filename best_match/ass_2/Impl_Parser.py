@@ -13,7 +13,8 @@ def read_links(html):
 def read_content(html):
     #The function sub substitues any occurrence of the first parameter in the string given as third parameter with an occurrence of the second parameter
     #The first parameter here is given as a regular expression and consists of any html tag
-    text = sub(r'<.*?>',' ',html)
+    text = sub(r'<.*?>','',html)
+    text = sub('<[^>]*>','',text)
     return text.split()
 
 #This function removes from the given graph all the edges towards undefined pages
@@ -67,3 +68,51 @@ def read_wibbi(filename):
             
     graph=sanitizer(graph)
     return graph, db
+
+
+def read_wibbi(filename,topic):
+    infile = open(filename,"r")
+    delim=infile.readline().strip() #It will contain the string that wibbi uses a separator
+    nl = infile.readline().strip()
+    if nl != "0": #The line after the separator will be either the url of the page or "0" if no more pages are present
+        url = nl.split()[1]
+        
+    html=''
+    copy=False
+    topic_graph = dict()
+    topic_db = dict()
+
+    if topic not in topic_graph:
+        topic_graph[topic] = dict()
+
+    if topic not in topic_db:
+        topic_db[topic] = dict()
+    
+    while True:
+	line = infile.readline()
+	if not line:
+		break
+        if line.strip() == delim: #If we find the separator, we have copied the entire html
+            copy=False
+            
+            #We parse the html with the above functions
+            topic_graph[topic][url]=set(read_links(html))
+            topic_db[topic][url]=read_content(html)
+            
+            #We start by reading the url of the next page, if any
+            nl = infile.readline().strip()
+            if nl != "0":
+                url = nl.split()[1]
+                
+            html=''
+            
+        #We start to read only when we find the tag "<html"
+        ls=line.split()
+        if len(ls) > 0 and ls[0] == '<html':
+            copy=True
+            
+        if copy is True:
+            html+=line
+            
+    topic_graph[topic]=sanitizer(topic_graph[topic])
+    return topic_graph, topic_db
