@@ -17,10 +17,11 @@ index=0
 
 #index+=1
 #topic = "test"
-topic_graph,topic_db = read_wibbi()
+topic_graph, topic_db = read_wibbi()
+toPrint=""
 #graph,db = read_wibbi("./"+filename)
 for topic in topic_graph.keys():
-    toPrint = topic+"{ \n"
+    toPrint += topic+"{ \n"
     for i in topic_graph[topic].keys():
         toPrint += i+ "["
         for val in topic_db[topic][i]:
