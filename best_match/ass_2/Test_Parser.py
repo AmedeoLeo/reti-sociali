@@ -20,12 +20,13 @@ index=0
 toPrint = topic[index]+"\n"
 #index+=1
 #topic = "test"
-graph,db = read_wibbi()
+topic_graph,topic_db = read_wibbi()
 #graph,db = read_wibbi("./"+filename)
-for topic in graph.keys():
-    for i in graph[topic].keys():
+for topic in topic_graph.keys():
+    toPrint = topic+"{"
+    for i in topic_graph[topic].keys():
         toPrint += i+ "["
-        for val in db[topic][i]:
+        for val in topic_db[topic][i]:
             if '<' in val:
                 tag = False
             elif '/>' in val:
@@ -33,6 +34,7 @@ for topic in graph.keys():
             elif re.match("^[A-Za-z0-9]*$", val):
                 html_decoded_string = parser.unescape(val)
                 toPrint += html_decoded_string + ","
-    #print >> output,  toPrint + "]"    
-    #print >> output, "--------------------------------------------------------------------------------"
+        toPrint += "]"
+    toPrint +="}"
+print >> output,  toPrint
 output.close()

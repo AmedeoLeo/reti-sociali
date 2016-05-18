@@ -39,10 +39,9 @@ def connect(graph1, graph2):
         if v not in neighbors:
             graph1[u].add(v)
             n_links+=1
-            print "Sto collegando il link "+u +" a "+v
             if n_links==10:
                 repeat=False
-    print graph1[u]
+
     
     
     
