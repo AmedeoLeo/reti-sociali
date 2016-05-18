@@ -12,18 +12,15 @@ tag = True
 parser = HTMLParser()
 sys.setdefaultencoding('UTF8')
 output = open("output.txt", "w")
-topic = []
-topic.append("sport")
-topic.append("games")
 index=0
 
-toPrint = topic[index]+"\n"
+
 #index+=1
 #topic = "test"
 topic_graph,topic_db = read_wibbi()
 #graph,db = read_wibbi("./"+filename)
 for topic in topic_graph.keys():
-    toPrint = topic+"{"
+    toPrint = topic+"{ \n"
     for i in topic_graph[topic].keys():
         toPrint += i+ "["
         for val in topic_db[topic][i]:
@@ -34,7 +31,7 @@ for topic in topic_graph.keys():
             elif re.match("^[A-Za-z0-9]*$", val):
                 html_decoded_string = parser.unescape(val)
                 toPrint += html_decoded_string + ","
-        toPrint += "]"
-    toPrint +="}"
+        toPrint += "] \n"
+    toPrint +="} \n"
 print >> output,  toPrint
 output.close()
