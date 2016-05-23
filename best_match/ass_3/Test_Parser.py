@@ -2,13 +2,10 @@
 from Impl_Parser import read_wibbi
 from HTMLParser import HTMLParser
 from Impl_Matching import best_match
-
+import sys
 #from re import findall, sub
 
-import sys
-
-
-query_terms=["state","staff", "service", "nutrition"]
+query_terms=["state", "staff",  "state staff"]
 reload(sys)
 K = 60
 tag = True
