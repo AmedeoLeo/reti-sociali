@@ -4,13 +4,15 @@ from collections import OrderedDict as od
 
 #!/usr/bin/python 
 
-K = 20
+
 
 ###BEST MATCH###
 
+def countK(count_db):
+    return (len(count_db.keys())*0.2)/100
+
 """Questo metodo restituisce la lista dei primi K documenti in base all'ordinamento dell'inverted index"""
-def getFrequentDocs(sorted_db):
-    global K
+def getFrequentDocs(sorted_db,K):
     check=0
     done = False
     frequent_docs = set()
@@ -37,10 +39,15 @@ def count_words(frequent_docs, count_db):
 
 """Ottimizzazione al best match classico: per ogni query in input ottimizza solo i primi K documenti 
 ricavati tramite inverted index"""
-def best_match(query, threshold, sorted_db, count_db):
-    
-    global K
-    frequent_docs = getFrequentDocs(sorted_db)
+def best_match(query, threshold,count_db):
+
+    inverted_db = readInvertedDB()
+    #ordina l'inverted index in ordine decrescente
+    temp =  sorted(inverted_db, key=lambda x: len(inverted_db[x]), reverse=True)
+    sorted_db = od((x, inverted_db[x]) for x in temp)
+        
+    K = countK(count_db)
+    frequent_docs = getFrequentDocs(sorted_db,K)
     total_words = count_words(frequent_docs,  count_db)
     
     scores = dict()
@@ -48,17 +55,17 @@ def best_match(query, threshold, sorted_db, count_db):
     
     #per ogni documento tra i K documenti ordinati
     for doc in frequent_docs:
-        print ("-----------------------------------------------------------")
-        print (doc)
-        print ("Parole totali "+ str(total_words[doc]))
+        #print ("-----------------------------------------------------------")
+        #print (doc)
+        #print ("Parole totali "+ str(total_words[doc]))
         #inizializzo
         if doc not in scores.keys():
             scores[doc] = 0
         #query in input
         for q in query:
             for word in q.split():
-                print (word)
-                print ("Occorrrenze "+ str(count_db[doc][word])) 
+                #print (word)
+                #print ("Occorrrenze "+ str(count_db[doc][word])) 
             
                 # se la query in input non è presente nel doc aggiungo zero
                 if word not in count_db[doc].keys():
@@ -78,9 +85,38 @@ def best_match(query, threshold, sorted_db, count_db):
         print (doc)
         print (sorted_docs[doc])
         print ("--------------------------")
-        if index == 5:
+        if index == 20:
             break
         index+=1
     
         
     return best_docs   
+
+    
+def readInvertedDB():
+    inverted_db = dict()
+    infile = open("inverted_db.txt","r")
+
+    while True:
+        line = infile.readline()
+        line = line[:-2]
+        if not line:
+            break
+        
+        split = line.split(" ")
+        term = split[0]
+        urls = split[1]
+
+        if term not in inverted_db.keys():
+            inverted_db[term] = set()
+
+        urlsplit = urls.split(",")
+        for i in range(len(urlsplit)):
+            inverted_db[term].add(urlsplit[i])
+
+    return inverted_db
+        
+            
+
+    
+    

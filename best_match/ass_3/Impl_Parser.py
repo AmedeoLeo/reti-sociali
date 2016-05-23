@@ -102,10 +102,10 @@ def read_wibbi():
   
     graph=dict()
     
-    for filename in os.listdir(os.getcwd()+"/prova/"):
+    for filename in os.listdir(os.getcwd()+"/prova2/"):
       
         if filename.endswith(".pages"):
-            infile = open("prova/"+filename,"r")
+            infile = open("prova2/"+filename,"r")
             delim=infile.readline().strip() #It will contain the string that wibbi uses a separator
             nl = infile.readline().strip()
             if nl != "0": #The line after the separator will be either the url of the page or "0" if no more pages are present
@@ -138,27 +138,17 @@ def read_wibbi():
                     
                 if copy is True:
                     html+=line
+
+    printInvertedDB()
+    return count_db
+    
+def printInvertedDB():
+    output = open("inverted_db.txt","w")
     global inverted_db
-    global K
-    
-         
-    
-    #ordina l'inverted index in ordine decrescente
-    temp =  sorted(inverted_db, key=lambda x: len(inverted_db[x]), reverse=True)
-    sorted_db = od((x, inverted_db[x]) for x in temp)
-    
-    graph=sanitizer(graph)
-    #invert_db = invert(db)
-    return graph, sorted_db, count_db
-    
-    
-def invert(db):
-    invert_db = dict()
-    for url in db.keys():
-        current = db[url]
-        for term in current:
-            if term not in invert_db.keys():
-                invert_db[term] = set()
-            invert_db[term].add(url)
-    return invert_db        
-            
+    toPrint = ""
+    for term in inverted_db.keys():
+        toPrint = term + " "
+        for doc in inverted_db[term]:
+            toPrint += doc + ","
+        print >> output, toPrint
+        
