@@ -39,9 +39,10 @@ def count_words(frequent_docs, count_db):
 
 """Ottimizzazione al best match classico: per ogni query in input ottimizza solo i primi K documenti 
 ricavati tramite inverted index"""
-def best_match(query, threshold,count_db):
+def best_match(query, threshold):
 
     inverted_db = readInvertedDB()
+    count_db = readCountDB()
     #ordina l'inverted index in ordine decrescente
     temp =  sorted(inverted_db, key=lambda x: len(inverted_db[x]), reverse=True)
     sorted_db = od((x, inverted_db[x]) for x in temp)
@@ -79,17 +80,18 @@ def best_match(query, threshold,count_db):
     temp =  sorted(scores, key=lambda x: scores[x], reverse=True)
     sorted_docs = od((x, scores[x]) for x in temp)
     index =1
-    
+
+    output = open("scores.txt","w")
+
     for doc in sorted_docs:
-        print (index)
-        print (doc)
-        print (sorted_docs[doc])
-        print ("--------------------------")
+        print >> output, index
+        print >> output, doc
+        print >> output, sorted_docs[doc]
+        print >> output, "--------------------------"
         if index == 20:
             break
         index+=1
-    
-        
+            
     return best_docs   
 
     
@@ -115,8 +117,34 @@ def readInvertedDB():
             inverted_db[term].add(urlsplit[i])
 
     return inverted_db
-        
-            
 
-    
-    
+def readCountDB():
+    count_db = dict()
+    infile = open("count_db.txt","r")
+
+    while True:
+        line = infile.readline()
+        line = line[:-2]
+        if not line:
+            break
+        
+        first_split = line.split(" ")
+        url = first_split[0]
+        terms = first_split[1]
+
+        second_split = terms.split(";")
+
+        if url not in count_db.keys():
+            count_db[url] = dict()
+            
+        for couple in second_split:
+            current = couple.split(",")
+            term = current[0]
+            occurrency = int(current[1])
+
+            if term not in count_db[url].keys():
+                count_db[url][term] = 0
+
+            count_db[url][term] = occurrency
+        
+    return count_db
