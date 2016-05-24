@@ -7,10 +7,18 @@ import sys
 query_terms=["obama", "picasso",  "chair", "champions league"]
 reload(sys)
 sys.setdefaultencoding('UTF8')
-#output = open("output.txt", "w")
+output = open("output.txt", "w")
 
 #topic = "test"
-graph,sorted_db,  count_db = read_wibbi()
+graph= read_wibbi()
+print >> output, "------------"
+for topic in graph.keys():
+    print >> output, topic
+    for elem in graph[topic].keys():
+        print >> output, "STAMPO ELEMENTI"
+        print >> output, elem
+        print >> output, graph[topic][elem]
+        
 
 #best_docs = best_match(query_terms,  0,  sorted_db, count_db)
 
@@ -21,4 +29,4 @@ for elem in sorted_db:
     print >> output, sorted_db[elem]
 """
 
-#output.close()
+output.close()

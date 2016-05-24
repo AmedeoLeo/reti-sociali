@@ -89,6 +89,11 @@ def connect(graph1, graph2):
         neighbors = graph1[u].copy()
         if v not in neighbors:
             graph1[u].add(v)
+            print "GRAPH 1"
+            print graph1[u]
+            print "STAMPO V"
+            print v
+            print "*****************************"
             n_links+=1
             if n_links==10:
                 repeat=False
@@ -149,6 +154,8 @@ def read_wibbi():
             graph=sanitizer(graph) #elimina link inutili
             all_graphs[topic] = graph #aggiorno la lista dei grafi
 
+
+            #ERRORE!!!
             if i not in big_dict.keys():
                 print str(i), topic
                 big_dict[i] = graph
@@ -174,7 +181,7 @@ def read_wibbi():
     
     #invert_db = invert(db)
 
-    return graph
+    return all_graphs
     
     
 def invert(db):
