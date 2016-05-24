@@ -100,13 +100,20 @@ def connect(graph1, graph2):
 #(to be processed by the ranking algorithm and the matching algorithm, respectively)
 def read_wibbi():
   
-    graph=dict()
+    all_graphs = dict()
+    big_dict = dict()   #contiene chiave = numero del topic e valore = grafo di quel topic
+    i = 0
     
     for filename in os.listdir(os.getcwd()+"/prova/"):
-      
         if filename.endswith(".pages"):
+            graph=dict() #reinizializzato per ogni documento
+            topic = filename[:filename.index("_")]
+
+            if topic not in all_graphs.keys():
+                all_graphs[topic] = dict()
+            
             infile = open("prova/"+filename,"r")
-            delim=infile.readline().strip() #It will contain the string that wibbi uses a separator
+            delim=infile.readline().strip() #It will contains the string that wibbi uses as a separator
             nl = infile.readline().strip()
             if nl != "0": #The line after the separator will be either the url of the page or "0" if no more pages are present
                 url = nl.split()[1]
@@ -138,6 +145,24 @@ def read_wibbi():
                     
                 if copy is True:
                     html+=line
+
+            graph=sanitizer(graph) #elimina link inutili
+            all_graphs[topic] = graph #aggiorno la lista dei grafi
+
+            if i not in big_dict.keys():
+                print str(i), topic
+                big_dict[i] = graph
+
+            i+=1
+
+    i = 0
+    j = 0
+    for i in range(0,len(all_graphs.keys())):
+        for j in range(i+1,len(all_graphs.keys())):
+            print "connetto: ", str(i), str(j)
+            connect(big_dict[i],big_dict[j])
+            
+            
     global inverted_db
     global K
     
@@ -147,8 +172,8 @@ def read_wibbi():
     temp =  sorted(inverted_db, key=lambda x: len(inverted_db[x]), reverse=True)
     sorted_db = od((x, inverted_db[x]) for x in temp)
     
-    graph=sanitizer(graph)
     #invert_db = invert(db)
+
     return graph
     
     
