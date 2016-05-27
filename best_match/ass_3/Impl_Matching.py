@@ -53,6 +53,14 @@ def best_match(query, threshold):
     
     scores = dict()
     best_docs = dict()
+
+    for doc in count_db.keys():
+        print doc
+        for word in count_db[doc].keys():
+            if doc in total_words.keys():
+                print word
+                print count_db[doc][word] / total_words[doc]
+                print "---------------------------"
     
     #per ogni documento tra i K documenti ordinati
     for doc in frequent_docs:

@@ -4,7 +4,7 @@ from Impl_Matching import *
 import sys
 import timeit
 
-query_terms=["obama", "picasso",  "chair", "champions league"]
+query_terms=["obama", "auxiliary",  "chair", "champions league"]
 reload(sys)
 sys.setdefaultencoding('UTF8')
 
