@@ -4,7 +4,6 @@ from Parser import read_wibbi
 import os
 import random
 
-#TODO fixare la funzione che stampa su file
 def print_graph(dataset):
     output = open("graph.txt","w")
     toPrint = ""
