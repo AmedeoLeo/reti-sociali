@@ -76,13 +76,11 @@ def sanitizer(graph):
 #This function reads a wibbi file and returns the resulting graph and the resulting database
 #(to be processed by the ranking algorithm and the matching algorithm, respectively)
 def read_wibbi(filename):
-    """
     topic_graph=dict()
     topic = filename.split("_")[0]
 
     if topic not in topic_graph:
         topic_graph[topic] = dict()
-    """
     infile = open("dataset/"+filename,"r")
     delim=infile.readline().strip() #It will contain the string that wibbi uses a separator
     nl = infile.readline().strip()
@@ -103,7 +101,7 @@ def read_wibbi(filename):
             
             #We parse the html with the above functions
             graph[url]=set(read_links(html))
-            #topic_graph[topic] = graph
+            topic_graph[topic] = graph
             #db[url]=read_content(html)
             
             #We start by reading the url of the next page, if any
