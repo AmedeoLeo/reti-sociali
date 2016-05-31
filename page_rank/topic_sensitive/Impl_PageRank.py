@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 def topicSensitivePageRank(beta, step, confidence):
-    
+    output = open("beta_"+str(beta)+".txt","w")
     graph = readGraph()
     #Initialization
     rank = dict()
@@ -70,11 +70,11 @@ def topicSensitivePageRank(beta, step, confidence):
     print("PAGE RANK COMPLETE")
     print("-----------PRINTING-----------")
     for topic in rank.keys():
-        print topic
+        print >> output ,topic
         for node in rank[topic].keys():
             #if  rank[topic][node] == float('Inf'):
                 #print node
-            print node,  str(rank[topic][node])
+            print >> output, (node,  str(rank[topic][node]))
     return time, rank
 
 
