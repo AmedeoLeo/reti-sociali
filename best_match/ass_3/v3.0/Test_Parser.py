@@ -12,6 +12,15 @@ def printInvertedDB(inverted_db, output):
             toPrint += doc + ","
             toPrint+=str(inverted_db[term][doc])+";"
         print >> output, toPrint
+
+def printCountDB(count_db, output):
+    
+    toPrint = ""
+    for doc in count_db.keys():
+        toPrint = doc + " "
+        for term in count_db[doc]:
+            toPrint += term + ","
+        print >> output, toPrint
         
 def invert(db):
     inverted_db = dict()
@@ -73,6 +82,11 @@ for filename in os.listdir(os.getcwd()+"/dataset/"):
         dataset[filename] = db
         print("----------------")
 print("------FINISHED PARSING-----")
+
+print("------PRINTING COUNT DB-----")
+output = open("count_db.txt","w")
+printCountDB(db, output)
+output.close()
 
 print ("------STARTING INVERSE----------")
 output = open("inverted_db.txt","w")

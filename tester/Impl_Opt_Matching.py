@@ -81,13 +81,18 @@ def opt_best_match(inverted_db, query, threshold):
     sorted_docs = od((x, scores[x]) for x in temp)
     index =1
 
-    output = open("scores.txt","w")
+    #output = open("scores.txt","w")
 
     for doc in sorted_docs:
-        print >> output, index
-        print >> output, doc
-        print >> output, sorted_docs[doc]
-        print >> output, "--------------------------"
+        #print >> output, index
+        #print >> output, doc
+        #print >> output, sorted_docs[doc]
+        #print >> output, "--------------------------"
+
+        if doc not in best_docs.keys():
+           best_docs[doc] = 0
+        best_docs[doc] = sorted_docs[doc]
+        
         if index == 20:
             break
         index+=1
