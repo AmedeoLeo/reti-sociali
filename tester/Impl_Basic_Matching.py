@@ -13,30 +13,31 @@ def create_word_advs():
     global word_advs
     global query_advs
     global totalWords
-    
+
     for line in infile:
         line = line[:-2]
         name_list = line.split(' ',1)
         name=name_list[0]
-        queries=name_list[1].split(',')
         
+        if len(name_list) > 1:
+            queries=name_list[1].split(',')
         
-        for i in range(len(queries)):
-            query_words=queries[i].split()
-            if name not in  totalWords.keys():
-                totalWords[name] = 0
-            totalWords[name] += len(query_words)
-            for word in query_words:
-                if word not in word_advs.keys():
-                    word_advs[word] = dict()
-                if name not in word_advs[word].keys():
-                    word_advs[word][name] =  1 #We use a set for avoid repetitions
-                    #print "aggiungo chiave ", word
-                else:
-                    #print word, " gia presente"
-                    word_advs[word][name] +=  1
-                #It would be possible to save not only the name but also the occurrence of the word in the document / advertiser's request.
-                #In this case, we need to associate each name with an accumulator that counts the number of occurrence of the words.
+            for i in range(len(queries)):
+                query_words=queries[i].split()
+                if name not in  totalWords.keys():
+                    totalWords[name] = 0
+                totalWords[name] += len(query_words)
+                for word in query_words:
+                    if word not in word_advs.keys():
+                        word_advs[word] = dict()
+                    if name not in word_advs[word].keys():
+                        word_advs[word][name] =  1 #We use a set for avoid repetitions
+                        #print "aggiungo chiave ", word
+                    else:
+                        #print word, " gia presente"
+                        word_advs[word][name] +=  1
+                    #It would be possible to save not only the name but also the occurrence of the word in the document / advertiser's request.
+                    #In this case, we need to associate each name with an accumulator that counts the number of occurrence of the words.
 
 def basic_best_match(query, threshold):
     
@@ -93,15 +94,16 @@ def readCountDB():
         
         first_split = line.split(" ")
         doc = first_split[0]
-        terms = first_split[1]
-        second_split = terms.split(",")
-
         if doc not in count_db.keys():
             count_db[doc] = set()
-         
-        for word in second_split:
-            if word not in count_db[doc].keys():
-                count_db[doc].append(word)
-    
+             
+        if len(first_split) > 1:
+            terms = first_split[1]
+            second_split = terms.split(",")
+
+            for word in second_split:
+                if word not in count_db[doc]:
+                    count_db[doc].add(word)
+        
     return count_db
 

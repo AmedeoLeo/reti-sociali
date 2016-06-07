@@ -2,18 +2,18 @@ import timeit
 import sys
 from Impl_Topic_Sensitive_PageRank import readGraph,  topicSensitivePageRank
 from Impl_Opt_Matching import readInvertedDB,  opt_best_match
-from Impl_Basic_Matching import basic_best_match
+from Impl_Basic_Matching import basic_best_match, readCountDB
 from Impl_PageRank import pageRank2
 
 
-def run_basic_best_match(inverted_db):
+def run_basic_best_match():
     print ("///////////////////////// Running Basic Best Match /////////////////////////")
     
-    query=""
+    query="obama,champions league"
     threshold=0
     
     start_time = timeit.default_timer()
-    basic_best_docs = basic_best_match(inverted_db, query,threshold)
+    basic_best_docs = basic_best_match(query,threshold)
     basic_match_elapsed = timeit.default_timer() - start_time
     print (basic_best_docs)
     print (basic_match_elapsed)
@@ -154,10 +154,14 @@ for arg in arguments:
 print ("///////////////////////// Reading Input Files /////////////////////////")
 
 graph = readGraph()
-inverted_db = readInvertedDB()
+if RUN_OBM:
+    inverted_db = readInvertedDB()
+
+
+
 
 if RUN_BBM:
-    basic_best_docs = run_basic_best_match(inverted_db)
+    basic_best_docs = run_basic_best_match()
 if RUN_OBM:
     opt_best_docs = run_opt_best_match(inverted_db)
 if RUN_PR:

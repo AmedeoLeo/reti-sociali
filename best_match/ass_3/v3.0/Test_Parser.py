@@ -85,8 +85,13 @@ print("------FINISHED PARSING-----")
 
 print("------PRINTING COUNT DB-----")
 output = open("count_db.txt","w")
-printCountDB(db, output)
+for filename in dataset.keys():
+    print("-------WRITING "+filename+ "-------------")
+    printCountDB(dataset[filename], output)
+
 output.close()
+print("------DONE-----")
+
 
 print ("------STARTING INVERSE----------")
 output = open("inverted_db.txt","w")
