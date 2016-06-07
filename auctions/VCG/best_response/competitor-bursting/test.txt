@@ -1,0 +1,144 @@
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+1
+y
+valutazioni:  2
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  20
+preferred slot:  0
+payment  0
+
+
+1
+x
+valutazioni:  3
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  30
+preferred slot:  0
+payment  0
+
+
+1
+z
+valutazioni:  1
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  10
+preferred slot:  0
+payment  0
+
+
+1
+y
+valutazioni:  2
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  16
+preferred slot:  0
+payment  0
+
+
+1
+x
+valutazioni:  3
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  24
+preferred slot:  0
+payment  0
+
+
+1
+z
+valutazioni:  1
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  8
+preferred slot:  0
+payment  0
+
+
+1
+y
+valutazioni:  2
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  10
+preferred slot:  0
+payment  0
+
+
+1
+x
+valutazioni:  3
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  15
+preferred slot:  0
+payment  0
+
+
+1
+z
+valutazioni:  1
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  5
+preferred slot:  0
+payment  0
+
+
+2
+y
+valutazioni:  2
+bids precedenti:  [3.0, 2.0, 1.0]
+vecchia utility  -1  nuova utility  5.0
+preferred slot:  1
+payment  1.0
+
+
+2
+x
+valutazioni:  3
+bids precedenti:  [3.0, 2.0, 1.0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  2.0
+
+
+2
+z
+valutazioni:  1
+bids precedenti:  [3.0, 2.0, 1.0]
+vecchia utility  -1  nuova utility  2
+preferred slot:  2
+payment  0
