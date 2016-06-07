@@ -6,87 +6,144 @@ from Impl_Basic_Matching import basic_best_match, readCountDB
 from Impl_PageRank import pageRank2
 
 
-def run_basic_best_match():
-    print ("///////////////////////// Running Basic Best Match /////////////////////////")
+def run_basic_best_match(output):
+    print >> output, "///////////////////////// Basic Best Match /////////////////////////"
     
     query="obama,champions league"
+    print >> output, "Query utilizzate: ", query
     threshold=0
+    print >> output, "Threshold: ", str(threshold)
     
     start_time = timeit.default_timer()
     basic_best_docs = basic_best_match(query,threshold)
     basic_match_elapsed = timeit.default_timer() - start_time
-    print (basic_best_docs)
-    print (basic_match_elapsed)
+    
+    print >> output, "Migliori 20 documenti: "
+    print >> output, basic_best_docs
+    print >> output, "Tempo impiegato: ", str(basic_match_elapsed)
     
     return basic_best_docs
     
     
-def run_opt_best_match(inverted_db):
-    print ("///////////////////////// Running Opt Best Match /////////////////////////")
+def run_opt_best_match(inverted_db, output):
+    print >> output, "///////////////////////// Optimized Best Match /////////////////////////"
     
     query="the winner of uefa champions leaugue"
+    print >> output, "Query utilizzate: ", query
     threshold=0
+    print >> output, "Threshold: ", str(threshold)
     
     start_time = timeit.default_timer()
-    opt_best_docs = opt_best_match(inverted_db, query,threshold)
+    opt_best_docs = opt_best_match(inverted_db,query,threshold)
     opt_match_elapsed = timeit.default_timer() - start_time
+
+    print >> output, "Migliori 20 documenti: "
+    print >> output, opt_best_docs
+    print >> output, "Tempo impiegato: ", str(opt_match_elapsed)
     
-    print (opt_best_docs)
-    print (opt_match_elapsed)
     return opt_best_docs
 
-def run_page_rank(graph):
-    print ("///////////////////////// Running Page Rank /////////////////////////")
+def run_page_rank(graph,output,b,i):
+    print >> output, "///////////////////////// Page Rank /////////////////////////"
+    print >> output, "///////////////////////// Iterazione: ",i," /////////////////////////"
     
-    beta = 0.85
+    beta = b
     step = 100
     confidence = 1
+
+    print >> output, "Beta: ", str(beta)
+    print >> output, "Step massimi: ", str(step)
+    print >> output, "Confidence: ", str(confidence)
     
     start_time = timeit.default_timer()
     steps,  ranks = pageRank2(graph, beta, step,confidence)
     page_rank_elapsed = timeit.default_timer() - start_time
+
+    print >> output, "Step utilizzati: ", str(steps)
+    print >> output, "Ranks: ", ranks
+    print >> output, "Tempo impiegato: ", str(page_rank_elapsed)
     
-    print (page_rank_elapsed)
     return steps, ranks
 
-def run_topic_sensitive_page_rank(graph):
-    print ("///////////////////////// Running Topic Sensitive Page Rank /////////////////////////")
+def run_topic_sensitive_page_rank(graph,output,b,i):
+    print >> output, "///////////////////////// Topic Sensitive Page Rank /////////////////////////"
+    print >> output, "///////////////////////// Iterazione: ",i," /////////////////////////"
     
-    beta = 0.85
+    beta = b
     step = 100
     confidence = 1
+
+    print >> output, "Beta: ", str(beta)
+    print >> output, "Step massimi: ", str(step)
+    print >> output, "Confidence: ", str(confidence)
     
     start_time = timeit.default_timer()
     steps,  ranks = topicSensitivePageRank(graph, beta, step,confidence)
     topic_sensitive_page_rank_elapsed = timeit.default_timer() - start_time
     
-    print (topic_sensitive_page_rank_elapsed)
+    print >> output, "Step utilizzati: ", str(steps)
+    print >> output, "Ranks: ", ranks
+    print >> output, "Tempo impiegato: ", str(topic_sensitive_page_rank_elapsed)
+    
     return steps,  ranks
     
-def combine_basic_match_page_rank(basic_best_docs, page_ranks):
-    print ("///////////////////////// Combining Basic Best Match and Page Rank /////////////////////////")
+def combine_basic_match_page_rank(basic_best_docs, page_ranks, output, i):
+    print >> output, "///////////////////////// Combining Basic Best Match and Page Rank /////////////////////////"
+    print >> output, "///////////////////////// Iterazione: ",i," /////////////////////////"
+
+    start_time = timeit.default_timer()
+    
     tmp = dict()
     for doc in basic_best_docs:
         if doc in page_ranks.keys():
             if doc not in tmp:
                 tmp[doc] = 0
             tmp[doc] = page_ranks[doc]
+
+    temp =  sorted(tmp, key=lambda x: tmp[x], reverse=True)
+    sorted_docs = od((x, tmp[x]) for x in temp)
     
-    print (tmp)
+    combine_basic_match_page_rank_elapsed = timeit.default_timer() - start_time
+
+    print >> output, "Tempo impiegato: ", str(combine_basic_match_page_rank_elapsed)
+
+    print >> output, "Migliori 20 documenti con relativo page rank: "
+    for doc in sorted_docs:
+        print >> output, doc, str(sorted_docs[doc])
+        
     
 
-def combine_opt_match_page_rank(opt_best_docs,  page_ranks):
-    print ("///////////////////////// Combining Opt Best Match and Page Rank /////////////////////////")
+def combine_opt_match_page_rank(opt_best_docs,  page_ranks, output, i):
+    print >> output, "///////////////////////// Combining Opt Best Match and Page Rank /////////////////////////"
+    print >> output, "///////////////////////// Iterazione: ",i," /////////////////////////"
+
+    start_time = timeit.default_timer()
+    
     tmp = dict()
     for doc in opt_best_docs:
         if doc in page_ranks.keys():
             if doc not in tmp:
                 tmp[doc] = 0
             tmp[doc] = page_ranks[doc]
-    print (tmp)
+
+    temp =  sorted(tmp, key=lambda x: tmp[x], reverse=True)
+    sorted_docs = od((x, tmp[x]) for x in temp)
     
-def combine_basic_match_topic_sensitive_page_rank(basic_best_docs,  ts_page_ranks):
-    print ("///////////////////////// Combining Basic Best Match and Topic Sensitive Page Rank /////////////////////////")
+    combine_opt_match_page_rank_elapsed = timeit.default_timer() - start_time
+    print >> output, "Tempo impiegato: ", str(combine_opt_match_page_rank_elapsed)
+
+    print >> output, "Migliori 20 documenti con relativo page rank"
+    for doc in sorted_docs:
+        print >> output, doc, str(sorted_docs[doc])
+                    
+    
+    
+def combine_basic_match_topic_sensitive_page_rank(basic_best_docs,  ts_page_ranks, output, i):
+    print >> output, "///////////////////////// Combining Basic Best Match and Topic Sensitive Page Rank /////////////////////////"
+    print >> output, "///////////////////////// Iterazione: ",i," /////////////////////////"
+
+    start_time = timeit.default_timer()
+    
     tmp = dict()
     for doc in basic_best_docs:
         for topic in ts_page_ranks.keys():
@@ -94,11 +151,24 @@ def combine_basic_match_topic_sensitive_page_rank(basic_best_docs,  ts_page_rank
                 if doc not in tmp:
                     tmp[doc] = 0
             tmp[doc] = ts_page_ranks[topic][doc]
-    print (tmp)
+            
+    temp =  sorted(tmp, key=lambda x: tmp[x], reverse=True)
+    sorted_docs = od((x, tmp[x]) for x in temp)
     
+    combine_basic_match_topic_sensitive_page_rank = timeit.default_timer() - start_time
+    print >> output, "Tempo impiegato: ", str(combine_basic_match_topic_sensitive_page_rank)
+
+    print >> output, "Migliori 20 documenti con relativo topic sensitive page rank: "
+    for doc in sorted_docs:
+        print >> output, doc, str(sorted_docs[doc])
+            
     
-def combine_opt_match_topic_sensitive_page_rank(opt_best_docs,  ts_page_ranks):
-    print ("///////////////////////// Combining Opt Best Match and Topic Sensitive Page Rank /////////////////////////")
+def combine_opt_match_topic_sensitive_page_rank(opt_best_docs,  ts_page_ranks, output, i):
+    print >> output, "///////////////////////// Combining Opt Best Match and Topic Sensitive Page Rank /////////////////////////"
+    print >> output, "///////////////////////// Iterazione: ",i," /////////////////////////"
+
+    start_time = timeit.default_timer()
+
     tmp = dict()
     for doc in opt_best_docs:
         for topic in ts_page_ranks.keys():
@@ -106,7 +176,16 @@ def combine_opt_match_topic_sensitive_page_rank(opt_best_docs,  ts_page_ranks):
                 if doc not in tmp:
                     tmp[doc] = 0
             tmp[doc] = ts_page_ranks[topic][doc]
-    print (tmp)
+            
+    temp =  sorted(tmp, key=lambda x: tmp[x], reverse=True)
+    sorted_docs = od((x, tmp[x]) for x in temp)
+    
+    combine_opt_match_topic_sensitive_page_rank = timeit.default_timer() - start_time
+    print >> output, "Tempo impiegato: ", str(combine_opt_match_topic_sensitive_page_rank)
+
+    print >> output, "Migliori 20 documenti con relativo topic sensitive page rank: "
+    for doc in sorted_docs:
+        print >> output, doc, str(sorted_docs[doc])
 
 
 #Best Match control flags
@@ -130,7 +209,7 @@ next(arguments)
 
 #Switching input flags
 for arg in arguments:
-    print (arg)
+    #print (arg)
     if arg=="bbm":
         RUN_BBM = True
     elif arg=="obm":
@@ -150,35 +229,43 @@ for arg in arguments:
     else:
         raise IOError("error passing arguments")
 
-        
-print ("///////////////////////// Reading Input Files /////////////////////////")
+starting_beta = 0.8
+output = open("result.txt", "w")
+print >> output, "Arguments: ",arg
+print >> output, "///////////////////////// Reading Input Files /////////////////////////"
 
 graph = readGraph()
 if RUN_OBM:
     inverted_db = readInvertedDB()
 
-
-
-
 if RUN_BBM:
-    basic_best_docs = run_basic_best_match()
+    basic_best_docs = run_basic_best_match(output)
+    
 if RUN_OBM:
-    opt_best_docs = run_opt_best_match(inverted_db)
+    opt_best_docs = run_opt_best_match(inverted_db,output)
+    
 if RUN_PR:
-    page_ranks = run_page_rank(graph)
+    curr_beta = starting_beta
+    for i in range(10):
+        page_ranks = run_page_rank(graph,output,curr_beta,i)
+        if COM_BBM_PR:
+            combine_basic_match_page_rank(basic_best_docs, page_ranks,output,i)
+        if COM_OBM_PR:
+            combine_opt_match_page_rank(opt_best_docs, page_ranks,output,i)
+        curr_beta+=0.01
+        
 if RUN_TSPR:
-    ts_page_ranks = run_topic_sensitive_page_rank(graph)
-if COM_BBM_PR:
-    combine_basic_match_page_rank(basic_best_docs, page_ranks)
-if COM_OBM_PR:
-    combine_opt_match_page_rank(opt_best_docs,  page_ranks)
-if COM_BBM_TSPR:
-    combine_basic_match_topic_sensitive_page_rank(basic_best_docs,  ts_page_ranks)
-if COM_OBM_TSPR:
-    combine_opt_match_topic_sensitive_page_rank(opt_best_docs,  ts_page_ranks)
+    curr_beta = starting_beta
+    for i in range(10):
+        ts_page_ranks = run_topic_sensitive_page_rank(graph,output,curr_beta,i)
+        if COM_BBM_TSPR:
+            combine_basic_match_topic_sensitive_page_rank(basic_best_docs, ts_page_ranks,output,i)
+        if COM_OBM_TSPR:
+            combine_opt_match_topic_sensitive_page_rank(opt_best_docs, ts_page_ranks,output,i)
+        curr_beta+=0.01
 
 
-print ("///////////////////////// Testing Finished /////////////////////////")
-
+print >> ouput, "///////////////////////// Testing Finished /////////////////////////"
+output.close()
 
     
