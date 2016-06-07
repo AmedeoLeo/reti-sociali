@@ -4,7 +4,7 @@ from Impl_Topic_Sensitive_PageRank import readGraph,  topicSensitivePageRank
 from Impl_Opt_Matching import readInvertedDB,  opt_best_match
 from Impl_Basic_Matching import basic_best_match, readCountDB
 from Impl_PageRank import pageRank2
-
+from collections import OrderedDict as od
 
 def run_basic_best_match(output):
     print >> output, "///////////////////////// Basic Best Match /////////////////////////"
@@ -63,7 +63,7 @@ def run_page_rank(graph,output,b,i):
     print >> output, "Ranks: ", ranks
     print >> output, "Tempo impiegato: ", str(page_rank_elapsed)
     
-    return steps, ranks
+    return ranks
 
 def run_topic_sensitive_page_rank(graph,output,b,i):
     print >> output, "///////////////////////// Topic Sensitive Page Rank /////////////////////////"
@@ -85,7 +85,7 @@ def run_topic_sensitive_page_rank(graph,output,b,i):
     print >> output, "Ranks: ", ranks
     print >> output, "Tempo impiegato: ", str(topic_sensitive_page_rank_elapsed)
     
-    return steps,  ranks
+    return ranks
     
 def combine_basic_match_page_rank(basic_best_docs, page_ranks, output, i):
     print >> output, "///////////////////////// Combining Basic Best Match and Page Rank /////////////////////////"
@@ -95,10 +95,12 @@ def combine_basic_match_page_rank(basic_best_docs, page_ranks, output, i):
     
     tmp = dict()
     for doc in basic_best_docs:
-        if doc in page_ranks.keys():
-            if doc not in tmp:
-                tmp[doc] = 0
-            tmp[doc] = page_ranks[doc]
+	for doc2 in page_ranks:
+		if doc==doc2:
+            		if doc not in tmp:
+                		tmp[doc] = 0
+            		tmp[doc] = page_ranks[doc]
+		break
 
     temp =  sorted(tmp, key=lambda x: tmp[x], reverse=True)
     sorted_docs = od((x, tmp[x]) for x in temp)
@@ -121,10 +123,12 @@ def combine_opt_match_page_rank(opt_best_docs,  page_ranks, output, i):
     
     tmp = dict()
     for doc in opt_best_docs:
-        if doc in page_ranks.keys():
-            if doc not in tmp:
-                tmp[doc] = 0
-            tmp[doc] = page_ranks[doc]
+	for doc2 in page_ranks:
+		if doc==doc2:
+            		if doc not in tmp:
+                		tmp[doc] = 0
+            		tmp[doc] = page_ranks[doc]
+		break
 
     temp =  sorted(tmp, key=lambda x: tmp[x], reverse=True)
     sorted_docs = od((x, tmp[x]) for x in temp)
@@ -147,10 +151,12 @@ def combine_basic_match_topic_sensitive_page_rank(basic_best_docs,  ts_page_rank
     tmp = dict()
     for doc in basic_best_docs:
         for topic in ts_page_ranks.keys():
-            if doc in ts_page_ranks[topic]:
-                if doc not in tmp:
-                    tmp[doc] = 0
-            tmp[doc] = ts_page_ranks[topic][doc]
+		for doc2 in ts_page_ranks[topic]:
+			if doc==doc2:
+				if doc not in tmp:
+                    			tmp[doc] = 0
+            			tmp[doc] = ts_page_ranks[topic][doc]
+		break
             
     temp =  sorted(tmp, key=lambda x: tmp[x], reverse=True)
     sorted_docs = od((x, tmp[x]) for x in temp)
@@ -172,10 +178,12 @@ def combine_opt_match_topic_sensitive_page_rank(opt_best_docs,  ts_page_ranks, o
     tmp = dict()
     for doc in opt_best_docs:
         for topic in ts_page_ranks.keys():
-            if doc in ts_page_ranks[topic]:
-                if doc not in tmp:
-                    tmp[doc] = 0
-            tmp[doc] = ts_page_ranks[topic][doc]
+		for doc2 in ts_page_ranks[topic]:
+			if doc==doc2:
+				if doc not in tmp:
+                    			tmp[doc] = 0
+            			tmp[doc] = ts_page_ranks[topic][doc]
+		break
             
     temp =  sorted(tmp, key=lambda x: tmp[x], reverse=True)
     sorted_docs = od((x, tmp[x]) for x in temp)
@@ -206,9 +214,10 @@ COM_OBM_TSPR = False
 arguments = iter(sys.argv)
 #skip the first: name of the script
 next(arguments)
-
+nomeFile="result"
 #Switching input flags
 for arg in arguments:
+    nomeFile=nomeFile+"_"+arg
     #print (arg)
     if arg=="bbm":
         RUN_BBM = True
@@ -229,8 +238,9 @@ for arg in arguments:
     else:
         raise IOError("error passing arguments")
 
+nomeFile=nomeFile+".txt"
 starting_beta = 0.8
-output = open("result.txt", "w")
+output = open(nomeFile, "w")
 print >> output, "Arguments: ",arg
 print >> output, "///////////////////////// Reading Input Files /////////////////////////"
 
@@ -253,7 +263,9 @@ if RUN_PR:
         if COM_OBM_PR:
             combine_opt_match_page_rank(opt_best_docs, page_ranks,output,i)
         curr_beta+=0.01
-        
+
+    print "Page Rank finish"
+
 if RUN_TSPR:
     curr_beta = starting_beta
     for i in range(10):
@@ -263,9 +275,9 @@ if RUN_TSPR:
         if COM_OBM_TSPR:
             combine_opt_match_topic_sensitive_page_rank(opt_best_docs, ts_page_ranks,output,i)
         curr_beta+=0.01
+    print "TS Page Rank finish"
 
-
-print >> ouput, "///////////////////////// Testing Finished /////////////////////////"
+print >> output, "///////////////////////// Testing Finished /////////////////////////"
 output.close()
 
     
