@@ -64,7 +64,7 @@ format = next(arguments)
 all_slots = ["id1",  "id2",  "id3", "id4", "id5"]
 #All the queries
 #all_queries=["query1",  "query2", "query3","query4",  "query5", "query6","query7",  "query8", "query9", "query10"]
-all_queries = ["query1"]
+all_queries = ["query1", "query2"]
 #All the advertisers
 all_advertisers = ["adv1", "adv2", "adv3", "adv4", "adv5", "adv6","adv7"]
 #all_advertisers = ["adv1","adv2"]
@@ -90,7 +90,7 @@ revenue_dict = []
 auction_utility = []
 auction_revenue = []
 
-"""
+
  #Slots' clickthrough rates
 slot_ctrs=dict()
 slot_ctrs["query1"] = dict()
@@ -98,36 +98,66 @@ slot_ctrs["query1"]["id1"] = 6
 slot_ctrs["query1"]["id2"] = 5
 slot_ctrs["query1"]["id3"] = 4
 
+slot_ctrs["query2"] = dict()
+slot_ctrs["query2"]["id1"] = 4
+slot_ctrs["query2"]["id2"] = 2
+slot_ctrs["query2"]["id3"] = 1
 
 
 #Advertisers' values
 adv_values=dict()
 adv_values["query1"] = dict()
-adv_values["query1"]["x"] = 5
-adv_values["query1"]["y"] = 4
-adv_values["query1"]["z"] = 5
-"""
+adv_values["query1"]["x"] = dict()
+adv_values["query1"]["x"]["id1"] = 5
+adv_values["query1"]["x"]["id2"] = 4
+adv_values["query1"]["x"]["id3"] = 3
+
+adv_values["query1"]["y"] = dict()
+adv_values["query1"]["y"]["id1"] = 7
+adv_values["query1"]["y"]["id2"] = 3
+adv_values["query1"]["y"]["id3"] = 2
+
+adv_values["query1"]["z"] = dict()
+adv_values["query1"]["z"]["id1"] = 3
+adv_values["query1"]["z"]["id2"] = 2
+adv_values["query1"]["z"]["id3"] = 1
+
+adv_values["query2"] = dict()
+adv_values["query2"]["x"] = dict()
+adv_values["query2"]["x"]["id1"] = 8
+adv_values["query2"]["x"]["id2"] = 5
+adv_values["query2"]["x"]["id3"] = 2
+
+adv_values["query2"]["y"] = dict()
+adv_values["query2"]["y"]["id1"] = 5
+adv_values["query2"]["y"]["id2"] = 2
+adv_values["query2"]["y"]["id3"] = 1
+
+adv_values["query2"]["z"] = dict()
+adv_values["query2"]["z"]["id1"] = 4
+adv_values["query2"]["z"]["id2"] = 2
+adv_values["query2"]["z"]["id3"] = 1
+
 
 for iter in range(0, iterations):
     
     print ("****************** RUN ", str(iter), "******************")
     
-   
-    """
-    #budgets
-    adv_sbudg = dict()
-    adv_sbudg["x"] = 150
-    adv_sbudg["y"] = 100
-    adv_sbudg["z"] = 60
-    """
-    adv_sbudget = dict()
-    slot_ctrs = dict()
-    adv_values = dict()
+    #adv_sbudget = dict()
+    #slot_ctrs = dict()
+    #adv_values = dict()
     adv_bids = dict()
     adv_utility = dict()
     
-    #for each query, inizialize all the data structures (click-through rate, values)
+    done = False
+    step = 0
+    viewed_query = 0
+    history=[]
+    adv_revenue = dict()
     
+    
+    #for each query, inizialize all the data structures (click-through rate, values)
+    """
     for q in all_queries:
         if q not in slot_ctrs:
             #num_slots = randint(1, len(all_slots))
@@ -153,19 +183,25 @@ for iter in range(0, iterations):
     #randomly inizialize the starting budget for each adverstiser
     for adv in all_advertisers:
         adv_sbudget[adv] = randint(20, 60) 
+    """
     
-    done = False
-    step = 0
-    viewed_query = 0
-    adv_cbudg = adv_sbudget
-    history=[]
-    adv_bids = dict()
-    adv_utility = dict()
-    adv_revenue = dict()
+
+    #budgets
+    adv_sbudg = dict()
+    adv_sbudg["x"] = 150
+    adv_sbudg["y"] = 100
+    adv_sbudg["z"] = 60
     
+    adv_cbudg = adv_sbudg
+
     while not done and step < max_step:
         done = True
         for query in adv_values.keys():
+            if query not in adv_utility:
+                adv_utility[query] = dict()
+            if query not in adv_revenue:
+                adv_revenue[query] = dict()
+                
             viewed_query +=1
             if query not in adv_bids:
                 adv_bids[query] = dict()
@@ -176,7 +212,7 @@ for iter in range(0, iterations):
 
                    
                 if strategy == "altruistic":
-                    adv_bids[query][i] = altruistic_best_response(i,adv_values[query][i],slot_ctrs[query],history, query, step)
+                    adv_bids[query][i] = random_bot(i,adv_values[query][i],slot_ctrs[query],history, query, step)
             
                  
                 elif strategy =="comp_burst":   
@@ -199,7 +235,7 @@ for iter in range(0, iterations):
                 break
                         
             if format == "fp":
-                adv_slots, adv_pays = balance(slot_ctrs[query],adv_bids[query], adv_cbudg, adv_sbudget)
+                adv_slots, adv_pays = balance(slot_ctrs[query],adv_bids[query], adv_cbudg, adv_sbudg)
             elif format =="vcg":
                 adv_slots, adv_pays = vcg(slot_ctrs[query],adv_bids[query])
             
@@ -209,13 +245,14 @@ for iter in range(0, iterations):
             for adv in adv_pays:
                 #se ogni bidder non ha piu budget mi fermo
                 if adv_pays[adv] <  adv_cbudg[adv]:
-                    if adv not in adv_utility:
-                        adv_utility[adv] = 0
-                    if adv not in adv_revenue:
-                        adv_revenue[adv] = 0
-
-                    adv_utility[adv] = adv_values[query][adv] - adv_pays[adv]
-                    adv_revenue[adv] =   adv_pays[adv]
+                    if adv not in adv_utility[query]:
+                        adv_utility[query][adv] = 0
+                    if adv not in adv_revenue[query]:
+                        adv_revenue[query][adv] = 0
+                    #print ("il giocatore ",adv," ha vinto lo slot ",  adv_slots[adv], " ed e' felice ", adv_values[query][adv][adv_slots[adv]], " anche se paga: ", str(adv_pays[adv]))
+                    adv_utility[query][adv] = adv_values[query][adv][adv_slots[adv]] - adv_pays[adv]
+                    adv_revenue[query][adv] =   adv_pays[adv]
+                    
                     adv_cbudg[adv]-=adv_pays[adv]
                     done = False
         
@@ -235,30 +272,26 @@ for iter in range(0, iterations):
     
     tot_utility = 0
     tot_revenue = 0
-    for adv in adv_utility:
-        tot_utility+=adv_utility[adv]
+    for query in adv_utility:
+        for adv in adv_utility[query]:
+            tot_utility+=adv_utility[query][adv]
     auction_utility.append(tot_utility)
-    for adv in adv_revenue:
-        tot_revenue+=adv_revenue[adv]
+    for query in adv_revenue:
+        for adv in adv_revenue[query]:
+            tot_revenue+=adv_revenue[query][adv]
     auction_revenue.append(tot_revenue)
 
 
 temp1 =0
 temp2=0
 output =open("balanced.txt", "w")
-   
-denom_rv =0
-denom_ut=0
- 
- 
-
         
 for ut in auction_utility:
     temp1+=ut
 for rv in auction_revenue:
     temp2+=rv
     
-print >> output, "media utilita (con l'accento): ", temp1/iterations
+print >> output, "media utilita: ", temp1/iterations
 print >> output, "media revenue: ", temp2/iterations
 
 

@@ -71,7 +71,8 @@ def best_response(name, adv_value, slot_ctrs, history):
     
     sort_bids=sorted(adv_bids.values(), reverse=True)
     sort_slots=sorted(slot_ctrs.keys(), key=slot_ctrs.__getitem__, reverse=True)
-    print >> output,  "valutazioni: ",  adv_value
+    for slot in adv_value:
+        print >> output,  "valutazione dello slot ",slot, ": ",  str(adv_value[slot])
     print >> output,"bids precedenti: ",  sort_bids
 
     #Saving the index of slots assigned at the advertiser in the previous auction
@@ -99,7 +100,7 @@ def best_response(name, adv_value, slot_ctrs, history):
             tmp_pay = sort_bids[i+1] #then, I must pay for that slot the bid of the next advertiser
         
     #2) Evaluate for each slot, which one gives to the advertiser the largest utility
-        new_utility = slot_ctrs[sort_slots[i]]*(adv_value-tmp_pay)
+        new_utility = slot_ctrs[sort_slots[i]]*(adv_value[sort_slots[i]]-tmp_pay)
         
         if new_utility > utility:
             print >> output,  "vecchia utility ", str(utility),  " nuova utility ",  str(new_utility)
@@ -113,21 +114,24 @@ def best_response(name, adv_value, slot_ctrs, history):
     if preferred_slot == -1:
         
         # TIE-BREAKING RULE: I choose the largest bid smaller than my value for which I lose
-        print >> output,"Rule 1: new bid: ", min(adv_value, sort_bids[len(sort_slots)])
-        return min(adv_value, sort_bids[len(sort_slots)])
+        #print >> output,"Rule 1: new bid: ", min(adv_value, sort_bids[len(sort_slots)])
+        sum = 0
+        for slot in adv_value:
+            sum += adv_value[slot]
+        return min(sum/len(adv_value.keys()), sort_bids[len(sort_slots)])
     
     if preferred_slot == 0:
         """Questa regola vale nel caso in cui ho vinto il miglior slot al passo precedente 
             e voglio mantenerlo. Devo quindi alzare la mia offerta basandomi su quello che il secondo 
             miglior offerente ha offerto al passo precedente:  payment = sort_bids[i+1]"""
         # TIE-BREAKING RULE: I choose the bid that is exactly in the middle between my own value and the next bid
-        print >> output,"Rule 2: new bid: ", float(adv_value+payment)/2
+        #print >> output,"Rule 2: new bid: ", float(adv_value+payment)/2
 
-        return float(adv_value+payment)/2
+        return float(adv_value[sort_slots[preferred_slot]]+payment)/2
     """Questa regola vale nel caso in cui voglio prendere uno slot migliore di quello preso precedentemente
     e tento di avvicinarmi alla valutazione migliore offerta dal precedente vincitore"""
     #TIE-BREAKING RULE: If I like slot j, I choose the bid b_i for which I am indifferent from taking j at computed price or taking j-1 at price b_i
-    print >> output,"Rule 3: new bid: ",  (adv_value - float(slot_ctrs[sort_slots[preferred_slot]])/slot_ctrs[sort_slots[preferred_slot-1]] * (adv_value - payment))
+    #print >> output,"Rule 3: new bid: ",  (adv_value - float(slot_ctrs[sort_slots[preferred_slot]])/slot_ctrs[sort_slots[preferred_slot-1]] * (adv_value - payment))
 
-    return (adv_value - float(slot_ctrs[sort_slots[preferred_slot]])/slot_ctrs[sort_slots[preferred_slot-1]] * (adv_value - payment))
+    return (adv_value[sort_slots[preferred_slot]] - float(slot_ctrs[sort_slots[preferred_slot]])/slot_ctrs[sort_slots[preferred_slot-1]] * (adv_value[sort_slots[preferred_slot]] - payment))
     

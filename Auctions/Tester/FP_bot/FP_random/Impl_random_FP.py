@@ -48,11 +48,14 @@ def random_bot(name, adv_value, slot_ctrs, history, query, step):
     
     sort_bids=sorted(adv_bids.values(), reverse=True)
     #sort_slots=sorted(slot_ctrs.keys(), key=slot_ctrs.__getitem__, reverse=True)
-    print >> output,  "valutazioni: ",  adv_value
+    for slot in adv_value:
+        print >> output,  "valutazione dello slot ",slot, ": ",  str(adv_value[slot])
     print >> output,"bids precedenti: ",  sort_bids
 
-  
-    payment = randint(0, adv_value)
+    sum = 0
+    for slot in adv_value:
+        sum+=adv_value[slot]
+    payment = randint(0, int(sum/len(adv_value.keys())))
     print >> output,"bidder: ", name,  "payment ",  str(payment),  "budget: ",  str(adv_cbudg[name])
     if payment > adv_cbudg[name]:
         return adv_cbudg[name]

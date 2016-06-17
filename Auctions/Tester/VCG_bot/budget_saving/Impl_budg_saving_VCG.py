@@ -38,28 +38,35 @@ def budget_saving_bot(name, adv_value, slot_ctrs, history, query, step):
     #step = len(history)
     print >>output,"\n"
     print >> output,  step
-
+    
     print >> output,  name
-
+    sort_slots=sorted(slot_ctrs.keys(), key=slot_ctrs.__getitem__, reverse=True)
     #If this is the first step there is no history and no best-response is possible
     #We suppose that adevertisers simply bid their value.
     #Other possibilities would be to bid 0 or to choose a bid randomly between 0 and their value.
+    min_val = adv_value[sort_slots[0]]
+    for i in range(len(sort_slots)):
+        if min_val > adv_value[sort_slots[i]]:
+            min_val = adv_value[sort_slots[i]]
+            
     if step == 0:
-        return adv_value
-        #return adv_value
+        return min_val
+        #return 0
  
     #Initialization
     #adv_slots=history[step-1][query]["adv_slots"]
+    if query not in history[step-1]:
+        return
     adv_bids=history[step-1][query]["adv_bids"]
     adv_cbudg=history[step-1][query]["adv_cbudg"]
     
     sort_bids=sorted(adv_bids.values(), reverse=True)
     #sort_slots=sorted(slot_ctrs.keys(), key=slot_ctrs.__getitem__, reverse=True)
-    print >> output,  "valutazioni: ",  adv_value
+    for slot in adv_value:
+        print >> output,  "valutazione dello slot ",slot, ": ",  str(adv_value[slot])
     print >> output,"bids precedenti: ",  sort_bids
 
-  
-    payment = min(adv_value, sort_bids[len(sort_bids)-1])
+    payment = min(min_val, sort_bids[len(sort_bids)-1])
     print >> output,"bidder: ", name,  "payment ",  str(payment),  "budget: ",  str(adv_cbudg[name])
     if payment > adv_cbudg[name]:
         return adv_cbudg[name]

@@ -36,7 +36,7 @@ def vcg(slot_ctrs, adv_bids):
     return adv_slots,  adv_pays
 #We implement a possible bot for an advertiser in a repeated GSP auction
 
-def best_response(name, adv_value, slot_ctrs, history, query, step):
+def comp_burst_best_response(name, adv_value, slot_ctrs, history, query, step):
     #step = len(history)
     print >>output,"\n"
     print >> output,  step
@@ -57,7 +57,8 @@ def best_response(name, adv_value, slot_ctrs, history, query, step):
     
     sort_bids=sorted(adv_bids.values(), reverse=True)
     sort_slots=sorted(slot_ctrs.keys(), key=slot_ctrs.__getitem__, reverse=True)
-    print >> output,  "valutazioni: ",  adv_value
+    for slot in adv_value:
+        print >> output,  "valutazione dello slot ",slot, ": ",  str(adv_value[slot])
     print >> output,"bids precedenti: ",  sort_bids
 
     #Saving the index of slots assigned at the advertiser in the previous auction
@@ -85,7 +86,7 @@ def best_response(name, adv_value, slot_ctrs, history, query, step):
             tmp_pay = sort_bids[i+1] #then, I must pay for that slot the bid of the next advertiser
         
     #2) Evaluate for each slot, which one gives to the advertiser the largest utility
-        new_utility = slot_ctrs[sort_slots[i]]*(adv_value-tmp_pay)
+        new_utility = slot_ctrs[sort_slots[i]]*(adv_value[sort_slots[i]]-tmp_pay)
         
         if new_utility > utility:
             print >> output,  "vecchia utility ", str(utility),  " nuova utility ",  str(new_utility)
@@ -100,7 +101,10 @@ def best_response(name, adv_value, slot_ctrs, history, query, step):
     if preferred_slot == -1:
         
         # TIE-BREAKING RULE: I choose the largest bid smaller than my value for which I lose
-        toPay = min(adv_value, sort_bids[len(sort_slots)])
+        sum = 0
+        for slot in adv_value:
+            sum += adv_value[slot]
+        toPay = max(sum/len(adv_value.keys()), sort_bids[len(sort_slots)])
         if toPay < adv_cbudg[name]:
             return toPay
         else:
@@ -109,8 +113,8 @@ def best_response(name, adv_value, slot_ctrs, history, query, step):
     if preferred_slot == 0:
        
         # TIE-BREAKING RULE: I choose the bid that is exactly in the middle between my own value and the next bid
-        if adv_value <= adv_cbudg[name]:
-            return adv_value
+        if adv_value[sort_slots[preferred_slot]] <= adv_cbudg[name]:
+            return adv_value[sort_slots[preferred_slot]]
         else:
             return adv_cbudg[name]
  

@@ -46,7 +46,8 @@ def competitor_bursting_bot(name, adv_value, slot_ctrs, history, query, step):
     
     sort_bids=sorted(adv_bids.values(), reverse=True)
     #sort_slots=sorted(slot_ctrs.keys(), key=slot_ctrs.__getitem__, reverse=True)
-    print >> output,  "valutazioni: ",  adv_value
+    for slot in adv_value:
+        print >> output,  "valutazione dello slot ",slot, ": ",  str(adv_value[slot])
     print >> output,"bids precedenti: ",  sort_bids
 
   
