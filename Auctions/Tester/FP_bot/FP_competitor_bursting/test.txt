@@ -1,0 +1,666 @@
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+1
+y
+valutazioni:  4
+bids precedenti:  [0, 0, 0]
+bidder:  y payment  1 budget:  100
+
+
+1
+x
+valutazioni:  5
+bids precedenti:  [0, 0, 0]
+bidder:  x payment  1 budget:  150
+
+
+1
+z
+valutazioni:  2
+bids precedenti:  [0, 0, 0]
+bidder:  z payment  1 budget:  60
+
+
+1
+y
+valutazioni:  2
+bids precedenti:  [0, 0, 0]
+bidder:  y payment  1 budget:  100
+
+
+1
+x
+valutazioni:  3
+bids precedenti:  [0, 0, 0]
+bidder:  x payment  1 budget:  150
+
+
+1
+z
+valutazioni:  1
+bids precedenti:  [0, 0, 0]
+bidder:  z payment  1 budget:  60
+
+
+1
+y
+valutazioni:  1
+bids precedenti:  [0, 0, 0]
+bidder:  y payment  1 budget:  100
+
+
+1
+x
+valutazioni:  2
+bids precedenti:  [0, 0, 0]
+bidder:  x payment  1 budget:  150
+
+
+1
+z
+valutazioni:  0
+bids precedenti:  [0, 0, 0]
+bidder:  z payment  1 budget:  60
+
+
+2
+y
+valutazioni:  4
+bids precedenti:  [1, 1, 1]
+bidder:  y payment  2 budget:  99
+
+
+2
+x
+valutazioni:  5
+bids precedenti:  [1, 1, 1]
+bidder:  x payment  2 budget:  149
+
+
+2
+z
+valutazioni:  2
+bids precedenti:  [1, 1, 1]
+bidder:  z payment  2 budget:  59
+
+
+2
+y
+valutazioni:  2
+bids precedenti:  [1, 1, 1]
+bidder:  y payment  2 budget:  98
+
+
+2
+x
+valutazioni:  3
+bids precedenti:  [1, 1, 1]
+bidder:  x payment  2 budget:  148
+
+
+2
+z
+valutazioni:  1
+bids precedenti:  [1, 1, 1]
+bidder:  z payment  2 budget:  58
+
+
+2
+y
+valutazioni:  1
+bids precedenti:  [1, 1, 1]
+bidder:  y payment  2 budget:  97
+
+
+2
+x
+valutazioni:  2
+bids precedenti:  [1, 1, 1]
+bidder:  x payment  2 budget:  147
+
+
+2
+z
+valutazioni:  0
+bids precedenti:  [1, 1, 1]
+bidder:  z payment  2 budget:  57
+
+
+3
+y
+valutazioni:  4
+bids precedenti:  [2, 2, 2]
+bidder:  y payment  3 budget:  95
+
+
+3
+x
+valutazioni:  5
+bids precedenti:  [2, 2, 2]
+bidder:  x payment  3 budget:  145
+
+
+3
+z
+valutazioni:  2
+bids precedenti:  [2, 2, 2]
+bidder:  z payment  3 budget:  55
+
+
+3
+y
+valutazioni:  2
+bids precedenti:  [2, 2, 2]
+bidder:  y payment  3 budget:  93
+
+
+3
+x
+valutazioni:  3
+bids precedenti:  [2, 2, 2]
+bidder:  x payment  3 budget:  143
+
+
+3
+z
+valutazioni:  1
+bids precedenti:  [2, 2, 2]
+bidder:  z payment  3 budget:  53
+
+
+3
+y
+valutazioni:  1
+bids precedenti:  [2, 2, 2]
+bidder:  y payment  3 budget:  91
+
+
+3
+x
+valutazioni:  2
+bids precedenti:  [2, 2, 2]
+bidder:  x payment  3 budget:  141
+
+
+3
+z
+valutazioni:  0
+bids precedenti:  [2, 2, 2]
+bidder:  z payment  3 budget:  51
+
+
+4
+y
+valutazioni:  4
+bids precedenti:  [3, 3, 3]
+bidder:  y payment  4 budget:  88
+
+
+4
+x
+valutazioni:  5
+bids precedenti:  [3, 3, 3]
+bidder:  x payment  4 budget:  138
+
+
+4
+z
+valutazioni:  2
+bids precedenti:  [3, 3, 3]
+bidder:  z payment  4 budget:  48
+
+
+4
+y
+valutazioni:  2
+bids precedenti:  [3, 3, 3]
+bidder:  y payment  4 budget:  85
+
+
+4
+x
+valutazioni:  3
+bids precedenti:  [3, 3, 3]
+bidder:  x payment  4 budget:  135
+
+
+4
+z
+valutazioni:  1
+bids precedenti:  [3, 3, 3]
+bidder:  z payment  4 budget:  45
+
+
+4
+y
+valutazioni:  1
+bids precedenti:  [3, 3, 3]
+bidder:  y payment  4 budget:  82
+
+
+4
+x
+valutazioni:  2
+bids precedenti:  [3, 3, 3]
+bidder:  x payment  4 budget:  132
+
+
+4
+z
+valutazioni:  0
+bids precedenti:  [3, 3, 3]
+bidder:  z payment  4 budget:  42
+
+
+5
+y
+valutazioni:  4
+bids precedenti:  [4, 4, 4]
+bidder:  y payment  5 budget:  78
+
+
+5
+x
+valutazioni:  5
+bids precedenti:  [4, 4, 4]
+bidder:  x payment  5 budget:  128
+
+
+5
+z
+valutazioni:  2
+bids precedenti:  [4, 4, 4]
+bidder:  z payment  5 budget:  38
+
+
+5
+y
+valutazioni:  2
+bids precedenti:  [4, 4, 4]
+bidder:  y payment  5 budget:  74
+
+
+5
+x
+valutazioni:  3
+bids precedenti:  [4, 4, 4]
+bidder:  x payment  5 budget:  124
+
+
+5
+z
+valutazioni:  1
+bids precedenti:  [4, 4, 4]
+bidder:  z payment  5 budget:  34
+
+
+5
+y
+valutazioni:  1
+bids precedenti:  [4, 4, 4]
+bidder:  y payment  5 budget:  70
+
+
+5
+x
+valutazioni:  2
+bids precedenti:  [4, 4, 4]
+bidder:  x payment  5 budget:  120
+
+
+5
+z
+valutazioni:  0
+bids precedenti:  [4, 4, 4]
+bidder:  z payment  5 budget:  30
+
+
+6
+y
+valutazioni:  4
+bids precedenti:  [5, 5, 5]
+bidder:  y payment  6 budget:  65
+
+
+6
+x
+valutazioni:  5
+bids precedenti:  [5, 5, 5]
+bidder:  x payment  6 budget:  115
+
+
+6
+z
+valutazioni:  2
+bids precedenti:  [5, 5, 5]
+bidder:  z payment  6 budget:  25
+
+
+6
+y
+valutazioni:  2
+bids precedenti:  [5, 5, 5]
+bidder:  y payment  6 budget:  60
+
+
+6
+x
+valutazioni:  3
+bids precedenti:  [5, 5, 5]
+bidder:  x payment  6 budget:  110
+
+
+6
+z
+valutazioni:  1
+bids precedenti:  [5, 5, 5]
+bidder:  z payment  6 budget:  20
+
+
+6
+y
+valutazioni:  1
+bids precedenti:  [5, 5, 5]
+bidder:  y payment  6 budget:  55
+
+
+6
+x
+valutazioni:  2
+bids precedenti:  [5, 5, 5]
+bidder:  x payment  6 budget:  105
+
+
+6
+z
+valutazioni:  0
+bids precedenti:  [5, 5, 5]
+bidder:  z payment  6 budget:  15
+
+
+7
+y
+valutazioni:  4
+bids precedenti:  [6, 6, 6]
+bidder:  y payment  7 budget:  49
+
+
+7
+x
+valutazioni:  5
+bids precedenti:  [6, 6, 6]
+bidder:  x payment  7 budget:  99
+
+
+7
+z
+valutazioni:  2
+bids precedenti:  [6, 6, 6]
+bidder:  z payment  7 budget:  9
+
+
+7
+y
+valutazioni:  2
+bids precedenti:  [6, 6, 6]
+bidder:  y payment  7 budget:  43
+
+
+7
+x
+valutazioni:  3
+bids precedenti:  [6, 6, 6]
+bidder:  x payment  7 budget:  93
+
+
+7
+z
+valutazioni:  1
+bids precedenti:  [6, 6, 6]
+bidder:  z payment  7 budget:  3
+
+
+7
+y
+valutazioni:  1
+bids precedenti:  [6, 6, 6]
+bidder:  y payment  7 budget:  37
+
+
+7
+x
+valutazioni:  2
+bids precedenti:  [6, 6, 6]
+bidder:  x payment  7 budget:  87
+
+
+7
+z
+valutazioni:  0
+bids precedenti:  [6, 6, 6]
+bidder:  z payment  7 budget:  3
+
+
+8
+y
+valutazioni:  4
+bids precedenti:  [7, 7, 7]
+bidder:  y payment  8 budget:  30
+
+
+8
+x
+valutazioni:  5
+bids precedenti:  [7, 7, 7]
+bidder:  x payment  8 budget:  80
+
+
+8
+z
+valutazioni:  2
+bids precedenti:  [7, 7, 7]
+bidder:  z payment  8 budget:  3
+
+
+8
+y
+valutazioni:  2
+bids precedenti:  [7, 7, 3]
+bidder:  y payment  8 budget:  23
+
+
+8
+x
+valutazioni:  3
+bids precedenti:  [7, 7, 3]
+bidder:  x payment  8 budget:  73
+
+
+8
+z
+valutazioni:  1
+bids precedenti:  [7, 7, 3]
+bidder:  z payment  8 budget:  3
+
+
+8
+y
+valutazioni:  1
+bids precedenti:  [7, 7, 3]
+bidder:  y payment  8 budget:  16
+
+
+8
+x
+valutazioni:  2
+bids precedenti:  [7, 7, 3]
+bidder:  x payment  8 budget:  66
+
+
+8
+z
+valutazioni:  0
+bids precedenti:  [7, 7, 3]
+bidder:  z payment  8 budget:  3
+
+
+9
+y
+valutazioni:  4
+bids precedenti:  [8, 8, 3]
+bidder:  y payment  9 budget:  8
+
+
+9
+x
+valutazioni:  5
+bids precedenti:  [8, 8, 3]
+bidder:  x payment  9 budget:  58
+
+
+9
+z
+valutazioni:  2
+bids precedenti:  [8, 8, 3]
+bidder:  z payment  9 budget:  3
+
+
+9
+y
+valutazioni:  2
+bids precedenti:  [8, 8, 3]
+bidder:  y payment  9 budget:  8
+
+
+9
+x
+valutazioni:  3
+bids precedenti:  [8, 8, 3]
+bidder:  x payment  9 budget:  50
+
+
+9
+z
+valutazioni:  1
+bids precedenti:  [8, 8, 3]
+bidder:  z payment  9 budget:  3
+
+
+9
+y
+valutazioni:  1
+bids precedenti:  [8, 8, 3]
+bidder:  y payment  9 budget:  8
+
+
+9
+x
+valutazioni:  2
+bids precedenti:  [8, 8, 3]
+bidder:  x payment  9 budget:  42
+
+
+9
+z
+valutazioni:  0
+bids precedenti:  [8, 8, 3]
+bidder:  z payment  9 budget:  3
+
+
+10
+y
+valutazioni:  4
+bids precedenti:  [9, 8, 3]
+bidder:  y payment  10 budget:  8
+
+
+10
+x
+valutazioni:  5
+bids precedenti:  [9, 8, 3]
+bidder:  x payment  10 budget:  33
+
+
+10
+z
+valutazioni:  2
+bids precedenti:  [9, 8, 3]
+bidder:  z payment  10 budget:  3
+
+
+10
+y
+valutazioni:  2
+bids precedenti:  [9, 8, 3]
+bidder:  y payment  10 budget:  8
+
+
+10
+x
+valutazioni:  3
+bids precedenti:  [9, 8, 3]
+bidder:  x payment  10 budget:  24
+
+
+10
+z
+valutazioni:  1
+bids precedenti:  [9, 8, 3]
+bidder:  z payment  10 budget:  3
+
+
+10
+y
+valutazioni:  1
+bids precedenti:  [9, 8, 3]
+bidder:  y payment  10 budget:  8
+
+
+10
+x
+valutazioni:  2
+bids precedenti:  [9, 8, 3]
+bidder:  x payment  10 budget:  15
+
+
+10
+z
+valutazioni:  0
+bids precedenti:  [9, 8, 3]
+bidder:  z payment  10 budget:  3

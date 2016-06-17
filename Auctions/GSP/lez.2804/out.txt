@@ -1,0 +1,2000 @@
+Iterazione # 0
+Valori di rate: id1  12  id2:  6
+Valutazioni: x  0  y:  0  z:  0
+(1, {'adv_slots': {'y': 'id1', 'x': 'id2'}, 'adv_bids': {'y': 0, 'x': 0, 'z': 0}, 'adv_pays': {'y': 0, 'x': 0}})
+
+Iterazione # 1
+Valori di rate: id1  12  id2:  6
+Valutazioni: x  5  y:  2  z:  1
+(55, {'adv_slots': {'y': 'id2', 'x': 'id1'}, 'adv_bids': {'y': 1.5, 'x': 3.25, 'z': 1.0}, 'adv_pays': {'y': 1.0, 'x': 1.5}})
+
+Iterazione # 1
+Valori di rate: id1  14  id2:  8
+Valutazioni: x  5  y:  2  z:  1
+(67, {'adv_slots': {'y': 'id2', 'x': 'id1'}, 'adv_bids': {'y': 1.4285714285714286, 'x': 3.2142857142857144, 'z': 0.9999999999999999}, 'adv_pays': {'y': 0.9999999999999999, 'x': 1.4285714285714286}})
+
+Iterazione # 2
+Valori di rate: id1  14  id2:  8
+Valutazioni: x  10  y:  4  z:  2
+(67, {'adv_slots': {'y': 'id2', 'x': 'id1'}, 'adv_bids': {'y': 2.857142857142857, 'x': 6.428571428571429, 'z': 1.9999999999999998}, 'adv_pays': {'y': 1.9999999999999998, 'x': 2.857142857142857}})
+
+Iterazione # 2
+Valori di rate: id1  16  id2:  10
+Valutazioni: x  10  y:  4  z:  2
+(78, {'adv_slots': {'y': 'id2', 'x': 'id1'}, 'adv_bids': {'y': 2.75, 'x': 6.375, 'z': 1.9999999999999998}, 'adv_pays': {'y': 1.9999999999999998, 'x': 2.75}})
+
+Iterazione # 3
+Valori di rate: id1  16  id2:  10
+Valutazioni: x  15  y:  6  z:  3
+(77, {'adv_slots': {'y': 'id2', 'x': 'id1'}, 'adv_bids': {'y': 4.125, 'x': 9.5625, 'z': 2.9999999999999996}, 'adv_pays': {'y': 2.9999999999999996, 'x': 4.125}})
+
+Iterazione # 3
+Valori di rate: id1  18  id2:  12
+Valutazioni: x  15  y:  6  z:  3
+(90, {'adv_slots': {'y': 'id2', 'x': 'id1'}, 'adv_bids': {'y': 4.0, 'x': 9.5, 'z': 2.9999999999999996}, 'adv_pays': {'y': 2.9999999999999996, 'x': 4.0}})
+
+Iterazione # 4
+Valori di rate: id1  18  id2:  12
+Valutazioni: x  20  y:  8  z:  4
+(92, {'adv_slots': {'y': 'id2', 'x': 'id1'}, 'adv_bids': {'y': 5.333333333333334, 'x': 12.666666666666668, 'z': 3.9999999999999996}, 'adv_pays': {'y': 3.9999999999999996, 'x': 5.333333333333334}})
+
+Iterazione # 4
+Valori di rate: id1  20  id2:  14
+Valutazioni: x  20  y:  8  z:  4
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 5
+Valori di rate: id1  20  id2:  14
+Valutazioni: x  25  y:  10  z:  5
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 5
+Valori di rate: id1  22  id2:  16
+Valutazioni: x  25  y:  10  z:  5
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 6
+Valori di rate: id1  22  id2:  16
+Valutazioni: x  30  y:  12  z:  6
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 6
+Valori di rate: id1  24  id2:  18
+Valutazioni: x  30  y:  12  z:  6
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 7
+Valori di rate: id1  24  id2:  18
+Valutazioni: x  35  y:  14  z:  7
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 7
+Valori di rate: id1  26  id2:  20
+Valutazioni: x  35  y:  14  z:  7
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 8
+Valori di rate: id1  26  id2:  20
+Valutazioni: x  40  y:  16  z:  8
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 8
+Valori di rate: id1  28  id2:  22
+Valutazioni: x  40  y:  16  z:  8
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 9
+Valori di rate: id1  28  id2:  22
+Valutazioni: x  45  y:  18  z:  9
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 9
+Valori di rate: id1  30  id2:  24
+Valutazioni: x  45  y:  18  z:  9
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 10
+Valori di rate: id1  30  id2:  24
+Valutazioni: x  50  y:  20  z:  10
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 10
+Valori di rate: id1  32  id2:  26
+Valutazioni: x  50  y:  20  z:  10
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 11
+Valori di rate: id1  32  id2:  26
+Valutazioni: x  55  y:  22  z:  11
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 11
+Valori di rate: id1  34  id2:  28
+Valutazioni: x  55  y:  22  z:  11
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 12
+Valori di rate: id1  34  id2:  28
+Valutazioni: x  60  y:  24  z:  12
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 12
+Valori di rate: id1  36  id2:  30
+Valutazioni: x  60  y:  24  z:  12
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 13
+Valori di rate: id1  36  id2:  30
+Valutazioni: x  65  y:  26  z:  13
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 13
+Valori di rate: id1  38  id2:  32
+Valutazioni: x  65  y:  26  z:  13
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 14
+Valori di rate: id1  38  id2:  32
+Valutazioni: x  70  y:  28  z:  14
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 14
+Valori di rate: id1  40  id2:  34
+Valutazioni: x  70  y:  28  z:  14
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 15
+Valori di rate: id1  40  id2:  34
+Valutazioni: x  75  y:  30  z:  15
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 15
+Valori di rate: id1  42  id2:  36
+Valutazioni: x  75  y:  30  z:  15
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 16
+Valori di rate: id1  42  id2:  36
+Valutazioni: x  80  y:  32  z:  16
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 16
+Valori di rate: id1  44  id2:  38
+Valutazioni: x  80  y:  32  z:  16
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 17
+Valori di rate: id1  44  id2:  38
+Valutazioni: x  85  y:  34  z:  17
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 17
+Valori di rate: id1  46  id2:  40
+Valutazioni: x  85  y:  34  z:  17
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 18
+Valori di rate: id1  46  id2:  40
+Valutazioni: x  90  y:  36  z:  18
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 18
+Valori di rate: id1  48  id2:  42
+Valutazioni: x  90  y:  36  z:  18
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 19
+Valori di rate: id1  48  id2:  42
+Valutazioni: x  95  y:  38  z:  19
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 19
+Valori di rate: id1  50  id2:  44
+Valutazioni: x  95  y:  38  z:  19
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 20
+Valori di rate: id1  50  id2:  44
+Valutazioni: x  100  y:  40  z:  20
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 20
+Valori di rate: id1  52  id2:  46
+Valutazioni: x  100  y:  40  z:  20
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 21
+Valori di rate: id1  52  id2:  46
+Valutazioni: x  105  y:  42  z:  21
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 21
+Valori di rate: id1  54  id2:  48
+Valutazioni: x  105  y:  42  z:  21
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 22
+Valori di rate: id1  54  id2:  48
+Valutazioni: x  110  y:  44  z:  22
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 22
+Valori di rate: id1  56  id2:  50
+Valutazioni: x  110  y:  44  z:  22
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 23
+Valori di rate: id1  56  id2:  50
+Valutazioni: x  115  y:  46  z:  23
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 23
+Valori di rate: id1  58  id2:  52
+Valutazioni: x  115  y:  46  z:  23
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 24
+Valori di rate: id1  58  id2:  52
+Valutazioni: x  120  y:  48  z:  24
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 24
+Valori di rate: id1  60  id2:  54
+Valutazioni: x  120  y:  48  z:  24
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 25
+Valori di rate: id1  60  id2:  54
+Valutazioni: x  125  y:  50  z:  25
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 25
+Valori di rate: id1  62  id2:  56
+Valutazioni: x  125  y:  50  z:  25
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 26
+Valori di rate: id1  62  id2:  56
+Valutazioni: x  130  y:  52  z:  26
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 26
+Valori di rate: id1  64  id2:  58
+Valutazioni: x  130  y:  52  z:  26
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 27
+Valori di rate: id1  64  id2:  58
+Valutazioni: x  135  y:  54  z:  27
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 27
+Valori di rate: id1  66  id2:  60
+Valutazioni: x  135  y:  54  z:  27
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 28
+Valori di rate: id1  66  id2:  60
+Valutazioni: x  140  y:  56  z:  28
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 28
+Valori di rate: id1  68  id2:  62
+Valutazioni: x  140  y:  56  z:  28
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 29
+Valori di rate: id1  68  id2:  62
+Valutazioni: x  145  y:  58  z:  29
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 29
+Valori di rate: id1  70  id2:  64
+Valutazioni: x  145  y:  58  z:  29
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 30
+Valori di rate: id1  70  id2:  64
+Valutazioni: x  150  y:  60  z:  30
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 30
+Valori di rate: id1  72  id2:  66
+Valutazioni: x  150  y:  60  z:  30
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 31
+Valori di rate: id1  72  id2:  66
+Valutazioni: x  155  y:  62  z:  31
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 31
+Valori di rate: id1  74  id2:  68
+Valutazioni: x  155  y:  62  z:  31
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 32
+Valori di rate: id1  74  id2:  68
+Valutazioni: x  160  y:  64  z:  32
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 32
+Valori di rate: id1  76  id2:  70
+Valutazioni: x  160  y:  64  z:  32
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 33
+Valori di rate: id1  76  id2:  70
+Valutazioni: x  165  y:  66  z:  33
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 33
+Valori di rate: id1  78  id2:  72
+Valutazioni: x  165  y:  66  z:  33
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 34
+Valori di rate: id1  78  id2:  72
+Valutazioni: x  170  y:  68  z:  34
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 34
+Valori di rate: id1  80  id2:  74
+Valutazioni: x  170  y:  68  z:  34
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 35
+Valori di rate: id1  80  id2:  74
+Valutazioni: x  175  y:  70  z:  35
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 35
+Valori di rate: id1  82  id2:  76
+Valutazioni: x  175  y:  70  z:  35
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 36
+Valori di rate: id1  82  id2:  76
+Valutazioni: x  180  y:  72  z:  36
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 36
+Valori di rate: id1  84  id2:  78
+Valutazioni: x  180  y:  72  z:  36
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 37
+Valori di rate: id1  84  id2:  78
+Valutazioni: x  185  y:  74  z:  37
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 37
+Valori di rate: id1  86  id2:  80
+Valutazioni: x  185  y:  74  z:  37
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 38
+Valori di rate: id1  86  id2:  80
+Valutazioni: x  190  y:  76  z:  38
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 38
+Valori di rate: id1  88  id2:  82
+Valutazioni: x  190  y:  76  z:  38
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 39
+Valori di rate: id1  88  id2:  82
+Valutazioni: x  195  y:  78  z:  39
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 39
+Valori di rate: id1  90  id2:  84
+Valutazioni: x  195  y:  78  z:  39
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 40
+Valori di rate: id1  90  id2:  84
+Valutazioni: x  200  y:  80  z:  40
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 40
+Valori di rate: id1  92  id2:  86
+Valutazioni: x  200  y:  80  z:  40
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 41
+Valori di rate: id1  92  id2:  86
+Valutazioni: x  205  y:  82  z:  41
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 41
+Valori di rate: id1  94  id2:  88
+Valutazioni: x  205  y:  82  z:  41
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 42
+Valori di rate: id1  94  id2:  88
+Valutazioni: x  210  y:  84  z:  42
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 42
+Valori di rate: id1  96  id2:  90
+Valutazioni: x  210  y:  84  z:  42
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 43
+Valori di rate: id1  96  id2:  90
+Valutazioni: x  215  y:  86  z:  43
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 43
+Valori di rate: id1  98  id2:  92
+Valutazioni: x  215  y:  86  z:  43
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 44
+Valori di rate: id1  98  id2:  92
+Valutazioni: x  220  y:  88  z:  44
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 44
+Valori di rate: id1  100  id2:  94
+Valutazioni: x  220  y:  88  z:  44
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 45
+Valori di rate: id1  100  id2:  94
+Valutazioni: x  225  y:  90  z:  45
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 45
+Valori di rate: id1  102  id2:  96
+Valutazioni: x  225  y:  90  z:  45
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 46
+Valori di rate: id1  102  id2:  96
+Valutazioni: x  230  y:  92  z:  46
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 46
+Valori di rate: id1  104  id2:  98
+Valutazioni: x  230  y:  92  z:  46
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 47
+Valori di rate: id1  104  id2:  98
+Valutazioni: x  235  y:  94  z:  47
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 47
+Valori di rate: id1  106  id2:  100
+Valutazioni: x  235  y:  94  z:  47
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 48
+Valori di rate: id1  106  id2:  100
+Valutazioni: x  240  y:  96  z:  48
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 48
+Valori di rate: id1  108  id2:  102
+Valutazioni: x  240  y:  96  z:  48
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 49
+Valori di rate: id1  108  id2:  102
+Valutazioni: x  245  y:  98  z:  49
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 49
+Valori di rate: id1  110  id2:  104
+Valutazioni: x  245  y:  98  z:  49
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 50
+Valori di rate: id1  110  id2:  104
+Valutazioni: x  250  y:  100  z:  50
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 50
+Valori di rate: id1  112  id2:  106
+Valutazioni: x  250  y:  100  z:  50
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 51
+Valori di rate: id1  112  id2:  106
+Valutazioni: x  255  y:  102  z:  51
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 51
+Valori di rate: id1  114  id2:  108
+Valutazioni: x  255  y:  102  z:  51
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 52
+Valori di rate: id1  114  id2:  108
+Valutazioni: x  260  y:  104  z:  52
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 52
+Valori di rate: id1  116  id2:  110
+Valutazioni: x  260  y:  104  z:  52
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 53
+Valori di rate: id1  116  id2:  110
+Valutazioni: x  265  y:  106  z:  53
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 53
+Valori di rate: id1  118  id2:  112
+Valutazioni: x  265  y:  106  z:  53
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 54
+Valori di rate: id1  118  id2:  112
+Valutazioni: x  270  y:  108  z:  54
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 54
+Valori di rate: id1  120  id2:  114
+Valutazioni: x  270  y:  108  z:  54
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 55
+Valori di rate: id1  120  id2:  114
+Valutazioni: x  275  y:  110  z:  55
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 55
+Valori di rate: id1  122  id2:  116
+Valutazioni: x  275  y:  110  z:  55
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 56
+Valori di rate: id1  122  id2:  116
+Valutazioni: x  280  y:  112  z:  56
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 56
+Valori di rate: id1  124  id2:  118
+Valutazioni: x  280  y:  112  z:  56
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 57
+Valori di rate: id1  124  id2:  118
+Valutazioni: x  285  y:  114  z:  57
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 57
+Valori di rate: id1  126  id2:  120
+Valutazioni: x  285  y:  114  z:  57
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 58
+Valori di rate: id1  126  id2:  120
+Valutazioni: x  290  y:  116  z:  58
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 58
+Valori di rate: id1  128  id2:  122
+Valutazioni: x  290  y:  116  z:  58
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 59
+Valori di rate: id1  128  id2:  122
+Valutazioni: x  295  y:  118  z:  59
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 59
+Valori di rate: id1  130  id2:  124
+Valutazioni: x  295  y:  118  z:  59
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 60
+Valori di rate: id1  130  id2:  124
+Valutazioni: x  300  y:  120  z:  60
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 60
+Valori di rate: id1  132  id2:  126
+Valutazioni: x  300  y:  120  z:  60
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 61
+Valori di rate: id1  132  id2:  126
+Valutazioni: x  305  y:  122  z:  61
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 61
+Valori di rate: id1  134  id2:  128
+Valutazioni: x  305  y:  122  z:  61
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 62
+Valori di rate: id1  134  id2:  128
+Valutazioni: x  310  y:  124  z:  62
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 62
+Valori di rate: id1  136  id2:  130
+Valutazioni: x  310  y:  124  z:  62
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 63
+Valori di rate: id1  136  id2:  130
+Valutazioni: x  315  y:  126  z:  63
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 63
+Valori di rate: id1  138  id2:  132
+Valutazioni: x  315  y:  126  z:  63
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 64
+Valori di rate: id1  138  id2:  132
+Valutazioni: x  320  y:  128  z:  64
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 64
+Valori di rate: id1  140  id2:  134
+Valutazioni: x  320  y:  128  z:  64
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 65
+Valori di rate: id1  140  id2:  134
+Valutazioni: x  325  y:  130  z:  65
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 65
+Valori di rate: id1  142  id2:  136
+Valutazioni: x  325  y:  130  z:  65
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 66
+Valori di rate: id1  142  id2:  136
+Valutazioni: x  330  y:  132  z:  66
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 66
+Valori di rate: id1  144  id2:  138
+Valutazioni: x  330  y:  132  z:  66
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 67
+Valori di rate: id1  144  id2:  138
+Valutazioni: x  335  y:  134  z:  67
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 67
+Valori di rate: id1  146  id2:  140
+Valutazioni: x  335  y:  134  z:  67
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 68
+Valori di rate: id1  146  id2:  140
+Valutazioni: x  340  y:  136  z:  68
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 68
+Valori di rate: id1  148  id2:  142
+Valutazioni: x  340  y:  136  z:  68
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 69
+Valori di rate: id1  148  id2:  142
+Valutazioni: x  345  y:  138  z:  69
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 69
+Valori di rate: id1  150  id2:  144
+Valutazioni: x  345  y:  138  z:  69
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 70
+Valori di rate: id1  150  id2:  144
+Valutazioni: x  350  y:  140  z:  70
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 70
+Valori di rate: id1  152  id2:  146
+Valutazioni: x  350  y:  140  z:  70
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 71
+Valori di rate: id1  152  id2:  146
+Valutazioni: x  355  y:  142  z:  71
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 71
+Valori di rate: id1  154  id2:  148
+Valutazioni: x  355  y:  142  z:  71
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 72
+Valori di rate: id1  154  id2:  148
+Valutazioni: x  360  y:  144  z:  72
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 72
+Valori di rate: id1  156  id2:  150
+Valutazioni: x  360  y:  144  z:  72
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 73
+Valori di rate: id1  156  id2:  150
+Valutazioni: x  365  y:  146  z:  73
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 73
+Valori di rate: id1  158  id2:  152
+Valutazioni: x  365  y:  146  z:  73
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 74
+Valori di rate: id1  158  id2:  152
+Valutazioni: x  370  y:  148  z:  74
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 74
+Valori di rate: id1  160  id2:  154
+Valutazioni: x  370  y:  148  z:  74
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 75
+Valori di rate: id1  160  id2:  154
+Valutazioni: x  375  y:  150  z:  75
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 75
+Valori di rate: id1  162  id2:  156
+Valutazioni: x  375  y:  150  z:  75
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 76
+Valori di rate: id1  162  id2:  156
+Valutazioni: x  380  y:  152  z:  76
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 76
+Valori di rate: id1  164  id2:  158
+Valutazioni: x  380  y:  152  z:  76
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 77
+Valori di rate: id1  164  id2:  158
+Valutazioni: x  385  y:  154  z:  77
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 77
+Valori di rate: id1  166  id2:  160
+Valutazioni: x  385  y:  154  z:  77
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 78
+Valori di rate: id1  166  id2:  160
+Valutazioni: x  390  y:  156  z:  78
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 78
+Valori di rate: id1  168  id2:  162
+Valutazioni: x  390  y:  156  z:  78
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 79
+Valori di rate: id1  168  id2:  162
+Valutazioni: x  395  y:  158  z:  79
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 79
+Valori di rate: id1  170  id2:  164
+Valutazioni: x  395  y:  158  z:  79
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 80
+Valori di rate: id1  170  id2:  164
+Valutazioni: x  400  y:  160  z:  80
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 80
+Valori di rate: id1  172  id2:  166
+Valutazioni: x  400  y:  160  z:  80
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 81
+Valori di rate: id1  172  id2:  166
+Valutazioni: x  405  y:  162  z:  81
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 81
+Valori di rate: id1  174  id2:  168
+Valutazioni: x  405  y:  162  z:  81
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 82
+Valori di rate: id1  174  id2:  168
+Valutazioni: x  410  y:  164  z:  82
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 82
+Valori di rate: id1  176  id2:  170
+Valutazioni: x  410  y:  164  z:  82
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 83
+Valori di rate: id1  176  id2:  170
+Valutazioni: x  415  y:  166  z:  83
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 83
+Valori di rate: id1  178  id2:  172
+Valutazioni: x  415  y:  166  z:  83
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 84
+Valori di rate: id1  178  id2:  172
+Valutazioni: x  420  y:  168  z:  84
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 84
+Valori di rate: id1  180  id2:  174
+Valutazioni: x  420  y:  168  z:  84
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 85
+Valori di rate: id1  180  id2:  174
+Valutazioni: x  425  y:  170  z:  85
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 85
+Valori di rate: id1  182  id2:  176
+Valutazioni: x  425  y:  170  z:  85
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 86
+Valori di rate: id1  182  id2:  176
+Valutazioni: x  430  y:  172  z:  86
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 86
+Valori di rate: id1  184  id2:  178
+Valutazioni: x  430  y:  172  z:  86
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 87
+Valori di rate: id1  184  id2:  178
+Valutazioni: x  435  y:  174  z:  87
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 87
+Valori di rate: id1  186  id2:  180
+Valutazioni: x  435  y:  174  z:  87
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 88
+Valori di rate: id1  186  id2:  180
+Valutazioni: x  440  y:  176  z:  88
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 88
+Valori di rate: id1  188  id2:  182
+Valutazioni: x  440  y:  176  z:  88
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 89
+Valori di rate: id1  188  id2:  182
+Valutazioni: x  445  y:  178  z:  89
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 89
+Valori di rate: id1  190  id2:  184
+Valutazioni: x  445  y:  178  z:  89
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 90
+Valori di rate: id1  190  id2:  184
+Valutazioni: x  450  y:  180  z:  90
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 90
+Valori di rate: id1  192  id2:  186
+Valutazioni: x  450  y:  180  z:  90
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 91
+Valori di rate: id1  192  id2:  186
+Valutazioni: x  455  y:  182  z:  91
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 91
+Valori di rate: id1  194  id2:  188
+Valutazioni: x  455  y:  182  z:  91
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 92
+Valori di rate: id1  194  id2:  188
+Valutazioni: x  460  y:  184  z:  92
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 92
+Valori di rate: id1  196  id2:  190
+Valutazioni: x  460  y:  184  z:  92
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 93
+Valori di rate: id1  196  id2:  190
+Valutazioni: x  465  y:  186  z:  93
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 93
+Valori di rate: id1  198  id2:  192
+Valutazioni: x  465  y:  186  z:  93
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 94
+Valori di rate: id1  198  id2:  192
+Valutazioni: x  470  y:  188  z:  94
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 94
+Valori di rate: id1  200  id2:  194
+Valutazioni: x  470  y:  188  z:  94
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 95
+Valori di rate: id1  200  id2:  194
+Valutazioni: x  475  y:  190  z:  95
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 95
+Valori di rate: id1  202  id2:  196
+Valutazioni: x  475  y:  190  z:  95
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 96
+Valori di rate: id1  202  id2:  196
+Valutazioni: x  480  y:  192  z:  96
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 96
+Valori di rate: id1  204  id2:  198
+Valutazioni: x  480  y:  192  z:  96
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 97
+Valori di rate: id1  204  id2:  198
+Valutazioni: x  485  y:  194  z:  97
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 97
+Valori di rate: id1  206  id2:  200
+Valutazioni: x  485  y:  194  z:  97
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 98
+Valori di rate: id1  206  id2:  200
+Valutazioni: x  490  y:  196  z:  98
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 98
+Valori di rate: id1  208  id2:  202
+Valutazioni: x  490  y:  196  z:  98
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 99
+Valori di rate: id1  208  id2:  202
+Valutazioni: x  495  y:  198  z:  99
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 99
+Valori di rate: id1  210  id2:  204
+Valutazioni: x  495  y:  198  z:  99
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 100
+Valori di rate: id1  210  id2:  204
+Valutazioni: x  500  y:  200  z:  100
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 100
+Valori di rate: id1  212  id2:  206
+Valutazioni: x  500  y:  200  z:  100
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 101
+Valori di rate: id1  212  id2:  206
+Valutazioni: x  505  y:  202  z:  101
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 101
+Valori di rate: id1  214  id2:  208
+Valutazioni: x  505  y:  202  z:  101
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 102
+Valori di rate: id1  214  id2:  208
+Valutazioni: x  510  y:  204  z:  102
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 102
+Valori di rate: id1  216  id2:  210
+Valutazioni: x  510  y:  204  z:  102
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 103
+Valori di rate: id1  216  id2:  210
+Valutazioni: x  515  y:  206  z:  103
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 103
+Valori di rate: id1  218  id2:  212
+Valutazioni: x  515  y:  206  z:  103
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 104
+Valori di rate: id1  218  id2:  212
+Valutazioni: x  520  y:  208  z:  104
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 104
+Valori di rate: id1  220  id2:  214
+Valutazioni: x  520  y:  208  z:  104
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 105
+Valori di rate: id1  220  id2:  214
+Valutazioni: x  525  y:  210  z:  105
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 105
+Valori di rate: id1  222  id2:  216
+Valutazioni: x  525  y:  210  z:  105
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 106
+Valori di rate: id1  222  id2:  216
+Valutazioni: x  530  y:  212  z:  106
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 106
+Valori di rate: id1  224  id2:  218
+Valutazioni: x  530  y:  212  z:  106
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 107
+Valori di rate: id1  224  id2:  218
+Valutazioni: x  535  y:  214  z:  107
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 107
+Valori di rate: id1  226  id2:  220
+Valutazioni: x  535  y:  214  z:  107
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 108
+Valori di rate: id1  226  id2:  220
+Valutazioni: x  540  y:  216  z:  108
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 108
+Valori di rate: id1  228  id2:  222
+Valutazioni: x  540  y:  216  z:  108
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 109
+Valori di rate: id1  228  id2:  222
+Valutazioni: x  545  y:  218  z:  109
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 109
+Valori di rate: id1  230  id2:  224
+Valutazioni: x  545  y:  218  z:  109
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 110
+Valori di rate: id1  230  id2:  224
+Valutazioni: x  550  y:  220  z:  110
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 110
+Valori di rate: id1  232  id2:  226
+Valutazioni: x  550  y:  220  z:  110
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 111
+Valori di rate: id1  232  id2:  226
+Valutazioni: x  555  y:  222  z:  111
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 111
+Valori di rate: id1  234  id2:  228
+Valutazioni: x  555  y:  222  z:  111
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 112
+Valori di rate: id1  234  id2:  228
+Valutazioni: x  560  y:  224  z:  112
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 112
+Valori di rate: id1  236  id2:  230
+Valutazioni: x  560  y:  224  z:  112
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 113
+Valori di rate: id1  236  id2:  230
+Valutazioni: x  565  y:  226  z:  113
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 113
+Valori di rate: id1  238  id2:  232
+Valutazioni: x  565  y:  226  z:  113
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 114
+Valori di rate: id1  238  id2:  232
+Valutazioni: x  570  y:  228  z:  114
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 114
+Valori di rate: id1  240  id2:  234
+Valutazioni: x  570  y:  228  z:  114
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 115
+Valori di rate: id1  240  id2:  234
+Valutazioni: x  575  y:  230  z:  115
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 115
+Valori di rate: id1  242  id2:  236
+Valutazioni: x  575  y:  230  z:  115
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 116
+Valori di rate: id1  242  id2:  236
+Valutazioni: x  580  y:  232  z:  116
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 116
+Valori di rate: id1  244  id2:  238
+Valutazioni: x  580  y:  232  z:  116
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 117
+Valori di rate: id1  244  id2:  238
+Valutazioni: x  585  y:  234  z:  117
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 117
+Valori di rate: id1  246  id2:  240
+Valutazioni: x  585  y:  234  z:  117
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 118
+Valori di rate: id1  246  id2:  240
+Valutazioni: x  590  y:  236  z:  118
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 118
+Valori di rate: id1  248  id2:  242
+Valutazioni: x  590  y:  236  z:  118
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 119
+Valori di rate: id1  248  id2:  242
+Valutazioni: x  595  y:  238  z:  119
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 119
+Valori di rate: id1  250  id2:  244
+Valutazioni: x  595  y:  238  z:  119
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 120
+Valori di rate: id1  250  id2:  244
+Valutazioni: x  600  y:  240  z:  120
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 120
+Valori di rate: id1  252  id2:  246
+Valutazioni: x  600  y:  240  z:  120
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 121
+Valori di rate: id1  252  id2:  246
+Valutazioni: x  605  y:  242  z:  121
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 121
+Valori di rate: id1  254  id2:  248
+Valutazioni: x  605  y:  242  z:  121
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 122
+Valori di rate: id1  254  id2:  248
+Valutazioni: x  610  y:  244  z:  122
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 122
+Valori di rate: id1  256  id2:  250
+Valutazioni: x  610  y:  244  z:  122
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 123
+Valori di rate: id1  256  id2:  250
+Valutazioni: x  615  y:  246  z:  123
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 123
+Valori di rate: id1  258  id2:  252
+Valutazioni: x  615  y:  246  z:  123
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 124
+Valori di rate: id1  258  id2:  252
+Valutazioni: x  620  y:  248  z:  124
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 124
+Valori di rate: id1  260  id2:  254
+Valutazioni: x  620  y:  248  z:  124
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 125
+Valori di rate: id1  260  id2:  254
+Valutazioni: x  625  y:  250  z:  125
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 125
+Valori di rate: id1  262  id2:  256
+Valutazioni: x  625  y:  250  z:  125
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 126
+Valori di rate: id1  262  id2:  256
+Valutazioni: x  630  y:  252  z:  126
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 126
+Valori di rate: id1  264  id2:  258
+Valutazioni: x  630  y:  252  z:  126
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 127
+Valori di rate: id1  264  id2:  258
+Valutazioni: x  635  y:  254  z:  127
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 127
+Valori di rate: id1  266  id2:  260
+Valutazioni: x  635  y:  254  z:  127
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 128
+Valori di rate: id1  266  id2:  260
+Valutazioni: x  640  y:  256  z:  128
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 128
+Valori di rate: id1  268  id2:  262
+Valutazioni: x  640  y:  256  z:  128
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 129
+Valori di rate: id1  268  id2:  262
+Valutazioni: x  645  y:  258  z:  129
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 129
+Valori di rate: id1  270  id2:  264
+Valutazioni: x  645  y:  258  z:  129
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 130
+Valori di rate: id1  270  id2:  264
+Valutazioni: x  650  y:  260  z:  130
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 130
+Valori di rate: id1  272  id2:  266
+Valutazioni: x  650  y:  260  z:  130
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 131
+Valori di rate: id1  272  id2:  266
+Valutazioni: x  655  y:  262  z:  131
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 131
+Valori di rate: id1  274  id2:  268
+Valutazioni: x  655  y:  262  z:  131
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 132
+Valori di rate: id1  274  id2:  268
+Valutazioni: x  660  y:  264  z:  132
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 132
+Valori di rate: id1  276  id2:  270
+Valutazioni: x  660  y:  264  z:  132
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 133
+Valori di rate: id1  276  id2:  270
+Valutazioni: x  665  y:  266  z:  133
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 133
+Valori di rate: id1  278  id2:  272
+Valutazioni: x  665  y:  266  z:  133
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 134
+Valori di rate: id1  278  id2:  272
+Valutazioni: x  670  y:  268  z:  134
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 134
+Valori di rate: id1  280  id2:  274
+Valutazioni: x  670  y:  268  z:  134
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 135
+Valori di rate: id1  280  id2:  274
+Valutazioni: x  675  y:  270  z:  135
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 135
+Valori di rate: id1  282  id2:  276
+Valutazioni: x  675  y:  270  z:  135
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 136
+Valori di rate: id1  282  id2:  276
+Valutazioni: x  680  y:  272  z:  136
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 136
+Valori di rate: id1  284  id2:  278
+Valutazioni: x  680  y:  272  z:  136
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 137
+Valori di rate: id1  284  id2:  278
+Valutazioni: x  685  y:  274  z:  137
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 137
+Valori di rate: id1  286  id2:  280
+Valutazioni: x  685  y:  274  z:  137
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 138
+Valori di rate: id1  286  id2:  280
+Valutazioni: x  690  y:  276  z:  138
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 138
+Valori di rate: id1  288  id2:  282
+Valutazioni: x  690  y:  276  z:  138
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 139
+Valori di rate: id1  288  id2:  282
+Valutazioni: x  695  y:  278  z:  139
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 139
+Valori di rate: id1  290  id2:  284
+Valutazioni: x  695  y:  278  z:  139
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 140
+Valori di rate: id1  290  id2:  284
+Valutazioni: x  700  y:  280  z:  140
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 140
+Valori di rate: id1  292  id2:  286
+Valutazioni: x  700  y:  280  z:  140
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 141
+Valori di rate: id1  292  id2:  286
+Valutazioni: x  705  y:  282  z:  141
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 141
+Valori di rate: id1  294  id2:  288
+Valutazioni: x  705  y:  282  z:  141
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 142
+Valori di rate: id1  294  id2:  288
+Valutazioni: x  710  y:  284  z:  142
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 142
+Valori di rate: id1  296  id2:  290
+Valutazioni: x  710  y:  284  z:  142
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 143
+Valori di rate: id1  296  id2:  290
+Valutazioni: x  715  y:  286  z:  143
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 143
+Valori di rate: id1  298  id2:  292
+Valutazioni: x  715  y:  286  z:  143
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 144
+Valori di rate: id1  298  id2:  292
+Valutazioni: x  720  y:  288  z:  144
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 144
+Valori di rate: id1  300  id2:  294
+Valutazioni: x  720  y:  288  z:  144
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 145
+Valori di rate: id1  300  id2:  294
+Valutazioni: x  725  y:  290  z:  145
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 145
+Valori di rate: id1  302  id2:  296
+Valutazioni: x  725  y:  290  z:  145
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 146
+Valori di rate: id1  302  id2:  296
+Valutazioni: x  730  y:  292  z:  146
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 146
+Valori di rate: id1  304  id2:  298
+Valutazioni: x  730  y:  292  z:  146
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 147
+Valori di rate: id1  304  id2:  298
+Valutazioni: x  735  y:  294  z:  147
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 147
+Valori di rate: id1  306  id2:  300
+Valutazioni: x  735  y:  294  z:  147
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 148
+Valori di rate: id1  306  id2:  300
+Valutazioni: x  740  y:  296  z:  148
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 148
+Valori di rate: id1  308  id2:  302
+Valutazioni: x  740  y:  296  z:  148
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 149
+Valori di rate: id1  308  id2:  302
+Valutazioni: x  745  y:  298  z:  149
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 149
+Valori di rate: id1  310  id2:  304
+Valutazioni: x  745  y:  298  z:  149
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 150
+Valori di rate: id1  310  id2:  304
+Valutazioni: x  750  y:  300  z:  150
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 150
+Valori di rate: id1  312  id2:  306
+Valutazioni: x  750  y:  300  z:  150
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 151
+Valori di rate: id1  312  id2:  306
+Valutazioni: x  755  y:  302  z:  151
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 151
+Valori di rate: id1  314  id2:  308
+Valutazioni: x  755  y:  302  z:  151
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 152
+Valori di rate: id1  314  id2:  308
+Valutazioni: x  760  y:  304  z:  152
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 152
+Valori di rate: id1  316  id2:  310
+Valutazioni: x  760  y:  304  z:  152
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 153
+Valori di rate: id1  316  id2:  310
+Valutazioni: x  765  y:  306  z:  153
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 153
+Valori di rate: id1  318  id2:  312
+Valutazioni: x  765  y:  306  z:  153
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 154
+Valori di rate: id1  318  id2:  312
+Valutazioni: x  770  y:  308  z:  154
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 154
+Valori di rate: id1  320  id2:  314
+Valutazioni: x  770  y:  308  z:  154
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 155
+Valori di rate: id1  320  id2:  314
+Valutazioni: x  775  y:  310  z:  155
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 155
+Valori di rate: id1  322  id2:  316
+Valutazioni: x  775  y:  310  z:  155
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 156
+Valori di rate: id1  322  id2:  316
+Valutazioni: x  780  y:  312  z:  156
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 156
+Valori di rate: id1  324  id2:  318
+Valutazioni: x  780  y:  312  z:  156
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 157
+Valori di rate: id1  324  id2:  318
+Valutazioni: x  785  y:  314  z:  157
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 157
+Valori di rate: id1  326  id2:  320
+Valutazioni: x  785  y:  314  z:  157
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 158
+Valori di rate: id1  326  id2:  320
+Valutazioni: x  790  y:  316  z:  158
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 158
+Valori di rate: id1  328  id2:  322
+Valutazioni: x  790  y:  316  z:  158
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 159
+Valori di rate: id1  328  id2:  322
+Valutazioni: x  795  y:  318  z:  159
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 159
+Valori di rate: id1  330  id2:  324
+Valutazioni: x  795  y:  318  z:  159
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 160
+Valori di rate: id1  330  id2:  324
+Valutazioni: x  800  y:  320  z:  160
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 160
+Valori di rate: id1  332  id2:  326
+Valutazioni: x  800  y:  320  z:  160
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 161
+Valori di rate: id1  332  id2:  326
+Valutazioni: x  805  y:  322  z:  161
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 161
+Valori di rate: id1  334  id2:  328
+Valutazioni: x  805  y:  322  z:  161
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 162
+Valori di rate: id1  334  id2:  328
+Valutazioni: x  810  y:  324  z:  162
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 162
+Valori di rate: id1  336  id2:  330
+Valutazioni: x  810  y:  324  z:  162
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 163
+Valori di rate: id1  336  id2:  330
+Valutazioni: x  815  y:  326  z:  163
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 163
+Valori di rate: id1  338  id2:  332
+Valutazioni: x  815  y:  326  z:  163
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 164
+Valori di rate: id1  338  id2:  332
+Valutazioni: x  820  y:  328  z:  164
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 164
+Valori di rate: id1  340  id2:  334
+Valutazioni: x  820  y:  328  z:  164
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 165
+Valori di rate: id1  340  id2:  334
+Valutazioni: x  825  y:  330  z:  165
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 165
+Valori di rate: id1  342  id2:  336
+Valutazioni: x  825  y:  330  z:  165
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 166
+Valori di rate: id1  342  id2:  336
+Valutazioni: x  830  y:  332  z:  166
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 166
+Valori di rate: id1  344  id2:  338
+Valutazioni: x  830  y:  332  z:  166
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 167
+Valori di rate: id1  344  id2:  338
+Valutazioni: x  835  y:  334  z:  167
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 167
+Valori di rate: id1  346  id2:  340
+Valutazioni: x  835  y:  334  z:  167
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 168
+Valori di rate: id1  346  id2:  340
+Valutazioni: x  840  y:  336  z:  168
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 168
+Valori di rate: id1  348  id2:  342
+Valutazioni: x  840  y:  336  z:  168
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 169
+Valori di rate: id1  348  id2:  342
+Valutazioni: x  845  y:  338  z:  169
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 169
+Valori di rate: id1  350  id2:  344
+Valutazioni: x  845  y:  338  z:  169
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 170
+Valori di rate: id1  350  id2:  344
+Valutazioni: x  850  y:  340  z:  170
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 170
+Valori di rate: id1  352  id2:  346
+Valutazioni: x  850  y:  340  z:  170
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 171
+Valori di rate: id1  352  id2:  346
+Valutazioni: x  855  y:  342  z:  171
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 171
+Valori di rate: id1  354  id2:  348
+Valutazioni: x  855  y:  342  z:  171
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 172
+Valori di rate: id1  354  id2:  348
+Valutazioni: x  860  y:  344  z:  172
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 172
+Valori di rate: id1  356  id2:  350
+Valutazioni: x  860  y:  344  z:  172
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 173
+Valori di rate: id1  356  id2:  350
+Valutazioni: x  865  y:  346  z:  173
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 173
+Valori di rate: id1  358  id2:  352
+Valutazioni: x  865  y:  346  z:  173
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 174
+Valori di rate: id1  358  id2:  352
+Valutazioni: x  870  y:  348  z:  174
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 174
+Valori di rate: id1  360  id2:  354
+Valutazioni: x  870  y:  348  z:  174
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 175
+Valori di rate: id1  360  id2:  354
+Valutazioni: x  875  y:  350  z:  175
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 175
+Valori di rate: id1  362  id2:  356
+Valutazioni: x  875  y:  350  z:  175
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 176
+Valori di rate: id1  362  id2:  356
+Valutazioni: x  880  y:  352  z:  176
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 176
+Valori di rate: id1  364  id2:  358
+Valutazioni: x  880  y:  352  z:  176
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 177
+Valori di rate: id1  364  id2:  358
+Valutazioni: x  885  y:  354  z:  177
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 177
+Valori di rate: id1  366  id2:  360
+Valutazioni: x  885  y:  354  z:  177
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 178
+Valori di rate: id1  366  id2:  360
+Valutazioni: x  890  y:  356  z:  178
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 178
+Valori di rate: id1  368  id2:  362
+Valutazioni: x  890  y:  356  z:  178
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 179
+Valori di rate: id1  368  id2:  362
+Valutazioni: x  895  y:  358  z:  179
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 179
+Valori di rate: id1  370  id2:  364
+Valutazioni: x  895  y:  358  z:  179
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 180
+Valori di rate: id1  370  id2:  364
+Valutazioni: x  900  y:  360  z:  180
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 180
+Valori di rate: id1  372  id2:  366
+Valutazioni: x  900  y:  360  z:  180
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 181
+Valori di rate: id1  372  id2:  366
+Valutazioni: x  905  y:  362  z:  181
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 181
+Valori di rate: id1  374  id2:  368
+Valutazioni: x  905  y:  362  z:  181
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 182
+Valori di rate: id1  374  id2:  368
+Valutazioni: x  910  y:  364  z:  182
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 182
+Valori di rate: id1  376  id2:  370
+Valutazioni: x  910  y:  364  z:  182
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 183
+Valori di rate: id1  376  id2:  370
+Valutazioni: x  915  y:  366  z:  183
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 183
+Valori di rate: id1  378  id2:  372
+Valutazioni: x  915  y:  366  z:  183
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 184
+Valori di rate: id1  378  id2:  372
+Valutazioni: x  920  y:  368  z:  184
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 184
+Valori di rate: id1  380  id2:  374
+Valutazioni: x  920  y:  368  z:  184
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 185
+Valori di rate: id1  380  id2:  374
+Valutazioni: x  925  y:  370  z:  185
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 185
+Valori di rate: id1  382  id2:  376
+Valutazioni: x  925  y:  370  z:  185
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 186
+Valori di rate: id1  382  id2:  376
+Valutazioni: x  930  y:  372  z:  186
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 186
+Valori di rate: id1  384  id2:  378
+Valutazioni: x  930  y:  372  z:  186
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 187
+Valori di rate: id1  384  id2:  378
+Valutazioni: x  935  y:  374  z:  187
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 187
+Valori di rate: id1  386  id2:  380
+Valutazioni: x  935  y:  374  z:  187
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 188
+Valori di rate: id1  386  id2:  380
+Valutazioni: x  940  y:  376  z:  188
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 188
+Valori di rate: id1  388  id2:  382
+Valutazioni: x  940  y:  376  z:  188
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 189
+Valori di rate: id1  388  id2:  382
+Valutazioni: x  945  y:  378  z:  189
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 189
+Valori di rate: id1  390  id2:  384
+Valutazioni: x  945  y:  378  z:  189
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 190
+Valori di rate: id1  390  id2:  384
+Valutazioni: x  950  y:  380  z:  190
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 190
+Valori di rate: id1  392  id2:  386
+Valutazioni: x  950  y:  380  z:  190
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 191
+Valori di rate: id1  392  id2:  386
+Valutazioni: x  955  y:  382  z:  191
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 191
+Valori di rate: id1  394  id2:  388
+Valutazioni: x  955  y:  382  z:  191
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 192
+Valori di rate: id1  394  id2:  388
+Valutazioni: x  960  y:  384  z:  192
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 192
+Valori di rate: id1  396  id2:  390
+Valutazioni: x  960  y:  384  z:  192
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 193
+Valori di rate: id1  396  id2:  390
+Valutazioni: x  965  y:  386  z:  193
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 193
+Valori di rate: id1  398  id2:  392
+Valutazioni: x  965  y:  386  z:  193
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 194
+Valori di rate: id1  398  id2:  392
+Valutazioni: x  970  y:  388  z:  194
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 194
+Valori di rate: id1  400  id2:  394
+Valutazioni: x  970  y:  388  z:  194
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 195
+Valori di rate: id1  400  id2:  394
+Valutazioni: x  975  y:  390  z:  195
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 195
+Valori di rate: id1  402  id2:  396
+Valutazioni: x  975  y:  390  z:  195
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 196
+Valori di rate: id1  402  id2:  396
+Valutazioni: x  980  y:  392  z:  196
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 196
+Valori di rate: id1  404  id2:  398
+Valutazioni: x  980  y:  392  z:  196
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 197
+Valori di rate: id1  404  id2:  398
+Valutazioni: x  985  y:  394  z:  197
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 197
+Valori di rate: id1  406  id2:  400
+Valutazioni: x  985  y:  394  z:  197
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 198
+Valori di rate: id1  406  id2:  400
+Valutazioni: x  990  y:  396  z:  198
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 198
+Valori di rate: id1  408  id2:  402
+Valutazioni: x  990  y:  396  z:  198
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 199
+Valori di rate: id1  408  id2:  402
+Valutazioni: x  995  y:  398  z:  199
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 199
+Valori di rate: id1  410  id2:  404
+Valutazioni: x  995  y:  398  z:  199
+Non e' stato raggiunto un equilibrio
+
+Iterazione # 200
+Valori di rate: id1  410  id2:  404
+Valutazioni: x  1000  y:  400  z:  200
+Non e' stato raggiunto un equilibrio
+

@@ -1,0 +1,8092 @@
+
+
+1
+adv4
+valutazioni:  91
+bids precedenti:  [0, 0, 0]
+bidder:  adv4 payment  3 budget:  49
+
+
+18
+adv4
+valutazioni:  91
+bids precedenti:  [52.39999999999998, 49, 30]
+bidder:  adv4 payment  85 budget:  49
+
+
+19
+adv3
+valutazioni:  89
+bids precedenti:  [52.299999999999976, 49, 30]
+bidder:  adv3 payment  70 budget:  30
+
+
+24
+adv7
+valutazioni:  76
+bids precedenti:  [51.79999999999997, 49, 30]
+bidder:  adv7 payment  4 budget:  54
+
+
+34
+adv4
+valutazioni:  91
+bids precedenti:  [48.09999999999999, 48.09999999999999, 30]
+bidder:  adv4 payment  12 budget:  49
+
+
+35
+adv7
+valutazioni:  76
+bids precedenti:  [47.999999999999986, 30, 12]
+bidder:  adv7 payment  53 budget:  54
+
+
+37
+adv4
+valutazioni:  91
+bids precedenti:  [52.9, 49, 30]
+bidder:  adv4 payment  8 budget:  49
+
+
+60
+adv4
+valutazioni:  91
+bids precedenti:  [50.599999999999966, 49, 30]
+bidder:  adv4 payment  87 budget:  49
+
+
+71
+adv4
+valutazioni:  91
+bids precedenti:  [49.49999999999995, 49, 30]
+bidder:  adv4 payment  40 budget:  49
+
+
+77
+adv3
+valutazioni:  89
+bids precedenti:  [53.599999999999994, 49, 30]
+bidder:  adv3 payment  73 budget:  30
+
+
+17
+adv4
+valutazioni:  87
+bids precedenti:  [37, 17.00000000000002, 0.1]
+bidder:  adv4 payment  3 budget:  37
+
+
+28
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 13.000000000000021, 0.1]
+bidder:  adv4 payment  82 budget:  36.6
+
+
+33
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 11.00000000000002, 0.1]
+bidder:  adv5 payment  1 budget:  48
+
+
+43
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 3.4000000000000163, 0.1]
+bidder:  adv2 payment  5 budget:  3.0
+
+
+1
+adv2
+valutazioni:  87
+bids precedenti:  [0, 0, 0]
+bidder:  adv2 payment  33 budget:  49
+
+
+4
+adv6
+valutazioni:  99
+bids precedenti:  [49, 40, 34]
+bidder:  adv6 payment  12 budget:  40
+
+
+11
+adv3
+valutazioni:  19
+bids precedenti:  [18.099999999999987, 18.099999999999987, 18.099999999999987]
+bidder:  adv3 payment  5 budget:  21
+
+
+20
+adv6
+valutazioni:  16
+bids precedenti:  [17.199999999999974, 17.199999999999974, 17.199999999999974]
+bidder:  adv6 payment  3 budget:  30
+
+
+22
+adv3
+valutazioni:  19
+bids precedenti:  [16.99999999999997, 16.99999999999997, 16.99999999999997]
+bidder:  adv3 payment  4 budget:  21
+
+
+29
+adv6
+valutazioni:  16
+bids precedenti:  [16.29999999999996, 16.29999999999996, 16.29999999999996]
+bidder:  adv6 payment  7 budget:  30
+
+
+30
+adv7
+valutazioni:  9
+bids precedenti:  [16.19999999999996, 16.19999999999996, 7]
+bidder:  adv7 payment  7 budget:  50
+
+
+36
+adv7
+valutazioni:  9
+bids precedenti:  [15.59999999999996, 15.59999999999996, 15.59999999999996]
+bidder:  adv7 payment  7 budget:  50
+
+
+36
+adv6
+valutazioni:  16
+bids precedenti:  [15.59999999999996, 15.59999999999996, 15.59999999999996]
+bidder:  adv6 payment  3 budget:  30
+
+
+38
+adv7
+valutazioni:  9
+bids precedenti:  [15.399999999999961, 15.399999999999961, 15.399999999999961]
+bidder:  adv7 payment  0 budget:  50
+
+
+69
+adv6
+valutazioni:  16
+bids precedenti:  [19, 12.299999999999972, 12.299999999999972]
+bidder:  adv6 payment  8 budget:  30
+
+
+72
+adv3
+valutazioni:  19
+bids precedenti:  [19, 11.999999999999973, 11.999999999999973]
+bidder:  adv3 payment  4 budget:  21
+
+
+77
+adv7
+valutazioni:  9
+bids precedenti:  [19, 18.9, 11.499999999999975]
+bidder:  adv7 payment  5 budget:  50
+
+
+80
+adv6
+valutazioni:  16
+bids precedenti:  [18.699999999999996, 18.699999999999996, 18.699999999999996]
+bidder:  adv6 payment  11 budget:  30
+
+
+90
+adv7
+valutazioni:  9
+bids precedenti:  [17.69999999999998, 17.69999999999998, 17.69999999999998]
+bidder:  adv7 payment  6 budget:  50
+
+
+97
+adv7
+valutazioni:  9
+bids precedenti:  [16.99999999999997, 16.99999999999997, 16.99999999999997]
+bidder:  adv7 payment  7 budget:  50
+
+
+97
+adv3
+valutazioni:  19
+bids precedenti:  [16.99999999999997, 16.99999999999997, 16.99999999999997]
+bidder:  adv3 payment  7 budget:  21
+
+
+0
+adv7
+
+
+10
+adv3
+valutazioni:  65
+bids precedenti:  [51, 33, 32.9]
+bidder:  adv3 payment  38 budget:  33
+
+
+6
+adv3
+valutazioni:  2
+bids precedenti:  [11.699999999999996, 0.5, 0.4]
+bidder:  adv3 payment  0 budget:  31.6
+
+
+7
+adv6
+valutazioni:  7
+bids precedenti:  [2.099999999999998, 0.6, 0]
+bidder:  adv6 payment  0 budget:  15.5
+
+
+5
+adv3
+valutazioni:  29
+bids precedenti:  [27.699999999999996, 27.699999999999996, 8]
+bidder:  adv3 payment  17 budget:  20
+
+
+0
+adv7
+s precedenti:  [36.6, 12.20000000000002, 0.1]
+vecchia utility  -1  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+31
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 11.80000000000002, 0.1]
+vecchia utility  -1  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+32
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 11.40000000000002, 0.1]
+vecchia utility  -1  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+34
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 10.60000000000002, 1]
+vecchia utility  -1  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+35
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 6.600000000000019, 0.1]
+vecchia utility  -1  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+36
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 6.200000000000019, 0.1]
+vecchia utility  -1  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+37
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 5.8000000000000185, 0.1]
+vecchia utility  -1  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+38
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 5.400000000000018, 0.1]
+vecchia utility  -1  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+39
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 5.000000000000018, 0.1]
+vecchia utility  -1  nuova utility  -4.26325641456e-13
+preferred slot:  1
+payment  5.0
+vecchia utility  -4.26325641456e-13  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+40
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 4.600000000000017, 0.1]
+vecchia utility  -1  nuova utility  9.6
+preferred slot:  1
+payment  4.6
+vecchia utility  9.6  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+41
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 4.200000000000017, 0.1]
+vecchia utility  -1  nuova utility  19.2
+preferred slot:  1
+payment  4.2
+vecchia utility  19.2  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+42
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 3.8000000000000167, 0.1]
+vecchia utility  -1  nuova utility  28.8
+preferred slot:  1
+payment  3.8
+vecchia utility  28.8  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+43
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 3.4000000000000163, 0.1]
+vecchia utility  -1  nuova utility  38.4
+preferred slot:  1
+payment  3.4
+vecchia utility  38.4  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+44
+adv5
+valutazioni:  5
+bids precedenti:  [36.6, 3.000000000000016, 0.1]
+vecchia utility  -1  nuova utility  48.0
+preferred slot:  1
+payment  3.0
+vecchia utility  48.0  nuova utility  100
+preferred slot:  2
+payment  0
+
+
+45
+adv5
+valutazioni:  5
+bids precedenti:  [2.6000000000000156, 0.199999999999811, 0.1]
+vecchia utility  -1  nuova utility  86.4
+preferred slot:  0
+payment  2.6
+vecchia utility  86.4  nuova utility  115.2
+preferred slot:  1
+payment  0.2
+
+
+46
+adv5
+valutazioni:  5
+bids precedenti:  [2.6000000000000156, 0.299999999999811, 0.199999999999811]
+vecchia utility  -1  nuova utility  86.4
+preferred slot:  0
+payment  2.6
+vecchia utility  86.4  nuova utility  115.2
+preferred slot:  1
+payment  0.2
+
+
+0
+adv6
+
+
+0
+adv3
+
+
+1
+adv6
+valutazioni:  7
+bids precedenti:  [7, 2, 0]
+vecchia utility  -1  nuova utility  140
+preferred slot:  0
+payment  2
+
+
+1
+adv3
+valutazioni:  2
+bids precedenti:  [7, 2, 0]
+vecchia utility  -1  nuova utility  32
+preferred slot:  1
+payment  0
+
+
+2
+adv6
+valutazioni:  7
+bids precedenti:  [54, 2.1, 0.1]
+vecchia utility  -1  nuova utility  110.4
+preferred slot:  1
+payment  0.1
+
+
+2
+adv3
+valutazioni:  2
+bids precedenti:  [54, 2.1, 0.1]
+vecchia utility  -1  nuova utility  14
+preferred slot:  2
+payment  0
+
+
+3
+adv6
+valutazioni:  7
+bids precedenti:  [27.9, 0.2, 0.1]
+vecchia utility  -1  nuova utility  110.4
+preferred slot:  1
+payment  0.1
+
+
+3
+adv3
+valutazioni:  2
+bids precedenti:  [27.9, 0.2, 0.1]
+vecchia utility  -1  nuova utility  28.8
+preferred slot:  1
+payment  0.2
+
+
+4
+adv6
+valutazioni:  7
+bids precedenti:  [24.599999999999998, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  107.2
+preferred slot:  1
+payment  0.3
+
+
+4
+adv3
+valutazioni:  2
+bids precedenti:  [24.599999999999998, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  28.8
+preferred slot:  1
+payment  0.2
+
+
+5
+adv6
+valutazioni:  7
+bids precedenti:  [19.199999999999996, 0.4, 0.30000000000000004]
+vecchia utility  -1  nuova utility  107.2
+preferred slot:  1
+payment  0.3
+
+
+5
+adv3
+valutazioni:  2
+bids precedenti:  [19.199999999999996, 0.4, 0.30000000000000004]
+vecchia utility  -1  nuova utility  25.6
+preferred slot:  1
+payment  0.4
+
+
+6
+adv6
+valutazioni:  7
+bids precedenti:  [11.699999999999996, 0.5, 0.4]
+vecchia utility  -1  nuova utility  104.0
+preferred slot:  1
+payment  0.5
+
+
+7
+adv3
+valutazioni:  2
+bids precedenti:  [2.099999999999998, 0.6, 0]
+vecchia utility  -1  nuova utility  22.4
+preferred slot:  1
+payment  0.6
+
+
+8
+adv6
+valutazioni:  7
+bids precedenti:  [2.099999999999998, 0.7, 0]
+vecchia utility  -1  nuova utility  137.2
+preferred slot:  0
+payment  2.1
+
+
+8
+adv3
+valutazioni:  2
+bids precedenti:  [2.099999999999998, 0.7, 0]
+vecchia utility  -1  nuova utility  32
+preferred slot:  1
+payment  0
+
+
+9
+adv6
+valutazioni:  7
+bids precedenti:  [2.199999999999998, 2.099999999999998, 0.1]
+vecchia utility  -1  nuova utility  137.2
+preferred slot:  0
+payment  2.1
+
+
+9
+adv3
+valutazioni:  2
+bids precedenti:  [2.199999999999998, 2.099999999999998, 0.1]
+vecchia utility  -1  nuova utility  14
+preferred slot:  2
+payment  0
+
+
+10
+adv6
+valutazioni:  7
+bids precedenti:  [2.199999999999998, 1.199999999999998, 0.1]
+vecchia utility  -1  nuova utility  162.4
+preferred slot:  0
+payment  1.2
+
+
+10
+adv3
+valutazioni:  2
+bids precedenti:  [2.199999999999998, 1.199999999999998, 0.1]
+vecchia utility  -1  nuova utility  12.8
+preferred slot:  1
+payment  1.2
+vecchia utility  12.8  nuova utility  14
+preferred slot:  2
+payment  0
+
+
+11
+adv6
+valutazioni:  7
+bids precedenti:  [0.29999999999999793, 0.20000000000002416, 0.1]
+vecchia utility  -1  nuova utility  187.6
+preferred slot:  0
+payment  0.3
+
+
+11
+adv3
+valutazioni:  2
+bids precedenti:  [0.29999999999999793, 0.20000000000002416, 0.1]
+vecchia utility  -1  nuova utility  47.6
+preferred slot:  0
+payment  0.3
+
+
+12
+adv6
+valutazioni:  7
+bids precedenti:  [0.3999999999999979, 0.29999999999999793, 0.20000000000002416]
+vecchia utility  -1  nuova utility  184.8
+preferred slot:  0
+payment  0.4
+
+
+12
+adv3
+valutazioni:  2
+bids precedenti:  [0.3999999999999979, 0.29999999999999793, 0.20000000000002416]
+vecchia utility  -1  nuova utility  47.6
+preferred slot:  0
+payment  0.3
+slot:  0
+payment  52.2
+vecchia utility  1901.2  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+20
+adv7
+valutazioni:  76
+bids precedenti:  [52.199999999999974, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+20
+adv3
+valutazioni:  89
+bids precedenti:  [52.199999999999974, 49, 30]
+vecchia utility  -1  nuova utility  1803.2
+preferred slot:  0
+payment  52.2
+
+
+21
+adv4
+valutazioni:  91
+bids precedenti:  [52.09999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1906.1
+preferred slot:  0
+payment  52.1
+vecchia utility  1906.1  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+21
+adv7
+valutazioni:  76
+bids precedenti:  [52.09999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+21
+adv3
+valutazioni:  89
+bids precedenti:  [52.09999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1808.1
+preferred slot:  0
+payment  52.1
+
+
+22
+adv4
+valutazioni:  91
+bids precedenti:  [51.99999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1911.0
+preferred slot:  0
+payment  52.0
+vecchia utility  1911.0  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+22
+adv7
+valutazioni:  76
+bids precedenti:  [51.99999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+22
+adv3
+valutazioni:  89
+bids precedenti:  [51.99999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1813.0
+preferred slot:  0
+payment  52.0
+
+
+23
+adv4
+valutazioni:  91
+bids precedenti:  [51.89999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1915.9
+preferred slot:  0
+payment  51.9
+vecchia utility  1915.9  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+23
+adv7
+valutazioni:  76
+bids precedenti:  [51.89999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+23
+adv3
+valutazioni:  89
+bids precedenti:  [51.89999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1817.9
+preferred slot:  0
+payment  51.9
+
+
+24
+adv4
+valutazioni:  91
+bids precedenti:  [51.79999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1920.8
+preferred slot:  0
+payment  51.8
+vecchia utility  1920.8  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+24
+adv3
+valutazioni:  89
+bids precedenti:  [51.79999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1822.8
+preferred slot:  0
+payment  51.8
+
+
+25
+adv4
+valutazioni:  91
+bids precedenti:  [49, 30, 4]
+vecchia utility  -1  nuova utility  2989
+preferred slot:  0
+payment  30
+vecchia utility  2989  nuova utility  3045
+preferred slot:  1
+payment  4
+
+
+25
+adv7
+valutazioni:  76
+bids precedenti:  [49, 30, 4]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+25
+adv3
+valutazioni:  89
+bids precedenti:  [49, 30, 4]
+vecchia utility  -1  nuova utility  1960
+preferred slot:  0
+payment  49
+vecchia utility  1960  nuova utility  2975
+preferred slot:  1
+payment  4
+
+
+26
+adv4
+valutazioni:  91
+bids precedenti:  [48.9, 48.9, 30]
+vecchia utility  -1  nuova utility  2062.9
+preferred slot:  0
+payment  48.9
+vecchia utility  2062.9  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+26
+adv7
+valutazioni:  76
+bids precedenti:  [48.9, 48.9, 30]
+vecchia utility  -1  nuova utility  1327.9
+preferred slot:  0
+payment  48.9
+vecchia utility  1327.9  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+26
+adv3
+valutazioni:  89
+bids precedenti:  [48.9, 48.9, 30]
+vecchia utility  -1  nuova utility  1964.9
+preferred slot:  0
+payment  48.9
+
+
+27
+adv4
+valutazioni:  91
+bids precedenti:  [48.8, 48.8, 30]
+vecchia utility  -1  nuova utility  2067.8
+preferred slot:  0
+payment  48.8
+vecchia utility  2067.8  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+27
+adv7
+valutazioni:  76
+bids precedenti:  [48.8, 48.8, 30]
+vecchia utility  -1  nuova utility  1332.8
+preferred slot:  0
+payment  48.8
+vecchia utility  1332.8  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+27
+adv3
+valutazioni:  89
+bids precedenti:  [48.8, 48.8, 30]
+vecchia utility  -1  nuova utility  1969.8
+preferred slot:  0
+payment  48.8
+
+
+28
+adv4
+valutazioni:  91
+bids precedenti:  [48.699999999999996, 48.699999999999996, 30]
+vecchia utility  -1  nuova utility  2072.7
+preferred slot:  0
+payment  48.7
+vecchia utility  2072.7  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+28
+adv7
+valutazioni:  76
+bids precedenti:  [48.699999999999996, 48.699999999999996, 30]
+vecchia utility  -1  nuova utility  1337.7
+preferred slot:  0
+payment  48.7
+vecchia utility  1337.7  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+28
+adv3
+valutazioni:  89
+bids precedenti:  [48.699999999999996, 48.699999999999996, 30]
+vecchia utility  -1  nuova utility  1974.7
+preferred slot:  0
+payment  48.7
+
+
+29
+adv4
+valutazioni:  91
+bids precedenti:  [48.599999999999994, 48.599999999999994, 30]
+vecchia utility  -1  nuova utility  2077.6
+preferred slot:  0
+payment  48.6
+vecchia utility  2077.6  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+29
+adv7
+valutazioni:  76
+bids precedenti:  [48.599999999999994, 48.599999999999994, 30]
+vecchia utility  -1  nuova utility  1342.6
+preferred slot:  0
+payment  48.6
+vecchia utility  1342.6  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+29
+adv3
+valutazioni:  89
+bids precedenti:  [48.599999999999994, 48.599999999999994, 30]
+vecchia utility  -1  nuova utility  1979.6
+preferred slot:  0
+payment  48.6
+
+
+30
+adv4
+valutazioni:  91
+bids precedenti:  [48.49999999999999, 48.49999999999999, 30]
+vecchia utility  -1  nuova utility  2082.5
+preferred slot:  0
+payment  48.5
+vecchia utility  2082.5  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+30
+adv7
+valutazioni:  76
+bids precedenti:  [48.49999999999999, 48.49999999999999, 30]
+vecchia utility  -1  nuova utility  1347.5
+preferred slot:  0
+payment  48.5
+vecchia utility  1347.5  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+30
+adv3
+valutazioni:  89
+bids precedenti:  [48.49999999999999, 48.49999999999999, 30]
+vecchia utility  -1  nuova utility  1984.5
+preferred slot:  0
+payment  48.5
+
+
+31
+adv4
+valutazioni:  91
+bids precedenti:  [48.39999999999999, 48.39999999999999, 30]
+vecchia utility  -1  nuova utility  2087.4
+preferred slot:  0
+payment  48.4
+vecchia utility  2087.4  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+31
+adv7
+valutazioni:  76
+bids precedenti:  [48.39999999999999, 48.39999999999999, 30]
+vecchia utility  -1  nuova utility  1352.4
+preferred slot:  0
+payment  48.4
+vecchia utility  1352.4  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+31
+adv3
+valutazioni:  89
+bids precedenti:  [48.39999999999999, 48.39999999999999, 30]
+vecchia utility  -1  nuova utility  1989.4
+preferred slot:  0
+payment  48.4
+
+
+32
+adv4
+valutazioni:  91
+bids precedenti:  [48.29999999999999, 48.29999999999999, 30]
+vecchia utility  -1  nuova utility  2092.3
+preferred slot:  0
+payment  48.3
+vecchia utility  2092.3  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+32
+adv7
+valutazioni:  76
+bids precedenti:  [48.29999999999999, 48.29999999999999, 30]
+vecchia utility  -1  nuova utility  1357.3
+preferred slot:  0
+payment  48.3
+vecchia utility  1357.3  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+32
+adv3
+valutazioni:  89
+bids precedenti:  [48.29999999999999, 48.29999999999999, 30]
+vecchia utility  -1  nuova utility  1994.3
+preferred slot:  0
+payment  48.3
+
+
+33
+adv4
+valutazioni:  91
+bids precedenti:  [48.19999999999999, 48.19999999999999, 30]
+vecchia utility  -1  nuova utility  2097.2
+preferred slot:  0
+payment  48.2
+vecchia utility  2097.2  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+33
+adv7
+valutazioni:  76
+bids precedenti:  [48.19999999999999, 48.19999999999999, 30]
+vecchia utility  -1  nuova utility  1362.2
+preferred slot:  0
+payment  48.2
+vecchia utility  1362.2  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+33
+adv3
+valutazioni:  89
+bids precedenti:  [48.19999999999999, 48.19999999999999, 30]
+vecchia utility  -1  nuova utility  1999.2
+preferred slot:  0
+payment  48.2
+
+
+34
+adv7
+valutazioni:  76
+bids precedenti:  [48.09999999999999, 48.09999999999999, 30]
+vecchia utility  -1  nuova utility  1367.1
+preferred slot:  0
+payment  48.1
+vecchia utility  1367.1  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+34
+adv3
+valutazioni:  89
+bids precedenti:  [48.09999999999999, 48.09999999999999, 30]
+vecchia utility  -1  nuova utility  2004.1
+preferred slot:  0
+payment  48.1
+
+
+35
+adv4
+valutazioni:  91
+bids precedenti:  [47.999999999999986, 30, 12]
+vecchia utility  -1  nuova utility  2107.0
+preferred slot:  0
+payment  48.0
+vecchia utility  2107.0  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+35
+adv3
+valutazioni:  89
+bids precedenti:  [47.999999999999986, 30, 12]
+vecchia utility  -1  nuova utility  2009.0
+preferred slot:  0
+payment  48.0
+vecchia utility  2009.0  nuova utility  2695
+preferred slot:  1
+payment  12
+
+
+36
+adv4
+valutazioni:  91
+bids precedenti:  [53, 47.899999999999984, 30]
+vecchia utility  -1  nuova utility  1862
+preferred slot:  0
+payment  53
+vecchia utility  1862  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+36
+adv7
+valutazioni:  76
+bids precedenti:  [53, 47.899999999999984, 30]
+vecchia utility  -1  nuova utility  1376.9
+preferred slot:  0
+payment  47.9
+vecchia utility  1376.9  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+36
+adv3
+valutazioni:  89
+bids precedenti:  [53, 47.899999999999984, 30]
+vecchia utility  -1  nuova utility  1764
+preferred slot:  0
+payment  53
+
+
+37
+adv7
+valutazioni:  76
+bids precedenti:  [52.9, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+37
+adv3
+valutazioni:  89
+bids precedenti:  [52.9, 49, 30]
+vecchia utility  -1  nuova utility  1768.9
+preferred slot:  0
+payment  52.9
+
+
+38
+adv4
+valutazioni:  91
+bids precedenti:  [52.8, 30, 8]
+vecchia utility  -1  nuova utility  1871.8
+preferred slot:  0
+payment  52.8
+vecchia utility  1871.8  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+38
+adv7
+valutazioni:  76
+bids precedenti:  [52.8, 30, 8]
+vecchia utility  -1  nuova utility  2254
+preferred slot:  0
+payment  30
+vecchia utility  2254  nuova utility  2380
+preferred slot:  1
+payment  8
+
+
+38
+adv3
+valutazioni:  89
+bids precedenti:  [52.8, 30, 8]
+vecchia utility  -1  nuova utility  1773.8
+preferred slot:  0
+payment  52.8
+vecchia utility  1773.8  nuova utility  2835
+preferred slot:  1
+payment  8
+
+
+39
+adv4
+valutazioni:  91
+bids precedenti:  [52.699999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1876.7
+preferred slot:  0
+payment  52.7
+vecchia utility  1876.7  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+39
+adv7
+valutazioni:  76
+bids precedenti:  [52.699999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+39
+adv3
+valutazioni:  89
+bids precedenti:  [52.699999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1778.7
+preferred slot:  0
+payment  52.7
+
+
+40
+adv4
+valutazioni:  91
+bids precedenti:  [52.599999999999994, 49, 30]
+vecchia utility  -1  nuova utility  1881.6
+preferred slot:  0
+payment  52.6
+vecchia utility  1881.6  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+40
+adv7
+valutazioni:  76
+bids precedenti:  [52.599999999999994, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+40
+adv3
+valutazioni:  89
+bids precedenti:  [52.599999999999994, 49, 30]
+vecchia utility  -1  nuova utility  1783.6
+preferred slot:  0
+payment  52.6
+
+
+41
+adv4
+valutazioni:  91
+bids precedenti:  [52.49999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1886.5
+preferred slot:  0
+payment  52.5
+vecchia utility  1886.5  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+41
+adv7
+valutazioni:  76
+bids precedenti:  [52.49999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+41
+adv3
+valutazioni:  89
+bids precedenti:  [52.49999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1788.5
+preferred slot:  0
+payment  52.5
+
+
+42
+adv4
+valutazioni:  91
+bids precedenti:  [52.39999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1891.4
+preferred slot:  0
+payment  52.4
+vecchia utility  1891.4  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+42
+adv7
+valutazioni:  76
+bids precedenti:  [52.39999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+42
+adv3
+valutazioni:  89
+bids precedenti:  [52.39999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1793.4
+preferred slot:  0
+payment  52.4
+
+
+43
+adv4
+valutazioni:  91
+bids precedenti:  [52.29999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1896.3
+preferred slot:  0
+payment  52.3
+vecchia utility  1896.3  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+43
+adv7
+valutazioni:  76
+bids precedenti:  [52.29999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+43
+adv3
+valutazioni:  89
+bids precedenti:  [52.29999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1798.3
+preferred slot:  0
+payment  52.3
+
+
+44
+adv4
+valutazioni:  91
+bids precedenti:  [52.19999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1901.2
+preferred slot:  0
+payment  52.2
+vecchia utility  1901.2  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+44
+adv7
+valutazioni:  76
+bids precedenti:  [52.19999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+44
+adv3
+valutazioni:  89
+bids precedenti:  [52.19999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1803.2
+preferred slot:  0
+payment  52.2
+
+
+45
+adv4
+valutazioni:  91
+bids precedenti:  [52.09999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1906.1
+preferred slot:  0
+payment  52.1
+vecchia utility  1906.1  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+45
+adv7
+valutazioni:  76
+bids precedenti:  [52.09999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+45
+adv3
+valutazioni:  89
+bids precedenti:  [52.09999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1808.1
+preferred slot:  0
+payment  52.1
+
+
+46
+adv4
+valutazioni:  91
+bids precedenti:  [51.999999999999986, 49, 30]
+vecchia utility  -1  nuova utility  1911.0
+preferred slot:  0
+payment  52.0
+vecchia utility  1911.0  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+46
+adv7
+valutazioni:  76
+bids precedenti:  [51.999999999999986, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+46
+adv3
+valutazioni:  89
+bids precedenti:  [51.999999999999986, 49, 30]
+vecchia utility  -1  nuova utility  1813.0
+preferred slot:  0
+payment  52.0
+
+
+47
+adv4
+valutazioni:  91
+bids precedenti:  [51.899999999999984, 49, 30]
+vecchia utility  -1  nuova utility  1915.9
+preferred slot:  0
+payment  51.9
+vecchia utility  1915.9  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+47
+adv7
+valutazioni:  76
+bids precedenti:  [51.899999999999984, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+47
+adv3
+valutazioni:  89
+bids precedenti:  [51.899999999999984, 49, 30]
+vecchia utility  -1  nuova utility  1817.9
+preferred slot:  0
+payment  51.9
+
+
+48
+adv4
+valutazioni:  91
+bids precedenti:  [51.79999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1920.8
+preferred slot:  0
+payment  51.8
+vecchia utility  1920.8  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+48
+adv7
+valutazioni:  76
+bids precedenti:  [51.79999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+48
+adv3
+valutazioni:  89
+bids precedenti:  [51.79999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1822.8
+preferred slot:  0
+payment  51.8
+
+
+49
+adv4
+valutazioni:  91
+bids precedenti:  [51.69999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1925.7
+preferred slot:  0
+payment  51.7
+vecchia utility  1925.7  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+49
+adv7
+valutazioni:  76
+bids precedenti:  [51.69999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+49
+adv3
+valutazioni:  89
+bids precedenti:  [51.69999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1827.7
+preferred slot:  0
+payment  51.7
+
+
+50
+adv4
+valutazioni:  91
+bids precedenti:  [51.59999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1930.6
+preferred slot:  0
+payment  51.6
+vecchia utility  1930.6  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+50
+adv7
+valutazioni:  76
+bids precedenti:  [51.59999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+50
+adv3
+valutazioni:  89
+bids precedenti:  [51.59999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1832.6
+preferred slot:  0
+payment  51.6
+
+
+51
+adv4
+valutazioni:  91
+bids precedenti:  [51.49999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1935.5
+preferred slot:  0
+payment  51.5
+vecchia utility  1935.5  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+51
+adv7
+valutazioni:  76
+bids precedenti:  [51.49999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+51
+adv3
+valutazioni:  89
+bids precedenti:  [51.49999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1837.5
+preferred slot:  0
+payment  51.5
+
+
+52
+adv4
+valutazioni:  91
+bids precedenti:  [51.39999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1940.4
+preferred slot:  0
+payment  51.4
+vecchia utility  1940.4  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+52
+adv7
+valutazioni:  76
+bids precedenti:  [51.39999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+52
+adv3
+valutazioni:  89
+bids precedenti:  [51.39999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1842.4
+preferred slot:  0
+payment  51.4
+
+
+53
+adv4
+valutazioni:  91
+bids precedenti:  [51.299999999999976, 49, 30]
+vecchia utility  -1  nuova utility  1945.3
+preferred slot:  0
+payment  51.3
+vecchia utility  1945.3  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+53
+adv7
+valutazioni:  76
+bids precedenti:  [51.299999999999976, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+53
+adv3
+valutazioni:  89
+bids precedenti:  [51.299999999999976, 49, 30]
+vecchia utility  -1  nuova utility  1847.3
+preferred slot:  0
+payment  51.3
+
+
+54
+adv4
+valutazioni:  91
+bids precedenti:  [51.199999999999974, 49, 30]
+vecchia utility  -1  nuova utility  1950.2
+preferred slot:  0
+payment  51.2
+vecchia utility  1950.2  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+54
+adv7
+valutazioni:  76
+bids precedenti:  [51.199999999999974, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+54
+adv3
+valutazioni:  89
+bids precedenti:  [51.199999999999974, 49, 30]
+vecchia utility  -1  nuova utility  1852.2
+preferred slot:  0
+payment  51.2
+
+
+55
+adv4
+valutazioni:  91
+bids precedenti:  [51.09999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1955.1
+preferred slot:  0
+payment  51.1
+vecchia utility  1955.1  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+55
+adv7
+valutazioni:  76
+bids precedenti:  [51.09999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+55
+adv3
+valutazioni:  89
+bids precedenti:  [51.09999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1857.1
+preferred slot:  0
+payment  51.1
+
+
+56
+adv4
+valutazioni:  91
+bids precedenti:  [50.99999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1960.0
+preferred slot:  0
+payment  51.0
+vecchia utility  1960.0  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+56
+adv7
+valutazioni:  76
+bids precedenti:  [50.99999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+56
+adv3
+valutazioni:  89
+bids precedenti:  [50.99999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1862.0
+preferred slot:  0
+payment  51.0
+
+
+57
+adv4
+valutazioni:  91
+bids precedenti:  [50.89999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1964.9
+preferred slot:  0
+payment  50.9
+vecchia utility  1964.9  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+57
+adv7
+valutazioni:  76
+bids precedenti:  [50.89999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+57
+adv3
+valutazioni:  89
+bids precedenti:  [50.89999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1866.9
+preferred slot:  0
+payment  50.9
+
+
+58
+adv4
+valutazioni:  91
+bids precedenti:  [50.79999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1969.8
+preferred slot:  0
+payment  50.8
+vecchia utility  1969.8  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+58
+adv7
+valutazioni:  76
+bids precedenti:  [50.79999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+58
+adv3
+valutazioni:  89
+bids precedenti:  [50.79999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1871.8
+preferred slot:  0
+payment  50.8
+
+
+59
+adv4
+valutazioni:  91
+bids precedenti:  [50.69999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1974.7
+preferred slot:  0
+payment  50.7
+vecchia utility  1974.7  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+59
+adv7
+valutazioni:  76
+bids precedenti:  [50.69999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+59
+adv3
+valutazioni:  89
+bids precedenti:  [50.69999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1876.7
+preferred slot:  0
+payment  50.7
+
+
+60
+adv7
+valutazioni:  76
+bids precedenti:  [50.599999999999966, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+60
+adv3
+valutazioni:  89
+bids precedenti:  [50.599999999999966, 49, 30]
+vecchia utility  -1  nuova utility  1881.6
+preferred slot:  0
+payment  50.6
+
+
+61
+adv4
+valutazioni:  91
+bids precedenti:  [50.499999999999964, 49, 30]
+vecchia utility  -1  nuova utility  1984.5
+preferred slot:  0
+payment  50.5
+vecchia utility  1984.5  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+61
+adv7
+valutazioni:  76
+bids precedenti:  [50.499999999999964, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+61
+adv3
+valutazioni:  89
+bids precedenti:  [50.499999999999964, 49, 30]
+vecchia utility  -1  nuova utility  1886.5
+preferred slot:  0
+payment  50.5
+
+
+62
+adv4
+valutazioni:  91
+bids precedenti:  [50.39999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1989.4
+preferred slot:  0
+payment  50.4
+vecchia utility  1989.4  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+62
+adv7
+valutazioni:  76
+bids precedenti:  [50.39999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+62
+adv3
+valutazioni:  89
+bids precedenti:  [50.39999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1891.4
+preferred slot:  0
+payment  50.4
+
+
+63
+adv4
+valutazioni:  91
+bids precedenti:  [50.29999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1994.3
+preferred slot:  0
+payment  50.3
+vecchia utility  1994.3  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+63
+adv7
+valutazioni:  76
+bids precedenti:  [50.29999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+63
+adv3
+valutazioni:  89
+bids precedenti:  [50.29999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1896.3
+preferred slot:  0
+payment  50.3
+
+
+64
+adv4
+valutazioni:  91
+bids precedenti:  [50.19999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1999.2
+preferred slot:  0
+payment  50.2
+vecchia utility  1999.2  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+64
+adv7
+valutazioni:  76
+bids precedenti:  [50.19999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+64
+adv3
+valutazioni:  89
+bids precedenti:  [50.19999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1901.2
+preferred slot:  0
+payment  50.2
+
+
+65
+adv4
+valutazioni:  91
+bids precedenti:  [50.09999999999996, 49, 30]
+vecchia utility  -1  nuova utility  2004.1
+preferred slot:  0
+payment  50.1
+vecchia utility  2004.1  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+65
+adv7
+valutazioni:  76
+bids precedenti:  [50.09999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+65
+adv3
+valutazioni:  89
+bids precedenti:  [50.09999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1906.1
+preferred slot:  0
+payment  50.1
+
+
+66
+adv4
+valutazioni:  91
+bids precedenti:  [49.99999999999996, 49, 30]
+vecchia utility  -1  nuova utility  2009.0
+preferred slot:  0
+payment  50.0
+vecchia utility  2009.0  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+66
+adv7
+valutazioni:  76
+bids precedenti:  [49.99999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+66
+adv3
+valutazioni:  89
+bids precedenti:  [49.99999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1911.0
+preferred slot:  0
+payment  50.0
+
+
+67
+adv4
+valutazioni:  91
+bids precedenti:  [49.899999999999956, 49, 30]
+vecchia utility  -1  nuova utility  2013.9
+preferred slot:  0
+payment  49.9
+vecchia utility  2013.9  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+67
+adv7
+valutazioni:  76
+bids precedenti:  [49.899999999999956, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+67
+adv3
+valutazioni:  89
+bids precedenti:  [49.899999999999956, 49, 30]
+vecchia utility  -1  nuova utility  1915.9
+preferred slot:  0
+payment  49.9
+
+
+68
+adv4
+valutazioni:  91
+bids precedenti:  [49.799999999999955, 49, 30]
+vecchia utility  -1  nuova utility  2018.8
+preferred slot:  0
+payment  49.8
+vecchia utility  2018.8  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+68
+adv7
+valutazioni:  76
+bids precedenti:  [49.799999999999955, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+68
+adv3
+valutazioni:  89
+bids precedenti:  [49.799999999999955, 49, 30]
+vecchia utility  -1  nuova utility  1920.8
+preferred slot:  0
+payment  49.8
+
+
+69
+adv4
+valutazioni:  91
+bids precedenti:  [49.69999999999995, 49, 30]
+vecchia utility  -1  nuova utility  2023.7
+preferred slot:  0
+payment  49.7
+vecchia utility  2023.7  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+69
+adv7
+valutazioni:  76
+bids precedenti:  [49.69999999999995, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+69
+adv3
+valutazioni:  89
+bids precedenti:  [49.69999999999995, 49, 30]
+vecchia utility  -1  nuova utility  1925.7
+preferred slot:  0
+payment  49.7
+
+
+70
+adv4
+valutazioni:  91
+bids precedenti:  [49.59999999999995, 49, 30]
+vecchia utility  -1  nuova utility  2028.6
+preferred slot:  0
+payment  49.6
+vecchia utility  2028.6  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+70
+adv7
+valutazioni:  76
+bids precedenti:  [49.59999999999995, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+70
+adv3
+valutazioni:  89
+bids precedenti:  [49.59999999999995, 49, 30]
+vecchia utility  -1  nuova utility  1930.6
+preferred slot:  0
+payment  49.6
+
+
+71
+adv7
+valutazioni:  76
+bids precedenti:  [49.49999999999995, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+71
+adv3
+valutazioni:  89
+bids precedenti:  [49.49999999999995, 49, 30]
+vecchia utility  -1  nuova utility  1935.5
+preferred slot:  0
+payment  49.5
+
+
+72
+adv4
+valutazioni:  91
+bids precedenti:  [49.39999999999995, 40, 30]
+vecchia utility  -1  nuova utility  2038.4
+preferred slot:  0
+payment  49.4
+vecchia utility  2038.4  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+72
+adv7
+valutazioni:  76
+bids precedenti:  [49.39999999999995, 40, 30]
+vecchia utility  -1  nuova utility  1764
+preferred slot:  0
+payment  40
+
+
+72
+adv3
+valutazioni:  89
+bids precedenti:  [49.39999999999995, 40, 30]
+vecchia utility  -1  nuova utility  1940.4
+preferred slot:  0
+payment  49.4
+
+
+73
+adv4
+valutazioni:  91
+bids precedenti:  [54, 49, 30]
+vecchia utility  -1  nuova utility  1813
+preferred slot:  0
+payment  54
+vecchia utility  1813  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+73
+adv7
+valutazioni:  76
+bids precedenti:  [54, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+73
+adv3
+valutazioni:  89
+bids precedenti:  [54, 49, 30]
+vecchia utility  -1  nuova utility  1715
+preferred slot:  0
+payment  54
+
+
+74
+adv4
+valutazioni:  91
+bids precedenti:  [53.9, 49, 30]
+vecchia utility  -1  nuova utility  1817.9
+preferred slot:  0
+payment  53.9
+vecchia utility  1817.9  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+74
+adv7
+valutazioni:  76
+bids precedenti:  [53.9, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+74
+adv3
+valutazioni:  89
+bids precedenti:  [53.9, 49, 30]
+vecchia utility  -1  nuova utility  1719.9
+preferred slot:  0
+payment  53.9
+
+
+75
+adv4
+valutazioni:  91
+bids precedenti:  [53.8, 49, 30]
+vecchia utility  -1  nuova utility  1822.8
+preferred slot:  0
+payment  53.8
+vecchia utility  1822.8  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+75
+adv7
+valutazioni:  76
+bids precedenti:  [53.8, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+75
+adv3
+valutazioni:  89
+bids precedenti:  [53.8, 49, 30]
+vecchia utility  -1  nuova utility  1724.8
+preferred slot:  0
+payment  53.8
+
+
+76
+adv4
+valutazioni:  91
+bids precedenti:  [53.699999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1827.7
+preferred slot:  0
+payment  53.7
+vecchia utility  1827.7  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+76
+adv7
+valutazioni:  76
+bids precedenti:  [53.699999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+76
+adv3
+valutazioni:  89
+bids precedenti:  [53.699999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1729.7
+preferred slot:  0
+payment  53.7
+
+
+77
+adv4
+valutazioni:  91
+bids precedenti:  [53.599999999999994, 49, 30]
+vecchia utility  -1  nuova utility  1832.6
+preferred slot:  0
+payment  53.6
+vecchia utility  1832.6  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+77
+adv7
+valutazioni:  76
+bids precedenti:  [53.599999999999994, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+78
+adv4
+valutazioni:  91
+bids precedenti:  [53.49999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1837.5
+preferred slot:  0
+payment  53.5
+vecchia utility  1837.5  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+78
+adv7
+valutazioni:  76
+bids precedenti:  [53.49999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+78
+adv3
+valutazioni:  89
+bids precedenti:  [53.49999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1739.5
+preferred slot:  0
+payment  53.5
+
+
+79
+adv4
+valutazioni:  91
+bids precedenti:  [53.39999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1842.4
+preferred slot:  0
+payment  53.4
+vecchia utility  1842.4  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+79
+adv7
+valutazioni:  76
+bids precedenti:  [53.39999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+79
+adv3
+valutazioni:  89
+bids precedenti:  [53.39999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1744.4
+preferred slot:  0
+payment  53.4
+
+
+80
+adv4
+valutazioni:  91
+bids precedenti:  [53.29999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1847.3
+preferred slot:  0
+payment  53.3
+vecchia utility  1847.3  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+80
+adv7
+valutazioni:  76
+bids precedenti:  [53.29999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+80
+adv3
+valutazioni:  89
+bids precedenti:  [53.29999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1749.3
+preferred slot:  0
+payment  53.3
+
+
+81
+adv4
+valutazioni:  91
+bids precedenti:  [53.19999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1852.2
+preferred slot:  0
+payment  53.2
+vecchia utility  1852.2  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+81
+adv7
+valutazioni:  76
+bids precedenti:  [53.19999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+81
+adv3
+valutazioni:  89
+bids precedenti:  [53.19999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1754.2
+preferred slot:  0
+payment  53.2
+
+
+82
+adv4
+valutazioni:  91
+bids precedenti:  [53.09999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1857.1
+preferred slot:  0
+payment  53.1
+vecchia utility  1857.1  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+82
+adv7
+valutazioni:  76
+bids precedenti:  [53.09999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+82
+adv3
+valutazioni:  89
+bids precedenti:  [53.09999999999999, 49, 30]
+vecchia utility  -1  nuova utility  1759.1
+preferred slot:  0
+payment  53.1
+
+
+83
+adv4
+valutazioni:  91
+bids precedenti:  [52.999999999999986, 49, 30]
+vecchia utility  -1  nuova utility  1862.0
+preferred slot:  0
+payment  53.0
+vecchia utility  1862.0  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+83
+adv7
+valutazioni:  76
+bids precedenti:  [52.999999999999986, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+83
+adv3
+valutazioni:  89
+bids precedenti:  [52.999999999999986, 49, 30]
+vecchia utility  -1  nuova utility  1764.0
+preferred slot:  0
+payment  53.0
+
+
+84
+adv4
+valutazioni:  91
+bids precedenti:  [52.899999999999984, 49, 30]
+vecchia utility  -1  nuova utility  1866.9
+preferred slot:  0
+payment  52.9
+vecchia utility  1866.9  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+84
+adv7
+valutazioni:  76
+bids precedenti:  [52.899999999999984, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+84
+adv3
+valutazioni:  89
+bids precedenti:  [52.899999999999984, 49, 30]
+vecchia utility  -1  nuova utility  1768.9
+preferred slot:  0
+payment  52.9
+
+
+85
+adv4
+valutazioni:  91
+bids precedenti:  [52.79999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1871.8
+preferred slot:  0
+payment  52.8
+vecchia utility  1871.8  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+85
+adv7
+valutazioni:  76
+bids precedenti:  [52.79999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+85
+adv3
+valutazioni:  89
+bids precedenti:  [52.79999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1773.8
+preferred slot:  0
+payment  52.8
+
+
+86
+adv4
+valutazioni:  91
+bids precedenti:  [52.69999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1876.7
+preferred slot:  0
+payment  52.7
+vecchia utility  1876.7  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+86
+adv7
+valutazioni:  76
+bids precedenti:  [52.69999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+86
+adv3
+valutazioni:  89
+bids precedenti:  [52.69999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1778.7
+preferred slot:  0
+payment  52.7
+
+
+87
+adv4
+valutazioni:  91
+bids precedenti:  [52.59999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1881.6
+preferred slot:  0
+payment  52.6
+vecchia utility  1881.6  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+87
+adv7
+valutazioni:  76
+bids precedenti:  [52.59999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+87
+adv3
+valutazioni:  89
+bids precedenti:  [52.59999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1783.6
+preferred slot:  0
+payment  52.6
+
+
+88
+adv4
+valutazioni:  91
+bids precedenti:  [52.49999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1886.5
+preferred slot:  0
+payment  52.5
+vecchia utility  1886.5  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+88
+adv7
+valutazioni:  76
+bids precedenti:  [52.49999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+88
+adv3
+valutazioni:  89
+bids precedenti:  [52.49999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1788.5
+preferred slot:  0
+payment  52.5
+
+
+89
+adv4
+valutazioni:  91
+bids precedenti:  [52.39999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1891.4
+preferred slot:  0
+payment  52.4
+vecchia utility  1891.4  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+89
+adv7
+valutazioni:  76
+bids precedenti:  [52.39999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+89
+adv3
+valutazioni:  89
+bids precedenti:  [52.39999999999998, 49, 30]
+vecchia utility  -1  nuova utility  1793.4
+preferred slot:  0
+payment  52.4
+
+
+90
+adv4
+valutazioni:  91
+bids precedenti:  [52.299999999999976, 49, 30]
+vecchia utility  -1  nuova utility  1896.3
+preferred slot:  0
+payment  52.3
+vecchia utility  1896.3  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+90
+adv7
+valutazioni:  76
+bids precedenti:  [52.299999999999976, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+90
+adv3
+valutazioni:  89
+bids precedenti:  [52.299999999999976, 49, 30]
+vecchia utility  -1  nuova utility  1798.3
+preferred slot:  0
+payment  52.3
+
+
+91
+adv4
+valutazioni:  91
+bids precedenti:  [52.199999999999974, 49, 30]
+vecchia utility  -1  nuova utility  1901.2
+preferred slot:  0
+payment  52.2
+vecchia utility  1901.2  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+91
+adv7
+valutazioni:  76
+bids precedenti:  [52.199999999999974, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+91
+adv3
+valutazioni:  89
+bids precedenti:  [52.199999999999974, 49, 30]
+vecchia utility  -1  nuova utility  1803.2
+preferred slot:  0
+payment  52.2
+
+
+92
+adv4
+valutazioni:  91
+bids precedenti:  [52.09999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1906.1
+preferred slot:  0
+payment  52.1
+vecchia utility  1906.1  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+92
+adv7
+valutazioni:  76
+bids precedenti:  [52.09999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+92
+adv3
+valutazioni:  89
+bids precedenti:  [52.09999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1808.1
+preferred slot:  0
+payment  52.1
+
+
+93
+adv4
+valutazioni:  91
+bids precedenti:  [51.99999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1911.0
+preferred slot:  0
+payment  52.0
+vecchia utility  1911.0  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+93
+adv7
+valutazioni:  76
+bids precedenti:  [51.99999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+93
+adv3
+valutazioni:  89
+bids precedenti:  [51.99999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1813.0
+preferred slot:  0
+payment  52.0
+
+
+94
+adv4
+valutazioni:  91
+bids precedenti:  [51.89999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1915.9
+preferred slot:  0
+payment  51.9
+vecchia utility  1915.9  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+94
+adv7
+valutazioni:  76
+bids precedenti:  [51.89999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+94
+adv3
+valutazioni:  89
+bids precedenti:  [51.89999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1817.9
+preferred slot:  0
+payment  51.9
+
+
+95
+adv4
+valutazioni:  91
+bids precedenti:  [51.79999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1920.8
+preferred slot:  0
+payment  51.8
+vecchia utility  1920.8  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+95
+adv7
+valutazioni:  76
+bids precedenti:  [51.79999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+95
+adv3
+valutazioni:  89
+bids precedenti:  [51.79999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1822.8
+preferred slot:  0
+payment  51.8
+
+
+96
+adv4
+valutazioni:  91
+bids precedenti:  [51.69999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1925.7
+preferred slot:  0
+payment  51.7
+vecchia utility  1925.7  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+96
+adv7
+valutazioni:  76
+bids precedenti:  [51.69999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+96
+adv3
+valutazioni:  89
+bids precedenti:  [51.69999999999997, 49, 30]
+vecchia utility  -1  nuova utility  1827.7
+preferred slot:  0
+payment  51.7
+
+
+97
+adv4
+valutazioni:  91
+bids precedenti:  [51.599999999999966, 49, 30]
+vecchia utility  -1  nuova utility  1930.6
+preferred slot:  0
+payment  51.6
+vecchia utility  1930.6  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+97
+adv7
+valutazioni:  76
+bids precedenti:  [51.599999999999966, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+97
+adv3
+valutazioni:  89
+bids precedenti:  [51.599999999999966, 49, 30]
+vecchia utility  -1  nuova utility  1832.6
+preferred slot:  0
+payment  51.6
+
+
+98
+adv4
+valutazioni:  91
+bids precedenti:  [51.499999999999964, 49, 30]
+vecchia utility  -1  nuova utility  1935.5
+preferred slot:  0
+payment  51.5
+vecchia utility  1935.5  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+98
+adv7
+valutazioni:  76
+bids precedenti:  [51.499999999999964, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+98
+adv3
+valutazioni:  89
+bids precedenti:  [51.499999999999964, 49, 30]
+vecchia utility  -1  nuova utility  1837.5
+preferred slot:  0
+payment  51.5
+
+
+99
+adv4
+valutazioni:  91
+bids precedenti:  [51.39999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1940.4
+preferred slot:  0
+payment  51.4
+vecchia utility  1940.4  nuova utility  2135
+preferred slot:  1
+payment  30
+
+
+99
+adv7
+valutazioni:  76
+bids precedenti:  [51.39999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1323
+preferred slot:  0
+payment  49
+vecchia utility  1323  nuova utility  1610
+preferred slot:  1
+payment  30
+
+
+99
+adv3
+valutazioni:  89
+bids precedenti:  [51.39999999999996, 49, 30]
+vecchia utility  -1  nuova utility  1842.4
+preferred slot:  0
+payment  51.4
+
+
+0
+adv4
+
+
+0
+adv2
+
+
+1
+adv4
+valutazioni:  87
+bids precedenti:  [5, 0, 0]
+vecchia utility  -1  nuova utility  2952
+preferred slot:  0
+payment  5
+
+
+1
+adv2
+valutazioni:  21
+bids precedenti:  [5, 0, 0]
+vecchia utility  -1  nuova utility  576
+preferred slot:  0
+payment  5
+
+
+2
+adv4
+valutazioni:  87
+bids precedenti:  [37, 21, 0.1]
+vecchia utility  -1  nuova utility  2376
+preferred slot:  0
+payment  21
+
+
+2
+adv2
+valutazioni:  21
+bids precedenti:  [37, 21, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+3
+adv4
+valutazioni:  87
+bids precedenti:  [37, 22.6, 0.1]
+vecchia utility  -1  nuova utility  2318.4
+preferred slot:  0
+payment  22.6
+
+
+3
+adv2
+valutazioni:  21
+bids precedenti:  [37, 22.6, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+4
+adv4
+valutazioni:  87
+bids precedenti:  [37, 22.200000000000003, 0.1]
+vecchia utility  -1  nuova utility  2332.8
+preferred slot:  0
+payment  22.2
+
+
+4
+adv2
+valutazioni:  21
+bids precedenti:  [37, 22.200000000000003, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+5
+adv4
+valutazioni:  87
+bids precedenti:  [37, 21.800000000000004, 0.1]
+vecchia utility  -1  nuova utility  2347.2
+preferred slot:  0
+payment  21.8
+
+
+5
+adv2
+valutazioni:  21
+bids precedenti:  [37, 21.800000000000004, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+6
+adv4
+valutazioni:  87
+bids precedenti:  [37, 21.400000000000006, 0.1]
+vecchia utility  -1  nuova utility  2361.6
+preferred slot:  0
+payment  21.4
+
+
+6
+adv2
+valutazioni:  21
+bids precedenti:  [37, 21.400000000000006, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+7
+adv4
+valutazioni:  87
+bids precedenti:  [37, 21.000000000000007, 0.1]
+vecchia utility  -1  nuova utility  2376.0
+preferred slot:  0
+payment  21.0
+
+
+7
+adv2
+valutazioni:  21
+bids precedenti:  [37, 21.000000000000007, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+8
+adv4
+valutazioni:  87
+bids precedenti:  [37, 20.60000000000001, 0.1]
+vecchia utility  -1  nuova utility  2390.4
+preferred slot:  0
+payment  20.6
+
+
+8
+adv2
+valutazioni:  21
+bids precedenti:  [37, 20.60000000000001, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+9
+adv4
+valutazioni:  87
+bids precedenti:  [37, 20.20000000000001, 0.1]
+vecchia utility  -1  nuova utility  2404.8
+preferred slot:  0
+payment  20.2
+
+
+9
+adv2
+valutazioni:  21
+bids precedenti:  [37, 20.20000000000001, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+10
+adv4
+valutazioni:  87
+bids precedenti:  [37, 19.80000000000001, 0.1]
+vecchia utility  -1  nuova utility  2419.2
+preferred slot:  0
+payment  19.8
+
+
+10
+adv2
+valutazioni:  21
+bids precedenti:  [37, 19.80000000000001, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+11
+adv4
+valutazioni:  87
+bids precedenti:  [37, 19.400000000000013, 0.1]
+vecchia utility  -1  nuova utility  2433.6
+preferred slot:  0
+payment  19.4
+
+
+11
+adv2
+valutazioni:  21
+bids precedenti:  [37, 19.400000000000013, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+12
+adv4
+valutazioni:  87
+bids precedenti:  [37, 19.000000000000014, 0.1]
+vecchia utility  -1  nuova utility  2448.0
+preferred slot:  0
+payment  19.0
+
+
+12
+adv2
+valutazioni:  21
+bids precedenti:  [37, 19.000000000000014, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+13
+adv4
+valutazioni:  87
+bids precedenti:  [37, 18.600000000000016, 0.1]
+vecchia utility  -1  nuova utility  2462.4
+preferred slot:  0
+payment  18.6
+
+
+13
+adv2
+valutazioni:  21
+bids precedenti:  [37, 18.600000000000016, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+14
+adv4
+valutazioni:  87
+bids precedenti:  [37, 18.200000000000017, 0.1]
+vecchia utility  -1  nuova utility  2476.8
+preferred slot:  0
+payment  18.2
+
+
+14
+adv2
+valutazioni:  21
+bids precedenti:  [37, 18.200000000000017, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+15
+adv4
+valutazioni:  87
+bids precedenti:  [37, 17.80000000000002, 0.1]
+vecchia utility  -1  nuova utility  2491.2
+preferred slot:  0
+payment  17.8
+
+
+15
+adv2
+valutazioni:  21
+bids precedenti:  [37, 17.80000000000002, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+16
+adv4
+valutazioni:  87
+bids precedenti:  [37, 17.40000000000002, 0.1]
+vecchia utility  -1  nuova utility  2505.6
+preferred slot:  0
+payment  17.4
+
+
+16
+adv2
+valutazioni:  21
+bids precedenti:  [37, 17.40000000000002, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+17
+adv2
+valutazioni:  21
+bids precedenti:  [37, 17.00000000000002, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+18
+adv4
+valutazioni:  87
+bids precedenti:  [16.600000000000023, 3, 0.1]
+vecchia utility  -1  nuova utility  2534.4
+preferred slot:  0
+payment  16.6
+
+
+18
+adv2
+valutazioni:  21
+bids precedenti:  [16.600000000000023, 3, 0.1]
+vecchia utility  -1  nuova utility  648
+preferred slot:  0
+payment  3
+
+
+19
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 16.600000000000023, 0.1]
+vecchia utility  -1  nuova utility  2534.4
+preferred slot:  0
+payment  16.6
+
+
+19
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 16.600000000000023, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+20
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 16.200000000000024, 0.1]
+vecchia utility  -1  nuova utility  2548.8
+preferred slot:  0
+payment  16.2
+
+
+20
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 16.200000000000024, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+21
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 15.800000000000024, 0.1]
+vecchia utility  -1  nuova utility  2563.2
+preferred slot:  0
+payment  15.8
+
+
+21
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 15.800000000000024, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+22
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 15.400000000000023, 0.1]
+vecchia utility  -1  nuova utility  2577.6
+preferred slot:  0
+payment  15.4
+
+
+22
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 15.400000000000023, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+23
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 15.000000000000023, 0.1]
+vecchia utility  -1  nuova utility  2592.0
+preferred slot:  0
+payment  15.0
+
+
+23
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 15.000000000000023, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+24
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 14.600000000000023, 0.1]
+vecchia utility  -1  nuova utility  2606.4
+preferred slot:  0
+payment  14.6
+
+
+24
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 14.600000000000023, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+25
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 14.200000000000022, 0.1]
+vecchia utility  -1  nuova utility  2620.8
+preferred slot:  0
+payment  14.2
+
+
+25
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 14.200000000000022, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+26
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 13.800000000000022, 0.1]
+vecchia utility  -1  nuova utility  2635.2
+preferred slot:  0
+payment  13.8
+
+
+26
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 13.800000000000022, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+27
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 13.400000000000022, 0.1]
+vecchia utility  -1  nuova utility  2649.6
+preferred slot:  0
+payment  13.4
+
+
+27
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 13.400000000000022, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+28
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 13.000000000000021, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+29
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 12.600000000000021, 0.1]
+vecchia utility  -1  nuova utility  2678.4
+preferred slot:  0
+payment  12.6
+
+
+29
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 12.600000000000021, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+30
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 12.20000000000002, 0.1]
+vecchia utility  -1  nuova utility  2692.8
+preferred slot:  0
+payment  12.2
+
+
+30
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 12.20000000000002, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+31
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 11.80000000000002, 0.1]
+vecchia utility  -1  nuova utility  2707.2
+preferred slot:  0
+payment  11.8
+
+
+31
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 11.80000000000002, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+32
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 11.40000000000002, 0.1]
+vecchia utility  -1  nuova utility  2721.6
+preferred slot:  0
+payment  11.4
+
+
+32
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 11.40000000000002, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+33
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 11.00000000000002, 0.1]
+vecchia utility  -1  nuova utility  2736.0
+preferred slot:  0
+payment  11.0
+
+
+33
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 11.00000000000002, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+34
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 10.60000000000002, 1]
+vecchia utility  -1  nuova utility  2750.4
+preferred slot:  0
+payment  10.6
+
+
+34
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 10.60000000000002, 1]
+vecchia utility  -1  nuova utility  480
+preferred slot:  1
+payment  1
+
+
+35
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 6.600000000000019, 0.1]
+vecchia utility  -1  nuova utility  2894.4
+preferred slot:  0
+payment  6.6
+
+
+35
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 6.600000000000019, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+36
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 6.200000000000019, 0.1]
+vecchia utility  -1  nuova utility  2908.8
+preferred slot:  0
+payment  6.2
+
+
+36
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 6.200000000000019, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+37
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 5.8000000000000185, 0.1]
+vecchia utility  -1  nuova utility  2923.2
+preferred slot:  0
+payment  5.8
+
+
+37
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 5.8000000000000185, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+38
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 5.400000000000018, 0.1]
+vecchia utility  -1  nuova utility  2937.6
+preferred slot:  0
+payment  5.4
+
+
+38
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 5.400000000000018, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+39
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 5.000000000000018, 0.1]
+vecchia utility  -1  nuova utility  2952.0
+preferred slot:  0
+payment  5.0
+
+
+39
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 5.000000000000018, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+40
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 4.600000000000017, 0.1]
+vecchia utility  -1  nuova utility  2966.4
+preferred slot:  0
+payment  4.6
+
+
+40
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 4.600000000000017, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+41
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 4.200000000000017, 0.1]
+vecchia utility  -1  nuova utility  2980.8
+preferred slot:  0
+payment  4.2
+
+
+41
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 4.200000000000017, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+42
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 3.8000000000000167, 0.1]
+vecchia utility  -1  nuova utility  2995.2
+preferred slot:  0
+payment  3.8
+
+
+42
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 3.8000000000000167, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+43
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 3.4000000000000163, 0.1]
+vecchia utility  -1  nuova utility  3009.6
+preferred slot:  0
+payment  3.4
+
+
+44
+adv4
+valutazioni:  87
+bids precedenti:  [36.6, 3.000000000000016, 0.1]
+vecchia utility  -1  nuova utility  3024.0
+preferred slot:  0
+payment  3.0
+
+
+44
+adv2
+valutazioni:  21
+bids precedenti:  [36.6, 3.000000000000016, 0.1]
+vecchia utility  -1  nuova utility  501.6
+preferred slot:  1
+payment  0.1
+
+
+45
+adv4
+valutazioni:  87
+bids precedenti:  [2.6000000000000156, 0.199999999999811, 0.1]
+vecchia utility  -1  nuova utility  3038.4
+preferred slot:  0
+payment  2.6
+
+
+45
+adv2
+valutazioni:  21
+bids precedenti:  [2.6000000000000156, 0.199999999999811, 0.1]
+vecchia utility  -1  nuova utility  748.8
+preferred slot:  0
+payment  0.2
+
+
+46
+adv4
+valutazioni:  87
+bids precedenti:  [2.6000000000000156, 0.299999999999811, 0.199999999999811]
+vecchia utility  -1  nuova utility  3038.4
+preferred slot:  0
+payment  2.6
+
+
+46
+adv2
+valutazioni:  21
+bids precedenti:  [2.6000000000000156, 0.299999999999811, 0.199999999999811]
+vecchia utility  -1  nuova utility  745.2
+preferred slot:  0
+payment  0.3
+
+
+0
+adv6
+
+
+0
+adv1
+
+
+0
+adv2
+
+
+1
+adv6
+valutazioni:  99
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  4257
+preferred slot:  0
+payment  0
+
+
+1
+adv1
+valutazioni:  63
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  2709
+preferred slot:  0
+payment  0
+
+
+2
+adv6
+valutazioni:  99
+bids precedenti:  [40, 34, 33]
+vecchia utility  -1  nuova utility  2795
+preferred slot:  0
+payment  34
+
+
+2
+adv1
+valutazioni:  63
+bids precedenti:  [40, 34, 33]
+vecchia utility  -1  nuova utility  989
+preferred slot:  0
+payment  40
+vecchia utility  989  nuova utility  1140
+preferred slot:  1
+payment  33
+vecchia utility  1140  nuova utility  1260
+preferred slot:  2
+payment  0
+
+
+2
+adv2
+valutazioni:  87
+bids precedenti:  [40, 34, 33]
+vecchia utility  -1  nuova utility  2021
+preferred slot:  0
+payment  40
+
+
+3
+adv6
+valutazioni:  99
+bids precedenti:  [49, 40, 33.9]
+vecchia utility  -1  nuova utility  2150
+preferred slot:  0
+payment  49
+vecchia utility  2150  nuova utility  2473.8
+preferred slot:  1
+payment  33.9
+
+
+3
+adv1
+valutazioni:  63
+bids precedenti:  [49, 40, 33.9]
+vecchia utility  -1  nuova utility  602
+preferred slot:  0
+payment  49
+vecchia utility  602  nuova utility  874
+preferred slot:  1
+payment  40
+vecchia utility  874  nuova utility  1260
+preferred slot:  2
+payment  0
+
+
+3
+adv2
+valutazioni:  87
+bids precedenti:  [49, 40, 33.9]
+vecchia utility  -1  nuova utility  2021
+preferred slot:  0
+payment  40
+
+
+4
+adv1
+valutazioni:  63
+bids precedenti:  [49, 40, 34]
+vecchia utility  -1  nuova utility  602
+preferred slot:  0
+payment  49
+vecchia utility  602  nuova utility  874
+preferred slot:  1
+payment  40
+vecchia utility  874  nuova utility  1260
+preferred slot:  2
+payment  0
+
+
+4
+adv2
+valutazioni:  87
+bids precedenti:  [49, 40, 34]
+vecchia utility  -1  nuova utility  2021
+preferred slot:  0
+payment  40
+
+
+5
+adv6
+valutazioni:  99
+bids precedenti:  [49, 34, 12]
+vecchia utility  -1  nuova utility  2150
+preferred slot:  0
+payment  49
+vecchia utility  2150  nuova utility  2470
+preferred slot:  1
+payment  34
+
+
+5
+adv1
+valutazioni:  63
+bids precedenti:  [49, 34, 12]
+vecchia utility  -1  nuova utility  602
+preferred slot:  0
+payment  49
+vecchia utility  602  nuova utility  1938
+preferred slot:  1
+payment  12
+
+
+5
+adv2
+valutazioni:  87
+bids precedenti:  [49, 34, 12]
+vecchia utility  -1  nuova utility  2279
+preferred slot:  0
+payment  34
+vecchia utility  2279  nuova utility  2850
+preferred slot:  1
+payment  12
+
+
+6
+adv6
+valutazioni:  99
+bids precedenti:  [48.9, 40, 34]
+vecchia utility  -1  nuova utility  2154.3
+preferred slot:  0
+payment  48.9
+vecchia utility  2154.3  nuova utility  2470
+preferred slot:  1
+payment  34
+
+
+6
+adv1
+valutazioni:  63
+bids precedenti:  [48.9, 40, 34]
+vecchia utility  -1  nuova utility  606.3
+preferred slot:  0
+payment  48.9
+vecchia utility  606.3  nuova utility  874
+preferred slot:  1
+payment  40
+vecchia utility  874  nuova utility  1260
+preferred slot:  2
+payment  0
+
+
+6
+adv2
+valutazioni:  87
+bids precedenti:  [48.9, 40, 34]
+vecchia utility  -1  nuova utility  2021
+preferred slot:  0
+payment  40
+
+
+7
+adv6
+valutazioni:  99
+bids precedenti:  [49, 40, 34]
+vecchia utility  -1  nuova utility  2150
+preferred slot:  0
+payment  49
+vecchia utility  2150  nuova utility  2470
+preferred slot:  1
+payment  34
+
+
+7
+adv1
+valutazioni:  63
+bids precedenti:  [49, 40, 34]
+vecchia utility  -1  nuova utility  602
+preferred slot:  0
+payment  49
+vecchia utility  602  nuova utility  874
+preferred slot:  1
+payment  40
+vecchia utility  874  nuova utility  1260
+preferred slot:  2
+payment  0
+
+
+7
+adv2
+valutazioni:  87
+bids precedenti:  [49, 40, 34]
+vecchia utility  -1  nuova utility  2021
+preferred slot:  0
+payment  40
+
+
+0
+adv7
+
+
+0
+adv6
+
+
+0
+adv3
+
+
+1
+adv7
+valutazioni:  9
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  369
+preferred slot:  0
+payment  0
+
+
+1
+adv6
+valutazioni:  16
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  656
+preferred slot:  0
+payment  0
+
+
+1
+adv3
+valutazioni:  19
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  779
+preferred slot:  0
+payment  0
+
+
+2
+adv7
+valutazioni:  9
+bids precedenti:  [19, 16, 9]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+2
+adv6
+valutazioni:  16
+bids precedenti:  [19, 16, 9]
+vecchia utility  -1  nuova utility  259
+preferred slot:  1
+payment  9
+
+
+2
+adv3
+valutazioni:  19
+bids precedenti:  [19, 16, 9]
+vecchia utility  -1  nuova utility  123
+preferred slot:  0
+payment  16
+vecchia utility  123  nuova utility  370
+preferred slot:  1
+payment  9
+
+
+3
+adv7
+valutazioni:  9
+bids precedenti:  [18.9, 18.9, 15.9]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+3
+adv6
+valutazioni:  16
+bids precedenti:  [18.9, 18.9, 15.9]
+vecchia utility  -1  nuova utility  3.7
+preferred slot:  1
+payment  15.9
+vecchia utility  3.7  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+3
+adv3
+valutazioni:  19
+bids precedenti:  [18.9, 18.9, 15.9]
+vecchia utility  -1  nuova utility  4.1
+preferred slot:  0
+payment  18.9
+vecchia utility  4.1  nuova utility  114.7
+preferred slot:  1
+payment  15.9
+vecchia utility  114.7  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+4
+adv7
+valutazioni:  9
+bids precedenti:  [18.799999999999997, 18.799999999999997, 18.799999999999997]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+4
+adv6
+valutazioni:  16
+bids precedenti:  [18.799999999999997, 18.799999999999997, 18.799999999999997]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+4
+adv3
+valutazioni:  19
+bids precedenti:  [18.799999999999997, 18.799999999999997, 18.799999999999997]
+vecchia utility  -1  nuova utility  8.2
+preferred slot:  0
+payment  18.8
+vecchia utility  8.2  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+5
+adv7
+valutazioni:  9
+bids precedenti:  [18.699999999999996, 18.699999999999996, 18.699999999999996]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+5
+adv6
+valutazioni:  16
+bids precedenti:  [18.699999999999996, 18.699999999999996, 18.699999999999996]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+5
+adv3
+valutazioni:  19
+bids precedenti:  [18.699999999999996, 18.699999999999996, 18.699999999999996]
+vecchia utility  -1  nuova utility  12.3
+preferred slot:  0
+payment  18.7
+vecchia utility  12.3  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+6
+adv7
+valutazioni:  9
+bids precedenti:  [18.599999999999994, 18.599999999999994, 18.599999999999994]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+6
+adv6
+valutazioni:  16
+bids precedenti:  [18.599999999999994, 18.599999999999994, 18.599999999999994]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+6
+adv3
+valutazioni:  19
+bids precedenti:  [18.599999999999994, 18.599999999999994, 18.599999999999994]
+vecchia utility  -1  nuova utility  16.4
+preferred slot:  0
+payment  18.6
+vecchia utility  16.4  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+7
+adv7
+valutazioni:  9
+bids precedenti:  [18.499999999999993, 18.499999999999993, 18.499999999999993]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+7
+adv6
+valutazioni:  16
+bids precedenti:  [18.499999999999993, 18.499999999999993, 18.499999999999993]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+7
+adv3
+valutazioni:  19
+bids precedenti:  [18.499999999999993, 18.499999999999993, 18.499999999999993]
+vecchia utility  -1  nuova utility  20.5
+preferred slot:  0
+payment  18.5
+vecchia utility  20.5  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+8
+adv7
+valutazioni:  9
+bids precedenti:  [18.39999999999999, 18.39999999999999, 18.39999999999999]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+8
+adv6
+valutazioni:  16
+bids precedenti:  [18.39999999999999, 18.39999999999999, 18.39999999999999]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+8
+adv3
+valutazioni:  19
+bids precedenti:  [18.39999999999999, 18.39999999999999, 18.39999999999999]
+vecchia utility  -1  nuova utility  24.6
+preferred slot:  0
+payment  18.4
+vecchia utility  24.6  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+9
+adv7
+valutazioni:  9
+bids precedenti:  [18.29999999999999, 18.29999999999999, 18.29999999999999]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+9
+adv6
+valutazioni:  16
+bids precedenti:  [18.29999999999999, 18.29999999999999, 18.29999999999999]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+9
+adv3
+valutazioni:  19
+bids precedenti:  [18.29999999999999, 18.29999999999999, 18.29999999999999]
+vecchia utility  -1  nuova utility  28.7
+preferred slot:  0
+payment  18.3
+vecchia utility  28.7  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+10
+adv7
+valutazioni:  9
+bids precedenti:  [18.19999999999999, 18.19999999999999, 18.19999999999999]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+10
+adv6
+valutazioni:  16
+bids precedenti:  [18.19999999999999, 18.19999999999999, 18.19999999999999]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+10
+adv3
+valutazioni:  19
+bids precedenti:  [18.19999999999999, 18.19999999999999, 18.19999999999999]
+vecchia utility  -1  nuova utility  32.8
+preferred slot:  0
+payment  18.2
+vecchia utility  32.8  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+11
+adv7
+valutazioni:  9
+bids precedenti:  [18.099999999999987, 18.099999999999987, 18.099999999999987]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+11
+adv6
+valutazioni:  16
+bids precedenti:  [18.099999999999987, 18.099999999999987, 18.099999999999987]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+12
+adv7
+valutazioni:  9
+bids precedenti:  [17.999999999999986, 17.999999999999986, 5]
+vecchia utility  -1  nuova utility  148
+preferred slot:  1
+payment  5
+
+
+12
+adv6
+valutazioni:  16
+bids precedenti:  [17.999999999999986, 17.999999999999986, 5]
+vecchia utility  -1  nuova utility  407
+preferred slot:  1
+payment  5
+
+
+12
+adv3
+valutazioni:  19
+bids precedenti:  [17.999999999999986, 17.999999999999986, 5]
+vecchia utility  -1  nuova utility  41.0
+preferred slot:  0
+payment  18.0
+vecchia utility  41.0  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+13
+adv7
+valutazioni:  9
+bids precedenti:  [17.899999999999984, 17.899999999999984, 17.899999999999984]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+13
+adv6
+valutazioni:  16
+bids precedenti:  [17.899999999999984, 17.899999999999984, 17.899999999999984]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+13
+adv3
+valutazioni:  19
+bids precedenti:  [17.899999999999984, 17.899999999999984, 17.899999999999984]
+vecchia utility  -1  nuova utility  45.1
+preferred slot:  0
+payment  17.9
+vecchia utility  45.1  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+14
+adv7
+valutazioni:  9
+bids precedenti:  [17.799999999999983, 17.799999999999983, 17.799999999999983]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+14
+adv6
+valutazioni:  16
+bids precedenti:  [17.799999999999983, 17.799999999999983, 17.799999999999983]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+14
+adv3
+valutazioni:  19
+bids precedenti:  [17.799999999999983, 17.799999999999983, 17.799999999999983]
+vecchia utility  -1  nuova utility  49.2
+preferred slot:  0
+payment  17.8
+vecchia utility  49.2  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+15
+adv7
+valutazioni:  9
+bids precedenti:  [17.69999999999998, 17.69999999999998, 17.69999999999998]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+15
+adv6
+valutazioni:  16
+bids precedenti:  [17.69999999999998, 17.69999999999998, 17.69999999999998]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+15
+adv3
+valutazioni:  19
+bids precedenti:  [17.69999999999998, 17.69999999999998, 17.69999999999998]
+vecchia utility  -1  nuova utility  53.3
+preferred slot:  0
+payment  17.7
+vecchia utility  53.3  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+16
+adv7
+valutazioni:  9
+bids precedenti:  [17.59999999999998, 17.59999999999998, 17.59999999999998]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+16
+adv6
+valutazioni:  16
+bids precedenti:  [17.59999999999998, 17.59999999999998, 17.59999999999998]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+16
+adv3
+valutazioni:  19
+bids precedenti:  [17.59999999999998, 17.59999999999998, 17.59999999999998]
+vecchia utility  -1  nuova utility  57.4
+preferred slot:  0
+payment  17.6
+vecchia utility  57.4  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+17
+adv7
+valutazioni:  9
+bids precedenti:  [17.49999999999998, 17.49999999999998, 17.49999999999998]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+17
+adv6
+valutazioni:  16
+bids precedenti:  [17.49999999999998, 17.49999999999998, 17.49999999999998]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+17
+adv3
+valutazioni:  19
+bids precedenti:  [17.49999999999998, 17.49999999999998, 17.49999999999998]
+vecchia utility  -1  nuova utility  61.5
+preferred slot:  0
+payment  17.5
+vecchia utility  61.5  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+18
+adv7
+valutazioni:  9
+bids precedenti:  [17.399999999999977, 17.399999999999977, 17.399999999999977]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+18
+adv6
+valutazioni:  16
+bids precedenti:  [17.399999999999977, 17.399999999999977, 17.399999999999977]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+18
+adv3
+valutazioni:  19
+bids precedenti:  [17.399999999999977, 17.399999999999977, 17.399999999999977]
+vecchia utility  -1  nuova utility  65.6
+preferred slot:  0
+payment  17.4
+vecchia utility  65.6  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+19
+adv7
+valutazioni:  9
+bids precedenti:  [17.299999999999976, 17.299999999999976, 17.299999999999976]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+19
+adv6
+valutazioni:  16
+bids precedenti:  [17.299999999999976, 17.299999999999976, 17.299999999999976]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+19
+adv3
+valutazioni:  19
+bids precedenti:  [17.299999999999976, 17.299999999999976, 17.299999999999976]
+vecchia utility  -1  nuova utility  69.7
+preferred slot:  0
+payment  17.3
+vecchia utility  69.7  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+20
+adv7
+valutazioni:  9
+bids precedenti:  [17.199999999999974, 17.199999999999974, 17.199999999999974]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+20
+adv3
+valutazioni:  19
+bids precedenti:  [17.199999999999974, 17.199999999999974, 17.199999999999974]
+vecchia utility  -1  nuova utility  73.8
+preferred slot:  0
+payment  17.2
+vecchia utility  73.8  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+21
+adv7
+valutazioni:  9
+bids precedenti:  [17.099999999999973, 17.099999999999973, 3]
+vecchia utility  -1  nuova utility  222
+preferred slot:  1
+payment  3
+
+
+21
+adv6
+valutazioni:  16
+bids precedenti:  [17.099999999999973, 17.099999999999973, 3]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+21
+adv3
+valutazioni:  19
+bids precedenti:  [17.099999999999973, 17.099999999999973, 3]
+vecchia utility  -1  nuova utility  77.9
+preferred slot:  0
+payment  17.1
+vecchia utility  77.9  nuova utility  592
+preferred slot:  1
+payment  3
+
+
+22
+adv7
+valutazioni:  9
+bids precedenti:  [16.99999999999997, 16.99999999999997, 16.99999999999997]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+22
+adv6
+valutazioni:  16
+bids precedenti:  [16.99999999999997, 16.99999999999997, 16.99999999999997]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+23
+adv7
+valutazioni:  9
+bids precedenti:  [16.89999999999997, 16.89999999999997, 4]
+vecchia utility  -1  nuova utility  185
+preferred slot:  1
+payment  4
+
+
+23
+adv6
+valutazioni:  16
+bids precedenti:  [16.89999999999997, 16.89999999999997, 4]
+vecchia utility  -1  nuova utility  444
+preferred slot:  1
+payment  4
+
+
+23
+adv3
+valutazioni:  19
+bids precedenti:  [16.89999999999997, 16.89999999999997, 4]
+vecchia utility  -1  nuova utility  86.1
+preferred slot:  0
+payment  16.9
+vecchia utility  86.1  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+24
+adv7
+valutazioni:  9
+bids precedenti:  [16.79999999999997, 16.79999999999997, 16.79999999999997]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+24
+adv6
+valutazioni:  16
+bids precedenti:  [16.79999999999997, 16.79999999999997, 16.79999999999997]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+24
+adv3
+valutazioni:  19
+bids precedenti:  [16.79999999999997, 16.79999999999997, 16.79999999999997]
+vecchia utility  -1  nuova utility  90.2
+preferred slot:  0
+payment  16.8
+vecchia utility  90.2  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+25
+adv7
+valutazioni:  9
+bids precedenti:  [16.699999999999967, 16.699999999999967, 16.699999999999967]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+25
+adv6
+valutazioni:  16
+bids precedenti:  [16.699999999999967, 16.699999999999967, 16.699999999999967]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+25
+adv3
+valutazioni:  19
+bids precedenti:  [16.699999999999967, 16.699999999999967, 16.699999999999967]
+vecchia utility  -1  nuova utility  94.3
+preferred slot:  0
+payment  16.7
+vecchia utility  94.3  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+26
+adv7
+valutazioni:  9
+bids precedenti:  [16.599999999999966, 16.599999999999966, 16.599999999999966]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+26
+adv6
+valutazioni:  16
+bids precedenti:  [16.599999999999966, 16.599999999999966, 16.599999999999966]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+26
+adv3
+valutazioni:  19
+bids precedenti:  [16.599999999999966, 16.599999999999966, 16.599999999999966]
+vecchia utility  -1  nuova utility  98.4
+preferred slot:  0
+payment  16.6
+vecchia utility  98.4  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+27
+adv7
+valutazioni:  9
+bids precedenti:  [16.499999999999964, 16.499999999999964, 16.499999999999964]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+27
+adv6
+valutazioni:  16
+bids precedenti:  [16.499999999999964, 16.499999999999964, 16.499999999999964]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+27
+adv3
+valutazioni:  19
+bids precedenti:  [16.499999999999964, 16.499999999999964, 16.499999999999964]
+vecchia utility  -1  nuova utility  102.5
+preferred slot:  0
+payment  16.5
+vecchia utility  102.5  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+28
+adv7
+valutazioni:  9
+bids precedenti:  [16.399999999999963, 16.399999999999963, 16.399999999999963]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+28
+adv6
+valutazioni:  16
+bids precedenti:  [16.399999999999963, 16.399999999999963, 16.399999999999963]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+28
+adv3
+valutazioni:  19
+bids precedenti:  [16.399999999999963, 16.399999999999963, 16.399999999999963]
+vecchia utility  -1  nuova utility  106.6
+preferred slot:  0
+payment  16.4
+vecchia utility  106.6  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+29
+adv7
+valutazioni:  9
+bids precedenti:  [16.29999999999996, 16.29999999999996, 16.29999999999996]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+29
+adv3
+valutazioni:  19
+bids precedenti:  [16.29999999999996, 16.29999999999996, 16.29999999999996]
+vecchia utility  -1  nuova utility  110.7
+preferred slot:  0
+payment  16.3
+vecchia utility  110.7  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+30
+adv6
+valutazioni:  16
+bids precedenti:  [16.19999999999996, 16.19999999999996, 7]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+30
+adv3
+valutazioni:  19
+bids precedenti:  [16.19999999999996, 16.19999999999996, 7]
+vecchia utility  -1  nuova utility  114.8
+preferred slot:  0
+payment  16.2
+vecchia utility  114.8  nuova utility  444
+preferred slot:  1
+payment  7
+
+
+31
+adv7
+valutazioni:  9
+bids precedenti:  [16.09999999999996, 16.09999999999996, 7]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+31
+adv6
+valutazioni:  16
+bids precedenti:  [16.09999999999996, 16.09999999999996, 7]
+vecchia utility  -1  nuova utility  333
+preferred slot:  1
+payment  7
+
+
+31
+adv3
+valutazioni:  19
+bids precedenti:  [16.09999999999996, 16.09999999999996, 7]
+vecchia utility  -1  nuova utility  118.9
+preferred slot:  0
+payment  16.1
+vecchia utility  118.9  nuova utility  444
+preferred slot:  1
+payment  7
+
+
+32
+adv7
+valutazioni:  9
+bids precedenti:  [15.99999999999996, 15.99999999999996, 15.99999999999996]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+32
+adv6
+valutazioni:  16
+bids precedenti:  [15.99999999999996, 15.99999999999996, 15.99999999999996]
+vecchia utility  -1  nuova utility  1.67510449955e-12
+preferred slot:  0
+payment  16.0
+vecchia utility  1.67510449955e-12  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+32
+adv3
+valutazioni:  19
+bids precedenti:  [15.99999999999996, 15.99999999999996, 15.99999999999996]
+vecchia utility  -1  nuova utility  123.0
+preferred slot:  0
+payment  16.0
+vecchia utility  123.0  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+33
+adv7
+valutazioni:  9
+bids precedenti:  [15.89999999999996, 15.89999999999996, 15.89999999999996]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+33
+adv6
+valutazioni:  16
+bids precedenti:  [15.89999999999996, 15.89999999999996, 15.89999999999996]
+vecchia utility  -1  nuova utility  4.1
+preferred slot:  0
+payment  15.9
+vecchia utility  4.1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+33
+adv3
+valutazioni:  19
+bids precedenti:  [15.89999999999996, 15.89999999999996, 15.89999999999996]
+vecchia utility  -1  nuova utility  127.1
+preferred slot:  0
+payment  15.9
+vecchia utility  127.1  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+34
+adv7
+valutazioni:  9
+bids precedenti:  [15.79999999999996, 15.79999999999996, 15.79999999999996]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+34
+adv6
+valutazioni:  16
+bids precedenti:  [15.79999999999996, 15.79999999999996, 15.79999999999996]
+vecchia utility  -1  nuova utility  8.2
+preferred slot:  0
+payment  15.8
+vecchia utility  8.2  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+34
+adv3
+valutazioni:  19
+bids precedenti:  [15.79999999999996, 15.79999999999996, 15.79999999999996]
+vecchia utility  -1  nuova utility  131.2
+preferred slot:  0
+payment  15.8
+vecchia utility  131.2  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+35
+adv7
+valutazioni:  9
+bids precedenti:  [15.69999999999996, 15.69999999999996, 15.69999999999996]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+35
+adv6
+valutazioni:  16
+bids precedenti:  [15.69999999999996, 15.69999999999996, 15.69999999999996]
+vecchia utility  -1  nuova utility  12.3
+preferred slot:  0
+payment  15.7
+vecchia utility  12.3  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+35
+adv3
+valutazioni:  19
+bids precedenti:  [15.69999999999996, 15.69999999999996, 15.69999999999996]
+vecchia utility  -1  nuova utility  135.3
+preferred slot:  0
+payment  15.7
+vecchia utility  135.3  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+36
+adv3
+valutazioni:  19
+bids precedenti:  [15.59999999999996, 15.59999999999996, 15.59999999999996]
+vecchia utility  -1  nuova utility  139.4
+preferred slot:  0
+payment  15.6
+vecchia utility  139.4  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+37
+adv7
+valutazioni:  9
+bids precedenti:  [15.499999999999961, 7, 3]
+vecchia utility  -1  nuova utility  222
+preferred slot:  1
+payment  3
+
+
+37
+adv6
+valutazioni:  16
+bids precedenti:  [15.499999999999961, 7, 3]
+vecchia utility  -1  nuova utility  20.5
+preferred slot:  0
+payment  15.5
+vecchia utility  20.5  nuova utility  333
+preferred slot:  1
+payment  7
+
+
+37
+adv3
+valutazioni:  19
+bids precedenti:  [15.499999999999961, 7, 3]
+vecchia utility  -1  nuova utility  492
+preferred slot:  0
+payment  7
+vecchia utility  492  nuova utility  592
+preferred slot:  1
+payment  3
+
+
+38
+adv6
+valutazioni:  16
+bids precedenti:  [15.399999999999961, 15.399999999999961, 15.399999999999961]
+vecchia utility  -1  nuova utility  24.6
+preferred slot:  0
+payment  15.4
+vecchia utility  24.6  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+38
+adv3
+valutazioni:  19
+bids precedenti:  [15.399999999999961, 15.399999999999961, 15.399999999999961]
+vecchia utility  -1  nuova utility  147.6
+preferred slot:  0
+payment  15.4
+vecchia utility  147.6  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+39
+adv7
+valutazioni:  9
+bids precedenti:  [15.299999999999962, 15.299999999999962, 0]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+39
+adv6
+valutazioni:  16
+bids precedenti:  [15.299999999999962, 15.299999999999962, 0]
+vecchia utility  -1  nuova utility  28.7
+preferred slot:  0
+payment  15.3
+vecchia utility  28.7  nuova utility  592
+preferred slot:  1
+payment  0
+
+
+39
+adv3
+valutazioni:  19
+bids precedenti:  [15.299999999999962, 15.299999999999962, 0]
+vecchia utility  -1  nuova utility  151.7
+preferred slot:  0
+payment  15.3
+vecchia utility  151.7  nuova utility  703
+preferred slot:  1
+payment  0
+
+
+40
+adv7
+valutazioni:  9
+bids precedenti:  [15.199999999999962, 15.199999999999962, 15.199999999999962]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+40
+adv6
+valutazioni:  16
+bids precedenti:  [15.199999999999962, 15.199999999999962, 15.199999999999962]
+vecchia utility  -1  nuova utility  32.8
+preferred slot:  0
+payment  15.2
+vecchia utility  32.8  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+40
+adv3
+valutazioni:  19
+bids precedenti:  [15.199999999999962, 15.199999999999962, 15.199999999999962]
+vecchia utility  -1  nuova utility  155.8
+preferred slot:  0
+payment  15.2
+vecchia utility  155.8  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+41
+adv7
+valutazioni:  9
+bids precedenti:  [15.099999999999962, 15.099999999999962, 15.099999999999962]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+41
+adv6
+valutazioni:  16
+bids precedenti:  [15.099999999999962, 15.099999999999962, 15.099999999999962]
+vecchia utility  -1  nuova utility  36.9
+preferred slot:  0
+payment  15.1
+vecchia utility  36.9  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+41
+adv3
+valutazioni:  19
+bids precedenti:  [15.099999999999962, 15.099999999999962, 15.099999999999962]
+vecchia utility  -1  nuova utility  159.9
+preferred slot:  0
+payment  15.1
+vecchia utility  159.9  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+42
+adv7
+valutazioni:  9
+bids precedenti:  [14.999999999999963, 14.999999999999963, 14.999999999999963]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+42
+adv6
+valutazioni:  16
+bids precedenti:  [14.999999999999963, 14.999999999999963, 14.999999999999963]
+vecchia utility  -1  nuova utility  41.0
+preferred slot:  0
+payment  15.0
+vecchia utility  41.0  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+42
+adv3
+valutazioni:  19
+bids precedenti:  [14.999999999999963, 14.999999999999963, 14.999999999999963]
+vecchia utility  -1  nuova utility  164.0
+preferred slot:  0
+payment  15.0
+vecchia utility  164.0  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+43
+adv7
+valutazioni:  9
+bids precedenti:  [14.899999999999963, 14.899999999999963, 14.899999999999963]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+43
+adv6
+valutazioni:  16
+bids precedenti:  [14.899999999999963, 14.899999999999963, 14.899999999999963]
+vecchia utility  -1  nuova utility  45.1
+preferred slot:  0
+payment  14.9
+vecchia utility  45.1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+43
+adv3
+valutazioni:  19
+bids precedenti:  [14.899999999999963, 14.899999999999963, 14.899999999999963]
+vecchia utility  -1  nuova utility  168.1
+preferred slot:  0
+payment  14.9
+vecchia utility  168.1  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+44
+adv7
+valutazioni:  9
+bids precedenti:  [14.799999999999963, 14.799999999999963, 14.799999999999963]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+44
+adv6
+valutazioni:  16
+bids precedenti:  [14.799999999999963, 14.799999999999963, 14.799999999999963]
+vecchia utility  -1  nuova utility  49.2
+preferred slot:  0
+payment  14.8
+vecchia utility  49.2  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+44
+adv3
+valutazioni:  19
+bids precedenti:  [14.799999999999963, 14.799999999999963, 14.799999999999963]
+vecchia utility  -1  nuova utility  172.2
+preferred slot:  0
+payment  14.8
+vecchia utility  172.2  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+45
+adv7
+valutazioni:  9
+bids precedenti:  [14.699999999999964, 14.699999999999964, 14.699999999999964]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+45
+adv6
+valutazioni:  16
+bids precedenti:  [14.699999999999964, 14.699999999999964, 14.699999999999964]
+vecchia utility  -1  nuova utility  53.3
+preferred slot:  0
+payment  14.7
+vecchia utility  53.3  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+45
+adv3
+valutazioni:  19
+bids precedenti:  [14.699999999999964, 14.699999999999964, 14.699999999999964]
+vecchia utility  -1  nuova utility  176.3
+preferred slot:  0
+payment  14.7
+vecchia utility  176.3  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+46
+adv7
+valutazioni:  9
+bids precedenti:  [14.599999999999964, 14.599999999999964, 14.599999999999964]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+46
+adv6
+valutazioni:  16
+bids precedenti:  [14.599999999999964, 14.599999999999964, 14.599999999999964]
+vecchia utility  -1  nuova utility  57.4
+preferred slot:  0
+payment  14.6
+vecchia utility  57.4  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+46
+adv3
+valutazioni:  19
+bids precedenti:  [14.599999999999964, 14.599999999999964, 14.599999999999964]
+vecchia utility  -1  nuova utility  180.4
+preferred slot:  0
+payment  14.6
+vecchia utility  180.4  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+47
+adv7
+valutazioni:  9
+bids precedenti:  [14.499999999999964, 14.499999999999964, 14.499999999999964]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+47
+adv6
+valutazioni:  16
+bids precedenti:  [14.499999999999964, 14.499999999999964, 14.499999999999964]
+vecchia utility  -1  nuova utility  61.5
+preferred slot:  0
+payment  14.5
+vecchia utility  61.5  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+47
+adv3
+valutazioni:  19
+bids precedenti:  [14.499999999999964, 14.499999999999964, 14.499999999999964]
+vecchia utility  -1  nuova utility  184.5
+preferred slot:  0
+payment  14.5
+vecchia utility  184.5  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+48
+adv7
+valutazioni:  9
+bids precedenti:  [14.399999999999965, 14.399999999999965, 14.399999999999965]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+48
+adv6
+valutazioni:  16
+bids precedenti:  [14.399999999999965, 14.399999999999965, 14.399999999999965]
+vecchia utility  -1  nuova utility  65.6
+preferred slot:  0
+payment  14.4
+vecchia utility  65.6  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+48
+adv3
+valutazioni:  19
+bids precedenti:  [14.399999999999965, 14.399999999999965, 14.399999999999965]
+vecchia utility  -1  nuova utility  188.6
+preferred slot:  0
+payment  14.4
+vecchia utility  188.6  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+49
+adv7
+valutazioni:  9
+bids precedenti:  [14.299999999999965, 14.299999999999965, 14.299999999999965]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+49
+adv6
+valutazioni:  16
+bids precedenti:  [14.299999999999965, 14.299999999999965, 14.299999999999965]
+vecchia utility  -1  nuova utility  69.7
+preferred slot:  0
+payment  14.3
+vecchia utility  69.7  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+49
+adv3
+valutazioni:  19
+bids precedenti:  [14.299999999999965, 14.299999999999965, 14.299999999999965]
+vecchia utility  -1  nuova utility  192.7
+preferred slot:  0
+payment  14.3
+
+
+50
+adv7
+valutazioni:  9
+bids precedenti:  [19, 14.199999999999966, 14.199999999999966]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+50
+adv6
+valutazioni:  16
+bids precedenti:  [19, 14.199999999999966, 14.199999999999966]
+vecchia utility  -1  nuova utility  66.6
+preferred slot:  1
+payment  14.2
+vecchia utility  66.6  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+50
+adv3
+valutazioni:  19
+bids precedenti:  [19, 14.199999999999966, 14.199999999999966]
+vecchia utility  -1  nuova utility  196.8
+preferred slot:  0
+payment  14.2
+
+
+51
+adv7
+valutazioni:  9
+bids precedenti:  [19, 14.099999999999966, 14.099999999999966]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+51
+adv6
+valutazioni:  16
+bids precedenti:  [19, 14.099999999999966, 14.099999999999966]
+vecchia utility  -1  nuova utility  70.3
+preferred slot:  1
+payment  14.1
+vecchia utility  70.3  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+51
+adv3
+valutazioni:  19
+bids precedenti:  [19, 14.099999999999966, 14.099999999999966]
+vecchia utility  -1  nuova utility  200.9
+preferred slot:  0
+payment  14.1
+
+
+52
+adv7
+valutazioni:  9
+bids precedenti:  [19, 13.999999999999966, 13.999999999999966]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+52
+adv6
+valutazioni:  16
+bids precedenti:  [19, 13.999999999999966, 13.999999999999966]
+vecchia utility  -1  nuova utility  74.0
+preferred slot:  1
+payment  14.0
+vecchia utility  74.0  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+52
+adv3
+valutazioni:  19
+bids precedenti:  [19, 13.999999999999966, 13.999999999999966]
+vecchia utility  -1  nuova utility  205.0
+preferred slot:  0
+payment  14.0
+
+
+53
+adv7
+valutazioni:  9
+bids precedenti:  [19, 13.899999999999967, 13.899999999999967]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+53
+adv6
+valutazioni:  16
+bids precedenti:  [19, 13.899999999999967, 13.899999999999967]
+vecchia utility  -1  nuova utility  77.7
+preferred slot:  1
+payment  13.9
+vecchia utility  77.7  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+53
+adv3
+valutazioni:  19
+bids precedenti:  [19, 13.899999999999967, 13.899999999999967]
+vecchia utility  -1  nuova utility  209.1
+preferred slot:  0
+payment  13.9
+
+
+54
+adv7
+valutazioni:  9
+bids precedenti:  [19, 13.799999999999967, 13.799999999999967]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+54
+adv6
+valutazioni:  16
+bids precedenti:  [19, 13.799999999999967, 13.799999999999967]
+vecchia utility  -1  nuova utility  81.4
+preferred slot:  1
+payment  13.8
+vecchia utility  81.4  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+54
+adv3
+valutazioni:  19
+bids precedenti:  [19, 13.799999999999967, 13.799999999999967]
+vecchia utility  -1  nuova utility  213.2
+preferred slot:  0
+payment  13.8
+
+
+55
+adv7
+valutazioni:  9
+bids precedenti:  [19, 13.699999999999967, 13.699999999999967]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+55
+adv6
+valutazioni:  16
+bids precedenti:  [19, 13.699999999999967, 13.699999999999967]
+vecchia utility  -1  nuova utility  85.1
+preferred slot:  1
+payment  13.7
+vecchia utility  85.1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+55
+adv3
+valutazioni:  19
+bids precedenti:  [19, 13.699999999999967, 13.699999999999967]
+vecchia utility  -1  nuova utility  217.3
+preferred slot:  0
+payment  13.7
+
+
+56
+adv7
+valutazioni:  9
+bids precedenti:  [19, 13.599999999999968, 13.599999999999968]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+56
+adv6
+valutazioni:  16
+bids precedenti:  [19, 13.599999999999968, 13.599999999999968]
+vecchia utility  -1  nuova utility  88.8
+preferred slot:  1
+payment  13.6
+vecchia utility  88.8  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+56
+adv3
+valutazioni:  19
+bids precedenti:  [19, 13.599999999999968, 13.599999999999968]
+vecchia utility  -1  nuova utility  221.4
+preferred slot:  0
+payment  13.6
+
+
+57
+adv7
+valutazioni:  9
+bids precedenti:  [19, 13.499999999999968, 13.499999999999968]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+57
+adv6
+valutazioni:  16
+bids precedenti:  [19, 13.499999999999968, 13.499999999999968]
+vecchia utility  -1  nuova utility  92.5
+preferred slot:  1
+payment  13.5
+vecchia utility  92.5  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+57
+adv3
+valutazioni:  19
+bids precedenti:  [19, 13.499999999999968, 13.499999999999968]
+vecchia utility  -1  nuova utility  225.5
+preferred slot:  0
+payment  13.5
+
+
+58
+adv7
+valutazioni:  9
+bids precedenti:  [19, 13.399999999999968, 13.399999999999968]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+58
+adv6
+valutazioni:  16
+bids precedenti:  [19, 13.399999999999968, 13.399999999999968]
+vecchia utility  -1  nuova utility  96.2
+preferred slot:  1
+payment  13.4
+vecchia utility  96.2  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+58
+adv3
+valutazioni:  19
+bids precedenti:  [19, 13.399999999999968, 13.399999999999968]
+vecchia utility  -1  nuova utility  229.6
+preferred slot:  0
+payment  13.4
+
+
+59
+adv7
+valutazioni:  9
+bids precedenti:  [19, 13.299999999999969, 13.299999999999969]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+59
+adv6
+valutazioni:  16
+bids precedenti:  [19, 13.299999999999969, 13.299999999999969]
+vecchia utility  -1  nuova utility  99.9
+preferred slot:  1
+payment  13.3
+vecchia utility  99.9  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+59
+adv3
+valutazioni:  19
+bids precedenti:  [19, 13.299999999999969, 13.299999999999969]
+vecchia utility  -1  nuova utility  233.7
+preferred slot:  0
+payment  13.3
+
+
+60
+adv7
+valutazioni:  9
+bids precedenti:  [19, 13.199999999999969, 13.199999999999969]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+60
+adv6
+valutazioni:  16
+bids precedenti:  [19, 13.199999999999969, 13.199999999999969]
+vecchia utility  -1  nuova utility  103.6
+preferred slot:  1
+payment  13.2
+vecchia utility  103.6  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+60
+adv3
+valutazioni:  19
+bids precedenti:  [19, 13.199999999999969, 13.199999999999969]
+vecchia utility  -1  nuova utility  237.8
+preferred slot:  0
+payment  13.2
+
+
+61
+adv7
+valutazioni:  9
+bids precedenti:  [19, 13.09999999999997, 13.09999999999997]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+61
+adv6
+valutazioni:  16
+bids precedenti:  [19, 13.09999999999997, 13.09999999999997]
+vecchia utility  -1  nuova utility  107.3
+preferred slot:  1
+payment  13.1
+vecchia utility  107.3  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+61
+adv3
+valutazioni:  19
+bids precedenti:  [19, 13.09999999999997, 13.09999999999997]
+vecchia utility  -1  nuova utility  241.9
+preferred slot:  0
+payment  13.1
+
+
+62
+adv7
+valutazioni:  9
+bids precedenti:  [19, 12.99999999999997, 12.99999999999997]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+62
+adv6
+valutazioni:  16
+bids precedenti:  [19, 12.99999999999997, 12.99999999999997]
+vecchia utility  -1  nuova utility  111.0
+preferred slot:  1
+payment  13.0
+vecchia utility  111.0  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+62
+adv3
+valutazioni:  19
+bids precedenti:  [19, 12.99999999999997, 12.99999999999997]
+vecchia utility  -1  nuova utility  246.0
+preferred slot:  0
+payment  13.0
+
+
+63
+adv7
+valutazioni:  9
+bids precedenti:  [19, 12.89999999999997, 12.89999999999997]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+63
+adv6
+valutazioni:  16
+bids precedenti:  [19, 12.89999999999997, 12.89999999999997]
+vecchia utility  -1  nuova utility  114.7
+preferred slot:  1
+payment  12.9
+vecchia utility  114.7  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+63
+adv3
+valutazioni:  19
+bids precedenti:  [19, 12.89999999999997, 12.89999999999997]
+vecchia utility  -1  nuova utility  250.1
+preferred slot:  0
+payment  12.9
+
+
+64
+adv7
+valutazioni:  9
+bids precedenti:  [19, 12.79999999999997, 12.79999999999997]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+64
+adv6
+valutazioni:  16
+bids precedenti:  [19, 12.79999999999997, 12.79999999999997]
+vecchia utility  -1  nuova utility  118.4
+preferred slot:  1
+payment  12.8
+vecchia utility  118.4  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+64
+adv3
+valutazioni:  19
+bids precedenti:  [19, 12.79999999999997, 12.79999999999997]
+vecchia utility  -1  nuova utility  254.2
+preferred slot:  0
+payment  12.8
+
+
+65
+adv7
+valutazioni:  9
+bids precedenti:  [19, 12.69999999999997, 12.69999999999997]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+65
+adv6
+valutazioni:  16
+bids precedenti:  [19, 12.69999999999997, 12.69999999999997]
+vecchia utility  -1  nuova utility  122.1
+preferred slot:  1
+payment  12.7
+vecchia utility  122.1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+65
+adv3
+valutazioni:  19
+bids precedenti:  [19, 12.69999999999997, 12.69999999999997]
+vecchia utility  -1  nuova utility  258.3
+preferred slot:  0
+payment  12.7
+
+
+66
+adv7
+valutazioni:  9
+bids precedenti:  [19, 12.599999999999971, 12.599999999999971]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+66
+adv6
+valutazioni:  16
+bids precedenti:  [19, 12.599999999999971, 12.599999999999971]
+vecchia utility  -1  nuova utility  125.8
+preferred slot:  1
+payment  12.6
+vecchia utility  125.8  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+66
+adv3
+valutazioni:  19
+bids precedenti:  [19, 12.599999999999971, 12.599999999999971]
+vecchia utility  -1  nuova utility  262.4
+preferred slot:  0
+payment  12.6
+
+
+67
+adv7
+valutazioni:  9
+bids precedenti:  [19, 12.499999999999972, 12.499999999999972]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+67
+adv6
+valutazioni:  16
+bids precedenti:  [19, 12.499999999999972, 12.499999999999972]
+vecchia utility  -1  nuova utility  129.5
+preferred slot:  1
+payment  12.5
+vecchia utility  129.5  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+67
+adv3
+valutazioni:  19
+bids precedenti:  [19, 12.499999999999972, 12.499999999999972]
+vecchia utility  -1  nuova utility  266.5
+preferred slot:  0
+payment  12.5
+
+
+68
+adv7
+valutazioni:  9
+bids precedenti:  [19, 12.399999999999972, 12.399999999999972]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+68
+adv6
+valutazioni:  16
+bids precedenti:  [19, 12.399999999999972, 12.399999999999972]
+vecchia utility  -1  nuova utility  133.2
+preferred slot:  1
+payment  12.4
+vecchia utility  133.2  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+68
+adv3
+valutazioni:  19
+bids precedenti:  [19, 12.399999999999972, 12.399999999999972]
+vecchia utility  -1  nuova utility  270.6
+preferred slot:  0
+payment  12.4
+
+
+69
+adv7
+valutazioni:  9
+bids precedenti:  [19, 12.299999999999972, 12.299999999999972]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+69
+adv3
+valutazioni:  19
+bids precedenti:  [19, 12.299999999999972, 12.299999999999972]
+vecchia utility  -1  nuova utility  274.7
+preferred slot:  0
+payment  12.3
+
+
+70
+adv7
+valutazioni:  9
+bids precedenti:  [19, 12.199999999999973, 8]
+vecchia utility  -1  nuova utility  37
+preferred slot:  1
+payment  8
+vecchia utility  37  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+70
+adv6
+valutazioni:  16
+bids precedenti:  [19, 12.199999999999973, 8]
+vecchia utility  -1  nuova utility  140.6
+preferred slot:  1
+payment  12.2
+vecchia utility  140.6  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+70
+adv3
+valutazioni:  19
+bids precedenti:  [19, 12.199999999999973, 8]
+vecchia utility  -1  nuova utility  278.8
+preferred slot:  0
+payment  12.2
+vecchia utility  278.8  nuova utility  407
+preferred slot:  1
+payment  8
+
+
+71
+adv7
+valutazioni:  9
+bids precedenti:  [18.9, 12.099999999999973, 12.099999999999973]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+71
+adv6
+valutazioni:  16
+bids precedenti:  [18.9, 12.099999999999973, 12.099999999999973]
+vecchia utility  -1  nuova utility  144.3
+preferred slot:  1
+payment  12.1
+vecchia utility  144.3  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+71
+adv3
+valutazioni:  19
+bids precedenti:  [18.9, 12.099999999999973, 12.099999999999973]
+vecchia utility  -1  nuova utility  282.9
+preferred slot:  0
+payment  12.1
+
+
+72
+adv7
+valutazioni:  9
+bids precedenti:  [19, 11.999999999999973, 11.999999999999973]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+72
+adv6
+valutazioni:  16
+bids precedenti:  [19, 11.999999999999973, 11.999999999999973]
+vecchia utility  -1  nuova utility  148.0
+preferred slot:  1
+payment  12.0
+vecchia utility  148.0  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+73
+adv7
+valutazioni:  9
+bids precedenti:  [11.899999999999974, 11.899999999999974, 4]
+vecchia utility  -1  nuova utility  185
+preferred slot:  1
+payment  4
+
+
+73
+adv6
+valutazioni:  16
+bids precedenti:  [11.899999999999974, 11.899999999999974, 4]
+vecchia utility  -1  nuova utility  168.1
+preferred slot:  0
+payment  11.9
+vecchia utility  168.1  nuova utility  444
+preferred slot:  1
+payment  4
+
+
+73
+adv3
+valutazioni:  19
+bids precedenti:  [11.899999999999974, 11.899999999999974, 4]
+vecchia utility  -1  nuova utility  291.1
+preferred slot:  0
+payment  11.9
+
+
+74
+adv7
+valutazioni:  9
+bids precedenti:  [19, 11.799999999999974, 11.799999999999974]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+74
+adv6
+valutazioni:  16
+bids precedenti:  [19, 11.799999999999974, 11.799999999999974]
+vecchia utility  -1  nuova utility  155.4
+preferred slot:  1
+payment  11.8
+vecchia utility  155.4  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+74
+adv3
+valutazioni:  19
+bids precedenti:  [19, 11.799999999999974, 11.799999999999974]
+vecchia utility  -1  nuova utility  295.2
+preferred slot:  0
+payment  11.8
+
+
+75
+adv7
+valutazioni:  9
+bids precedenti:  [19, 11.699999999999974, 11.699999999999974]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+75
+adv6
+valutazioni:  16
+bids precedenti:  [19, 11.699999999999974, 11.699999999999974]
+vecchia utility  -1  nuova utility  159.1
+preferred slot:  1
+payment  11.7
+vecchia utility  159.1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+75
+adv3
+valutazioni:  19
+bids precedenti:  [19, 11.699999999999974, 11.699999999999974]
+vecchia utility  -1  nuova utility  299.3
+preferred slot:  0
+payment  11.7
+
+
+76
+adv7
+valutazioni:  9
+bids precedenti:  [19, 11.599999999999975, 11.599999999999975]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+76
+adv6
+valutazioni:  16
+bids precedenti:  [19, 11.599999999999975, 11.599999999999975]
+vecchia utility  -1  nuova utility  162.8
+preferred slot:  1
+payment  11.6
+
+
+76
+adv3
+valutazioni:  19
+bids precedenti:  [19, 11.599999999999975, 11.599999999999975]
+vecchia utility  -1  nuova utility  303.4
+preferred slot:  0
+payment  11.6
+
+
+77
+adv6
+valutazioni:  16
+bids precedenti:  [19, 18.9, 11.499999999999975]
+vecchia utility  -1  nuova utility  166.5
+preferred slot:  1
+payment  11.5
+
+
+77
+adv3
+valutazioni:  19
+bids precedenti:  [19, 18.9, 11.499999999999975]
+vecchia utility  -1  nuova utility  4.1
+preferred slot:  0
+payment  18.9
+vecchia utility  4.1  nuova utility  277.5
+preferred slot:  1
+payment  11.5
+
+
+78
+adv7
+valutazioni:  9
+bids precedenti:  [18.9, 18.9, 5]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+78
+adv6
+valutazioni:  16
+bids precedenti:  [18.9, 18.9, 5]
+vecchia utility  -1  nuova utility  407
+preferred slot:  1
+payment  5
+
+
+78
+adv3
+valutazioni:  19
+bids precedenti:  [18.9, 18.9, 5]
+vecchia utility  -1  nuova utility  4.1
+preferred slot:  0
+payment  18.9
+vecchia utility  4.1  nuova utility  518
+preferred slot:  1
+payment  5
+
+
+79
+adv7
+valutazioni:  9
+bids precedenti:  [18.799999999999997, 18.799999999999997, 18.799999999999997]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+79
+adv6
+valutazioni:  16
+bids precedenti:  [18.799999999999997, 18.799999999999997, 18.799999999999997]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+79
+adv3
+valutazioni:  19
+bids precedenti:  [18.799999999999997, 18.799999999999997, 18.799999999999997]
+vecchia utility  -1  nuova utility  8.2
+preferred slot:  0
+payment  18.8
+vecchia utility  8.2  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+80
+adv7
+valutazioni:  9
+bids precedenti:  [18.699999999999996, 18.699999999999996, 18.699999999999996]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+80
+adv3
+valutazioni:  19
+bids precedenti:  [18.699999999999996, 18.699999999999996, 18.699999999999996]
+vecchia utility  -1  nuova utility  12.3
+preferred slot:  0
+payment  18.7
+vecchia utility  12.3  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+81
+adv7
+valutazioni:  9
+bids precedenti:  [18.599999999999994, 18.599999999999994, 11]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+81
+adv6
+valutazioni:  16
+bids precedenti:  [18.599999999999994, 18.599999999999994, 11]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+81
+adv3
+valutazioni:  19
+bids precedenti:  [18.599999999999994, 18.599999999999994, 11]
+vecchia utility  -1  nuova utility  16.4
+preferred slot:  0
+payment  18.6
+vecchia utility  16.4  nuova utility  296
+preferred slot:  1
+payment  11
+
+
+82
+adv7
+valutazioni:  9
+bids precedenti:  [18.499999999999993, 18.499999999999993, 18.499999999999993]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+82
+adv6
+valutazioni:  16
+bids precedenti:  [18.499999999999993, 18.499999999999993, 18.499999999999993]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+82
+adv3
+valutazioni:  19
+bids precedenti:  [18.499999999999993, 18.499999999999993, 18.499999999999993]
+vecchia utility  -1  nuova utility  20.5
+preferred slot:  0
+payment  18.5
+vecchia utility  20.5  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+83
+adv7
+valutazioni:  9
+bids precedenti:  [18.39999999999999, 18.39999999999999, 18.39999999999999]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+83
+adv6
+valutazioni:  16
+bids precedenti:  [18.39999999999999, 18.39999999999999, 18.39999999999999]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+83
+adv3
+valutazioni:  19
+bids precedenti:  [18.39999999999999, 18.39999999999999, 18.39999999999999]
+vecchia utility  -1  nuova utility  24.6
+preferred slot:  0
+payment  18.4
+vecchia utility  24.6  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+84
+adv7
+valutazioni:  9
+bids precedenti:  [18.29999999999999, 18.29999999999999, 18.29999999999999]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+84
+adv6
+valutazioni:  16
+bids precedenti:  [18.29999999999999, 18.29999999999999, 18.29999999999999]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+84
+adv3
+valutazioni:  19
+bids precedenti:  [18.29999999999999, 18.29999999999999, 18.29999999999999]
+vecchia utility  -1  nuova utility  28.7
+preferred slot:  0
+payment  18.3
+vecchia utility  28.7  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+85
+adv7
+valutazioni:  9
+bids precedenti:  [18.19999999999999, 18.19999999999999, 18.19999999999999]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+85
+adv6
+valutazioni:  16
+bids precedenti:  [18.19999999999999, 18.19999999999999, 18.19999999999999]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+85
+adv3
+valutazioni:  19
+bids precedenti:  [18.19999999999999, 18.19999999999999, 18.19999999999999]
+vecchia utility  -1  nuova utility  32.8
+preferred slot:  0
+payment  18.2
+vecchia utility  32.8  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+86
+adv7
+valutazioni:  9
+bids precedenti:  [18.099999999999987, 18.099999999999987, 18.099999999999987]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+86
+adv6
+valutazioni:  16
+bids precedenti:  [18.099999999999987, 18.099999999999987, 18.099999999999987]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+86
+adv3
+valutazioni:  19
+bids precedenti:  [18.099999999999987, 18.099999999999987, 18.099999999999987]
+vecchia utility  -1  nuova utility  36.9
+preferred slot:  0
+payment  18.1
+vecchia utility  36.9  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+87
+adv7
+valutazioni:  9
+bids precedenti:  [17.999999999999986, 17.999999999999986, 17.999999999999986]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+87
+adv6
+valutazioni:  16
+bids precedenti:  [17.999999999999986, 17.999999999999986, 17.999999999999986]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+87
+adv3
+valutazioni:  19
+bids precedenti:  [17.999999999999986, 17.999999999999986, 17.999999999999986]
+vecchia utility  -1  nuova utility  41.0
+preferred slot:  0
+payment  18.0
+vecchia utility  41.0  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+88
+adv7
+valutazioni:  9
+bids precedenti:  [17.899999999999984, 17.899999999999984, 17.899999999999984]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+88
+adv6
+valutazioni:  16
+bids precedenti:  [17.899999999999984, 17.899999999999984, 17.899999999999984]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+88
+adv3
+valutazioni:  19
+bids precedenti:  [17.899999999999984, 17.899999999999984, 17.899999999999984]
+vecchia utility  -1  nuova utility  45.1
+preferred slot:  0
+payment  17.9
+vecchia utility  45.1  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+89
+adv7
+valutazioni:  9
+bids precedenti:  [17.799999999999983, 17.799999999999983, 17.799999999999983]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+89
+adv6
+valutazioni:  16
+bids precedenti:  [17.799999999999983, 17.799999999999983, 17.799999999999983]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+89
+adv3
+valutazioni:  19
+bids precedenti:  [17.799999999999983, 17.799999999999983, 17.799999999999983]
+vecchia utility  -1  nuova utility  49.2
+preferred slot:  0
+payment  17.8
+vecchia utility  49.2  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+90
+adv6
+valutazioni:  16
+bids precedenti:  [17.69999999999998, 17.69999999999998, 17.69999999999998]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+90
+adv3
+valutazioni:  19
+bids precedenti:  [17.69999999999998, 17.69999999999998, 17.69999999999998]
+vecchia utility  -1  nuova utility  53.3
+preferred slot:  0
+payment  17.7
+vecchia utility  53.3  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+91
+adv7
+valutazioni:  9
+bids precedenti:  [17.59999999999998, 17.59999999999998, 6]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+91
+adv6
+valutazioni:  16
+bids precedenti:  [17.59999999999998, 17.59999999999998, 6]
+vecchia utility  -1  nuova utility  370
+preferred slot:  1
+payment  6
+
+
+91
+adv3
+valutazioni:  19
+bids precedenti:  [17.59999999999998, 17.59999999999998, 6]
+vecchia utility  -1  nuova utility  57.4
+preferred slot:  0
+payment  17.6
+vecchia utility  57.4  nuova utility  481
+preferred slot:  1
+payment  6
+
+
+92
+adv7
+valutazioni:  9
+bids precedenti:  [17.49999999999998, 17.49999999999998, 17.49999999999998]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+92
+adv6
+valutazioni:  16
+bids precedenti:  [17.49999999999998, 17.49999999999998, 17.49999999999998]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+92
+adv3
+valutazioni:  19
+bids precedenti:  [17.49999999999998, 17.49999999999998, 17.49999999999998]
+vecchia utility  -1  nuova utility  61.5
+preferred slot:  0
+payment  17.5
+vecchia utility  61.5  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+93
+adv7
+valutazioni:  9
+bids precedenti:  [17.399999999999977, 17.399999999999977, 17.399999999999977]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+93
+adv6
+valutazioni:  16
+bids precedenti:  [17.399999999999977, 17.399999999999977, 17.399999999999977]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+93
+adv3
+valutazioni:  19
+bids precedenti:  [17.399999999999977, 17.399999999999977, 17.399999999999977]
+vecchia utility  -1  nuova utility  65.6
+preferred slot:  0
+payment  17.4
+vecchia utility  65.6  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+94
+adv7
+valutazioni:  9
+bids precedenti:  [17.299999999999976, 17.299999999999976, 17.299999999999976]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+94
+adv6
+valutazioni:  16
+bids precedenti:  [17.299999999999976, 17.299999999999976, 17.299999999999976]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+94
+adv3
+valutazioni:  19
+bids precedenti:  [17.299999999999976, 17.299999999999976, 17.299999999999976]
+vecchia utility  -1  nuova utility  69.7
+preferred slot:  0
+payment  17.3
+vecchia utility  69.7  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+95
+adv7
+valutazioni:  9
+bids precedenti:  [17.199999999999974, 17.199999999999974, 17.199999999999974]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+95
+adv6
+valutazioni:  16
+bids precedenti:  [17.199999999999974, 17.199999999999974, 17.199999999999974]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+95
+adv3
+valutazioni:  19
+bids precedenti:  [17.199999999999974, 17.199999999999974, 17.199999999999974]
+vecchia utility  -1  nuova utility  73.8
+preferred slot:  0
+payment  17.2
+vecchia utility  73.8  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+96
+adv7
+valutazioni:  9
+bids precedenti:  [17.099999999999973, 17.099999999999973, 17.099999999999973]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+96
+adv6
+valutazioni:  16
+bids precedenti:  [17.099999999999973, 17.099999999999973, 17.099999999999973]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+96
+adv3
+valutazioni:  19
+bids precedenti:  [17.099999999999973, 17.099999999999973, 17.099999999999973]
+vecchia utility  -1  nuova utility  77.9
+preferred slot:  0
+payment  17.1
+vecchia utility  77.9  nuova utility  190
+preferred slot:  2
+payment  0
+
+
+97
+adv6
+valutazioni:  16
+bids precedenti:  [16.99999999999997, 16.99999999999997, 16.99999999999997]
+vecchia utility  -1  nuova utility  160
+preferred slot:  2
+payment  0
+
+
+98
+adv7
+valutazioni:  9
+bids precedenti:  [16.89999999999997, 7, 7]
+vecchia utility  -1  nuova utility  74
+preferred slot:  1
+payment  7
+vecchia utility  74  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+98
+adv6
+valutazioni:  16
+bids precedenti:  [16.89999999999997, 7, 7]
+vecchia utility  -1  nuova utility  369
+preferred slot:  0
+payment  7
+
+
+98
+adv3
+valutazioni:  19
+bids precedenti:  [16.89999999999997, 7, 7]
+vecchia utility  -1  nuova utility  86.1
+preferred slot:  0
+payment  16.9
+vecchia utility  86.1  nuova utility  444
+preferred slot:  1
+payment  7
+
+
+99
+adv7
+valutazioni:  9
+bids precedenti:  [16.79999999999997, 16, 6.9]
+vecchia utility  -1  nuova utility  90
+preferred slot:  2
+payment  0
+
+
+99
+adv6
+valutazioni:  16
+bids precedenti:  [16.79999999999997, 16, 6.9]
+vecchia utility  -1  nuova utility  336.7
+preferred slot:  1
+payment  6.9
+
+
+99
+adv3
+valutazioni:  19
+bids precedenti:  [16.79999999999997, 16, 6.9]
+vecchia utility  -1  nuova utility  123
+preferred slot:  0
+payment  16
+vecchia utility  123  nuova utility  447.7
+preferred slot:  1
+payment  6.9
+
+
+0
+adv5
+
+
+0
+adv7
+
+
+0
+adv1
+
+
+1
+adv5
+valutazioni:  80
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  2160
+preferred slot:  0
+payment  0
+
+
+1
+adv7
+valutazioni:  29
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  783
+preferred slot:  0
+payment  0
+
+
+1
+adv1
+valutazioni:  89
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  2403
+preferred slot:  0
+payment  0
+
+
+2
+adv5
+valutazioni:  80
+bids precedenti:  [45, 34, 29]
+vecchia utility  -1  nuova utility  1242
+preferred slot:  0
+payment  34
+
+
+2
+adv7
+valutazioni:  29
+bids precedenti:  [45, 34, 29]
+vecchia utility  -1  nuova utility  261
+preferred slot:  2
+payment  0
+
+
+2
+adv1
+valutazioni:  89
+bids precedenti:  [45, 34, 29]
+vecchia utility  -1  nuova utility  1188
+preferred slot:  0
+payment  45
+
+
+3
+adv5
+valutazioni:  80
+bids precedenti:  [45, 34, 33]
+vecchia utility  -1  nuova utility  1242
+preferred slot:  0
+payment  34
+
+
+3
+adv7
+valutazioni:  29
+bids precedenti:  [45, 34, 33]
+vecchia utility  -1  nuova utility  261
+preferred slot:  2
+payment  0
+
+
+3
+adv1
+valutazioni:  89
+bids precedenti:  [45, 34, 33]
+vecchia utility  -1  nuova utility  1188
+preferred slot:  0
+payment  45
+
+
+0
+adv1
+
+
+0
+adv2
+
+
+1
+adv7
+valutazioni:  65
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  3250
+preferred slot:  0
+payment  0
+
+
+1
+adv1
+valutazioni:  99
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  4950
+preferred slot:  0
+payment  0
+
+
+1
+adv2
+valutazioni:  92
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  4600
+preferred slot:  0
+payment  0
+
+
+2
+adv7
+valutazioni:  65
+bids precedenti:  [60, 55, 50]
+vecchia utility  -1  nuova utility  250
+preferred slot:  0
+payment  60
+vecchia utility  250  nuova utility  260
+preferred slot:  2
+payment  0
+
+
+2
+adv1
+valutazioni:  99
+bids precedenti:  [60, 55, 50]
+vecchia utility  -1  nuova utility  2200
+preferred slot:  0
+payment  55
+
+
+2
+adv2
+valutazioni:  92
+bids precedenti:  [60, 55, 50]
+vecchia utility  -1  nuova utility  1600
+preferred slot:  0
+payment  60
+
+
+0
+adv5
+
+
+0
+adv6
+
+
+0
+adv3
+
+
+1
+adv5
+valutazioni:  30
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  1320
+preferred slot:  0
+payment  0
+
+
+1
+adv6
+valutazioni:  92
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  4048
+preferred slot:  0
+payment  0
+
+
+1
+adv3
+valutazioni:  65
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  2860
+preferred slot:  0
+payment  0
+
+
+2
+adv5
+valutazioni:  30
+bids precedenti:  [51, 33, 30]
+vecchia utility  -1  nuova utility  300
+preferred slot:  2
+payment  0
+
+
+2
+adv6
+valutazioni:  92
+bids precedenti:  [51, 33, 30]
+vecchia utility  -1  nuova utility  2596
+preferred slot:  0
+payment  33
+
+
+2
+adv3
+valutazioni:  65
+bids precedenti:  [51, 33, 30]
+vecchia utility  -1  nuova utility  616
+preferred slot:  0
+payment  51
+vecchia utility  616  nuova utility  700
+preferred slot:  1
+payment  30
+
+
+3
+adv5
+valutazioni:  30
+bids precedenti:  [51, 33, 32.9]
+vecchia utility  -1  nuova utility  300
+preferred slot:  2
+payment  0
+
+
+3
+adv6
+valutazioni:  92
+bids precedenti:  [51, 33, 32.9]
+vecchia utility  -1  nuova utility  2596
+preferred slot:  0
+payment  33
+
+
+3
+adv3
+valutazioni:  65
+bids precedenti:  [51, 33, 32.9]
+vecchia utility  -1  nuova utility  616
+preferred slot:  0
+payment  51
+vecchia utility  616  nuova utility  642.0
+preferred slot:  1
+payment  32.9
+vecchia utility  642.0  nuova utility  650
+preferred slot:  2
+payment  0
+
+
+4
+adv5
+valutazioni:  30
+bids precedenti:  [51, 32.9, 32.9]
+vecchia utility  -1  nuova utility  300
+preferred slot:  2
+payment  0
+
+
+4
+adv6
+valutazioni:  92
+bids precedenti:  [51, 32.9, 32.9]
+vecchia utility  -1  nuova utility  2600.4
+preferred slot:  0
+payment  32.9
+
+
+4
+adv3
+valutazioni:  65
+bids precedenti:  [51, 32.9, 32.9]
+vecchia utility  -1  nuova utility  616
+preferred slot:  0
+payment  51
+vecchia utility  616  nuova utility  642.0
+preferred slot:  1
+payment  32.9
+vecchia utility  642.0  nuova utility  650
+preferred slot:  2
+payment  0
+
+
+5
+adv5
+valutazioni:  30
+bids precedenti:  [51, 32.8, 32.8]
+vecchia utility  -1  nuova utility  300
+preferred slot:  2
+payment  0
+
+
+5
+adv6
+valutazioni:  92
+bids precedenti:  [51, 32.8, 32.8]
+vecchia utility  -1  nuova utility  2604.8
+preferred slot:  0
+payment  32.8
+
+
+5
+adv3
+valutazioni:  65
+bids precedenti:  [51, 32.8, 32.8]
+vecchia utility  -1  nuova utility  616
+preferred slot:  0
+payment  51
+vecchia utility  616  nuova utility  644.0
+preferred slot:  1
+payment  32.8
+vecchia utility  644.0  nuova utility  650
+preferred slot:  2
+payment  0
+
+
+6
+adv5
+valutazioni:  30
+bids precedenti:  [51, 32.699999999999996, 32.699999999999996]
+vecchia utility  -1  nuova utility  300
+preferred slot:  2
+payment  0
+
+
+6
+adv6
+valutazioni:  92
+bids precedenti:  [51, 32.699999999999996, 32.699999999999996]
+vecchia utility  -1  nuova utility  2609.2
+preferred slot:  0
+payment  32.7
+
+
+6
+adv3
+valutazioni:  65
+bids precedenti:  [51, 32.699999999999996, 32.699999999999996]
+vecchia utility  -1  nuova utility  616
+preferred slot:  0
+payment  51
+vecchia utility  616  nuova utility  646.0
+preferred slot:  1
+payment  32.7
+vecchia utility  646.0  nuova utility  650
+preferred slot:  2
+payment  0
+
+
+7
+adv5
+valutazioni:  30
+bids precedenti:  [51, 32.599999999999994, 32.599999999999994]
+vecchia utility  -1  nuova utility  300
+preferred slot:  2
+payment  0
+
+
+7
+adv6
+valutazioni:  92
+bids precedenti:  [51, 32.599999999999994, 32.599999999999994]
+vecchia utility  -1  nuova utility  2613.6
+preferred slot:  0
+payment  32.6
+
+
+7
+adv3
+valutazioni:  65
+bids precedenti:  [51, 32.599999999999994, 32.599999999999994]
+vecchia utility  -1  nuova utility  616
+preferred slot:  0
+payment  51
+vecchia utility  616  nuova utility  648.0
+preferred slot:  1
+payment  32.6
+vecchia utility  648.0  nuova utility  650
+preferred slot:  2
+payment  0
+
+
+8
+adv5
+valutazioni:  30
+bids precedenti:  [51, 32.49999999999999, 32.49999999999999]
+vecchia utility  -1  nuova utility  300
+preferred slot:  2
+payment  0
+
+
+8
+adv6
+valutazioni:  92
+bids precedenti:  [51, 32.49999999999999, 32.49999999999999]
+vecchia utility  -1  nuova utility  2618.0
+preferred slot:  0
+payment  32.5
+
+
+8
+adv3
+valutazioni:  65
+bids precedenti:  [51, 32.49999999999999, 32.49999999999999]
+vecchia utility  -1  nuova utility  616
+preferred slot:  0
+payment  51
+vecchia utility  616  nuova utility  650.0
+preferred slot:  1
+payment  32.5
+
+
+9
+adv5
+valutazioni:  30
+bids precedenti:  [51, 33, 32.39999999999999]
+vecchia utility  -1  nuova utility  300
+preferred slot:  2
+payment  0
+
+
+9
+adv6
+valutazioni:  92
+bids precedenti:  [51, 33, 32.39999999999999]
+vecchia utility  -1  nuova utility  2596
+preferred slot:  0
+payment  33
+
+
+9
+adv3
+valutazioni:  65
+bids precedenti:  [51, 33, 32.39999999999999]
+vecchia utility  -1  nuova utility  616
+preferred slot:  0
+payment  51
+vecchia utility  616  nuova utility  652.0
+preferred slot:  1
+payment  32.4
+
+
+10
+adv5
+valutazioni:  30
+bids precedenti:  [51, 33, 32.9]
+vecchia utility  -1  nuova utility  300
+preferred slot:  2
+payment  0
+
+
+10
+adv6
+valutazioni:  92
+bids precedenti:  [51, 33, 32.9]
+vecchia utility  -1  nuova utility  2596
+preferred slot:  0
+payment  33
+
+
+0
+adv7
+
+
+1
+adv7
+valutazioni:  62
+bids precedenti:  [7, 2, 0]
+vecchia utility  -1  nuova utility  1540
+preferred slot:  0
+payment  7
+
+
+2
+adv7
+valutazioni:  62
+bids precedenti:  [54, 2.1, 0.1]
+vecchia utility  -1  nuova utility  1677.2
+preferred slot:  0
+payment  2.1
+
+
+3
+adv7
+valutazioni:  62
+bids precedenti:  [27.9, 0.2, 0.1]
+vecchia utility  -1  nuova utility  1730.4
+preferred slot:  0
+payment  0.2
+
+
+4
+adv7
+valutazioni:  62
+bids precedenti:  [24.599999999999998, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  1727.6
+preferred slot:  0
+payment  0.3
+
+
+5
+adv7
+valutazioni:  62
+bids precedenti:  [19.199999999999996, 0.4, 0.30000000000000004]
+vecchia utility  -1  nuova utility  1724.8
+preferred slot:  0
+payment  0.4
+
+
+6
+adv7
+valutazioni:  62
+bids precedenti:  [11.699999999999996, 0.5, 0.4]
+vecchia utility  -1  nuova utility  1722.0
+preferred slot:  0
+payment  0.5
+
+
+7
+adv7
+valutazioni:  62
+bids precedenti:  [2.099999999999998, 0.6, 0]
+vecchia utility  -1  nuova utility  1719.2
+preferred slot:  0
+payment  0.6
+
+
+8
+adv7
+valutazioni:  62
+bids precedenti:  [2.099999999999998, 0.7, 0]
+vecchia utility  -1  nuova utility  1716.4
+preferred slot:  0
+payment  0.7
+
+
+9
+adv7
+valutazioni:  62
+bids precedenti:  [2.199999999999998, 2.099999999999998, 0.1]
+vecchia utility  -1  nuova utility  1674.4
+preferred slot:  0
+payment  2.2
+
+
+10
+adv7
+valutazioni:  62
+bids precedenti:  [2.199999999999998, 1.199999999999998, 0.1]
+vecchia utility  -1  nuova utility  1674.4
+preferred slot:  0
+payment  2.2
+
+
+11
+adv7
+valutazioni:  62
+bids precedenti:  [0.29999999999999793, 0.20000000000002416, 0.1]
+vecchia utility  -1  nuova utility  1730.4
+preferred slot:  0
+payment  0.2
+
+
+12
+adv7
+valutazioni:  62
+bids precedenti:  [0.3999999999999979, 0.29999999999999793, 0.20000000000002416]
+vecchia utility  -1  nuova utility  1724.8
+preferred slot:  0
+payment  0.4
+
+
+0
+adv7
+
+
+0
+adv6
+
+
+0
+adv3
+
+
+1
+adv7
+valutazioni:  37
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  1850
+preferred slot:  0
+payment  0
+
+
+1
+adv6
+valutazioni:  20
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  1000
+preferred slot:  0
+payment  0
+
+
+1
+adv3
+valutazioni:  29
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  1450
+preferred slot:  0
+payment  0
+
+
+2
+adv7
+valutazioni:  37
+bids precedenti:  [29, 28, 20]
+vecchia utility  -1  nuova utility  400
+preferred slot:  0
+payment  29
+vecchia utility  400  nuova utility  518
+preferred slot:  2
+payment  0
+
+
+2
+adv6
+valutazioni:  20
+bids precedenti:  [29, 28, 20]
+vecchia utility  -1  nuova utility  280
+preferred slot:  2
+payment  0
+
+
+2
+adv3
+valutazioni:  29
+bids precedenti:  [29, 28, 20]
+vecchia utility  -1  nuova utility  50
+preferred slot:  0
+payment  28
+vecchia utility  50  nuova utility  135
+preferred slot:  1
+payment  20
+vecchia utility  135  nuova utility  406
+preferred slot:  2
+payment  0
+
+
+3
+adv7
+valutazioni:  37
+bids precedenti:  [27.9, 27.9, 8]
+vecchia utility  -1  nuova utility  455.0
+preferred slot:  0
+payment  27.9
+vecchia utility  455.0  nuova utility  518
+preferred slot:  2
+payment  0
+
+
+3
+adv6
+valutazioni:  20
+bids precedenti:  [27.9, 27.9, 8]
+vecchia utility  -1  nuova utility  180
+preferred slot:  1
+payment  8
+vecchia utility  180  nuova utility  280
+preferred slot:  2
+payment  0
+
+
+3
+adv3
+valutazioni:  29
+bids precedenti:  [27.9, 27.9, 8]
+vecchia utility  -1  nuova utility  55.0
+preferred slot:  0
+payment  27.9
+vecchia utility  55.0  nuova utility  315
+preferred slot:  1
+payment  8
+vecchia utility  315  nuova utility  406
+preferred slot:  2
+payment  0
+
+
+4
+adv7
+valutazioni:  37
+bids precedenti:  [27.799999999999997, 27.799999999999997, 8]
+vecchia utility  -1  nuova utility  460.0
+preferred slot:  0
+payment  27.8
+vecchia utility  460.0  nuova utility  518
+preferred slot:  2
+payment  0
+
+
+4
+adv6
+valutazioni:  20
+bids precedenti:  [27.799999999999997, 27.799999999999997, 8]
+vecchia utility  -1  nuova utility  180
+preferred slot:  1
+payment  8
+vecchia utility  180  nuova utility  280
+preferred slot:  2
+payment  0
+
+
+4
+adv3
+valutazioni:  29
+bids precedenti:  [27.799999999999997, 27.799999999999997, 8]
+vecchia utility  -1  nuova utility  60.0
+preferred slot:  0
+payment  27.8
+vecchia utility  60.0  nuova utility  315
+preferred slot:  1
+payment  8
+vecchia utility  315  nuova utility  406
+preferred slot:  2
+payment  0
+
+
+5
+adv7
+valutazioni:  37
+bids precedenti:  [27.699999999999996, 27.699999999999996, 8]
+vecchia utility  -1  nuova utility  465.0
+preferred slot:  0
+payment  27.7
+vecchia utility  465.0  nuova utility  518
+preferred slot:  2
+payment  0
+
+
+5
+adv6
+valutazioni:  20
+bids precedenti:  [27.699999999999996, 27.699999999999996, 8]
+vecchia utility  -1  nuova utility  180
+preferred slot:  1
+payment  8
+vecchia utility  180  nuova utility  280
+preferred slot:  2
+payment  0
+
+
+6
+adv7
+valutazioni:  37
+bids precedenti:  [27.599999999999994, 17, 8]
+vecchia utility  -1  nuova utility  470.0
+preferred slot:  0
+payment  27.6
+vecchia utility  470.0  nuova utility  518
+preferred slot:  2
+payment  0
+
+
+6
+adv6
+valutazioni:  20
+bids precedenti:  [27.599999999999994, 17, 8]
+vecchia utility  -1  nuova utility  150
+preferred slot:  0
+payment  17
+vecchia utility  150  nuova utility  180
+preferred slot:  1
+payment  8
+vecchia utility  180  nuova utility  280
+preferred slot:  2
+payment  0
+
+
+6
+adv3
+valutazioni:  29
+bids precedenti:  [27.599999999999994, 17, 8]
+vecchia utility  -1  nuova utility  70.0
+preferred slot:  0
+payment  27.6
+vecchia utility  70.0  nuova utility  315
+preferred slot:  1
+payment  8
+vecchia utility  315  nuova utility  406
+preferred slot:  2
+payment  0
+
+
+7
+adv7
+valutazioni:  37
+bids precedenti:  [16.9, 12, 8]
+vecchia utility  -1  nuova utility  1005.0
+preferred slot:  0
+payment  16.9
+
+
+7
+adv6
+valutazioni:  20
+bids precedenti:  [16.9, 12, 8]
+vecchia utility  -1  nuova utility  400
+preferred slot:  0
+payment  12
+
+
+7
+adv3
+valutazioni:  29
+bids precedenti:  [16.9, 12, 8]
+vecchia utility  -1  nuova utility  605.0
+preferred slot:  0
+payment  16.9
+
+
+8
+adv7
+valutazioni:  37
+bids precedenti:  [20, 8, 4]
+vecchia utility  -1  nuova utility  850
+preferred slot:  0
+payment  20
+
+
+8
+adv6
+valutazioni:  20
+bids precedenti:  [20, 8, 4]
+vecchia utility  -1  nuova utility  600
+preferred slot:  0
+payment  8
+
+
+8
+adv3
+valutazioni:  29
+bids precedenti:  [20, 8, 4]
+vecchia utility  -1  nuova utility  450
+preferred slot:  0
+payment  20
+
+
+9
+adv7
+valutazioni:  37
+bids precedenti:  [20, 4, 4]
+vecchia utility  -1  nuova utility  850
+preferred slot:  0
+payment  20
+
+
+9
+adv6
+valutazioni:  20
+bids precedenti:  [20, 4, 4]
+vecchia utility  -1  nuova utility  800
+preferred slot:  0
+payment  4
+
+
+9
+adv3
+valutazioni:  29
+bids precedenti:  [20, 4, 4]
+vecchia utility  -1  nuova utility  450
+preferred slot:  0
+payment  20
+
+
+0
+adv1
+
+
+0
+adv2
+
+
+1
+adv7
+valutazioni:  41
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  1148
+preferred slot:  0
+payment  0
+
+
+1
+adv1
+valutazioni:  16
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  448
+preferred slot:  0
+payment  0
+
+
+1
+adv2
+valutazioni:  81
+bids precedenti:  [0, 0, 0]
+vecchia utility  -1  nuova utility  2268
+preferred slot:  0
+payment  0
+
+
+2
+adv7
+valutazioni:  41
+bids precedenti:  [37, 23, 16]
+vecchia utility  -1  nuova utility  112
+preferred slot:  0
+payment  37
+vecchia utility  112  nuova utility  425
+preferred slot:  1
+payment  16
+
+
+2
+adv1
+valutazioni:  16
+bids precedenti:  [37, 23, 16]
+vecchia utility  -1  nuova utility  64
+preferred slot:  2
+payment  0
+
+
+2
+adv2
+valutazioni:  81
+bids precedenti:  [37, 23, 16]
+vecchia utility  -1  nuova utility  1624
+preferred slot:  0
+payment  23
+
+
+3
+adv7
+valutazioni:  41
+bids precedenti:  [37, 23, 22]
+vecchia utility  -1  nuova utility  112
+preferred slot:  0
+payment  37
+vecchia utility  112  nuova utility  323
+preferred slot:  1
+payment  22
+
+
+3
+adv1
+valutazioni:  16
+bids precedenti:  [37, 23, 22]
+vecchia utility  -1  nuova utility  64
+preferred slot:  2
+payment  0
+
+
+3
+adv2
+valutazioni:  81
+bids precedenti:  [37, 23, 22]
+vecchia utility  -1  nuova utility  1624
+preferred slot:  0
+payment  23

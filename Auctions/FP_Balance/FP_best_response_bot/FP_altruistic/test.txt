@@ -1,0 +1,5718 @@
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+1
+y
+valutazioni:  4
+bids precedenti:  [5, 4, 2]
+vecchia utility  -1  nuova utility  10
+preferred slot:  1
+payment  2
+
+
+1
+x
+valutazioni:  5
+bids precedenti:  [5, 4, 2]
+vecchia utility  -1  nuova utility  10
+preferred slot:  0
+payment  4
+vecchia utility  10  nuova utility  15
+preferred slot:  1
+payment  2
+
+
+1
+z
+valutazioni:  2
+bids precedenti:  [5, 4, 2]
+vecchia utility  -1  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+1
+y
+valutazioni:  2
+bids precedenti:  [3, 2, 1]
+vecchia utility  -1  nuova utility  7
+preferred slot:  1
+payment  1
+vecchia utility  7  nuova utility  8
+preferred slot:  2
+payment  0
+
+
+1
+x
+valutazioni:  3
+bids precedenti:  [3, 2, 1]
+vecchia utility  -1  nuova utility  8
+preferred slot:  0
+payment  2
+vecchia utility  8  nuova utility  14
+preferred slot:  1
+payment  1
+
+
+1
+z
+valutazioni:  1
+bids precedenti:  [3, 2, 1]
+vecchia utility  -1  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+1
+y
+valutazioni:  1
+bids precedenti:  [2, 1, 0]
+vecchia utility  -1  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+1
+x
+valutazioni:  2
+bids precedenti:  [2, 1, 0]
+vecchia utility  -1  nuova utility  5
+preferred slot:  0
+payment  1
+
+
+1
+z
+valutazioni:  0
+bids precedenti:  [2, 1, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+2
+y
+valutazioni:  4
+bids precedenti:  [2.1, 2.1, 0.1]
+vecchia utility  -1  nuova utility  19.0
+preferred slot:  0
+payment  2.1
+vecchia utility  19.0  nuova utility  19.5
+preferred slot:  1
+payment  0.1
+
+
+2
+x
+valutazioni:  5
+bids precedenti:  [2.1, 2.1, 0.1]
+vecchia utility  -1  nuova utility  29.0
+preferred slot:  0
+payment  2.1
+
+
+2
+z
+valutazioni:  2
+bids precedenti:  [2.1, 2.1, 0.1]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  1
+payment  2.1
+vecchia utility  -0.5  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+2
+y
+valutazioni:  2
+bids precedenti:  [1.1, 0.1, 0.1]
+vecchia utility  -1  nuova utility  7.2
+preferred slot:  0
+payment  1.1
+vecchia utility  7.2  nuova utility  13.3
+preferred slot:  1
+payment  0.1
+
+
+2
+x
+valutazioni:  3
+bids precedenti:  [1.1, 0.1, 0.1]
+vecchia utility  -1  nuova utility  23.2
+preferred slot:  0
+payment  0.1
+
+
+2
+z
+valutazioni:  1
+bids precedenti:  [1.1, 0.1, 0.1]
+vecchia utility  -1  nuova utility  -0.8
+preferred slot:  0
+payment  1.1
+vecchia utility  -0.8  nuova utility  6.3
+preferred slot:  1
+payment  0.1
+
+
+2
+y
+valutazioni:  1
+bids precedenti:  [1.1, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  1.1
+vecchia utility  -0.5  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+2
+x
+valutazioni:  2
+bids precedenti:  [1.1, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+2
+z
+valutazioni:  0
+bids precedenti:  [1.1, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+3
+y
+valutazioni:  4
+bids precedenti:  [2.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  18.0
+preferred slot:  0
+payment  2.2
+vecchia utility  18.0  nuova utility  19.5
+preferred slot:  1
+payment  0.1
+
+
+3
+x
+valutazioni:  5
+bids precedenti:  [2.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  48.0
+preferred slot:  0
+payment  0.2
+
+
+3
+z
+valutazioni:  2
+bids precedenti:  [2.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  9.0
+preferred slot:  1
+payment  0.2
+
+
+3
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.2, 0.2]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+3
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.2, 0.2]
+vecchia utility  -1  nuova utility  22.4
+preferred slot:  0
+payment  0.2
+
+
+3
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.2, 0.2]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+
+
+3
+y
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+3
+x
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+3
+z
+valutazioni:  0
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+4
+y
+valutazioni:  4
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  37.0
+preferred slot:  0
+payment  0.3
+
+
+4
+x
+valutazioni:  5
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  47.0
+preferred slot:  0
+payment  0.3
+
+
+4
+z
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  17.0
+preferred slot:  0
+payment  0.3
+
+
+4
+y
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  13.6
+preferred slot:  0
+payment  0.3
+
+
+4
+x
+valutazioni:  3
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  21.6
+preferred slot:  0
+payment  0.3
+
+
+4
+z
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  5.6
+preferred slot:  0
+payment  0.3
+
+
+4
+y
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+4
+x
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+4
+z
+valutazioni:  0
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  -0.4
+preferred slot:  1
+payment  0.2
+vecchia utility  -0.4  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+5
+y
+valutazioni:  4
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  36.0
+preferred slot:  0
+payment  0.4
+
+
+5
+x
+valutazioni:  5
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  46.0
+preferred slot:  0
+payment  0.4
+
+
+5
+z
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  16.0
+preferred slot:  0
+payment  0.4
+
+
+5
+y
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  12.8
+preferred slot:  0
+payment  0.4
+
+
+5
+x
+valutazioni:  3
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  20.8
+preferred slot:  0
+payment  0.4
+
+
+5
+z
+valutazioni:  1
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  4.8
+preferred slot:  0
+payment  0.4
+
+
+5
+y
+valutazioni:  1
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+5
+x
+valutazioni:  2
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+5
+z
+valutazioni:  0
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  -0.6
+preferred slot:  1
+payment  0.3
+vecchia utility  -0.6  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+6
+y
+valutazioni:  4
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  35.0
+preferred slot:  0
+payment  0.5
+
+
+6
+x
+valutazioni:  5
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  45.0
+preferred slot:  0
+payment  0.5
+
+
+6
+z
+valutazioni:  2
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  15.0
+preferred slot:  0
+payment  0.5
+
+
+6
+y
+valutazioni:  2
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.5
+
+
+6
+x
+valutazioni:  3
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  20.0
+preferred slot:  0
+payment  0.5
+
+
+6
+z
+valutazioni:  1
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.5
+
+
+6
+y
+valutazioni:  1
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+6
+x
+valutazioni:  2
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+6
+z
+valutazioni:  0
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  -0.8
+preferred slot:  1
+payment  0.4
+vecchia utility  -0.8  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+7
+y
+valutazioni:  4
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  34.0
+preferred slot:  0
+payment  0.6
+
+
+7
+x
+valutazioni:  5
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  44.0
+preferred slot:  0
+payment  0.6
+
+
+7
+z
+valutazioni:  2
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  14.0
+preferred slot:  0
+payment  0.6
+
+
+7
+y
+valutazioni:  2
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  11.2
+preferred slot:  0
+payment  0.6
+
+
+7
+x
+valutazioni:  3
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  19.2
+preferred slot:  0
+payment  0.6
+
+
+7
+z
+valutazioni:  1
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  3.2
+preferred slot:  0
+payment  0.6
+vecchia utility  3.2  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+7
+y
+valutazioni:  1
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+7
+x
+valutazioni:  2
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+7
+z
+valutazioni:  0
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+8
+y
+valutazioni:  4
+bids precedenti:  [0.7, 0.7, 0.7]
+vecchia utility  -1  nuova utility  33.0
+preferred slot:  0
+payment  0.7
+
+
+8
+x
+valutazioni:  5
+bids precedenti:  [0.7, 0.7, 0.7]
+vecchia utility  -1  nuova utility  43.0
+preferred slot:  0
+payment  0.7
+
+
+8
+z
+valutazioni:  2
+bids precedenti:  [0.7, 0.7, 0.7]
+vecchia utility  -1  nuova utility  13.0
+preferred slot:  0
+payment  0.7
+
+
+8
+y
+valutazioni:  2
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  10.4
+preferred slot:  0
+payment  0.7
+vecchia utility  10.4  nuova utility  13.3
+preferred slot:  1
+payment  0.1
+
+
+8
+x
+valutazioni:  3
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  18.4
+preferred slot:  0
+payment  0.7
+vecchia utility  18.4  nuova utility  20.3
+preferred slot:  1
+payment  0.1
+
+
+8
+z
+valutazioni:  1
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  2.4
+preferred slot:  0
+payment  0.7
+vecchia utility  2.4  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+8
+y
+valutazioni:  1
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+8
+x
+valutazioni:  2
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+8
+z
+valutazioni:  0
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+9
+y
+valutazioni:  4
+bids precedenti:  [0.7999999999999999, 0.7999999999999999, 0.7999999999999999]
+vecchia utility  -1  nuova utility  32.0
+preferred slot:  0
+payment  0.8
+
+
+9
+x
+valutazioni:  5
+bids precedenti:  [0.7999999999999999, 0.7999999999999999, 0.7999999999999999]
+vecchia utility  -1  nuova utility  42.0
+preferred slot:  0
+payment  0.8
+
+
+9
+z
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.7999999999999999, 0.7999999999999999]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.8
+
+
+9
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+9
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  22.4
+preferred slot:  0
+payment  0.2
+
+
+9
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+
+
+9
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+9
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+9
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+10
+y
+valutazioni:  4
+bids precedenti:  [0.8999999999999999, 0.8999999999999999, 0.8999999999999999]
+vecchia utility  -1  nuova utility  31.0
+preferred slot:  0
+payment  0.9
+
+
+10
+x
+valutazioni:  5
+bids precedenti:  [0.8999999999999999, 0.8999999999999999, 0.8999999999999999]
+vecchia utility  -1  nuova utility  41.0
+preferred slot:  0
+payment  0.9
+
+
+10
+z
+valutazioni:  2
+bids precedenti:  [0.8999999999999999, 0.8999999999999999, 0.8999999999999999]
+vecchia utility  -1  nuova utility  11.0
+preferred slot:  0
+payment  0.9
+
+
+10
+y
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  13.6
+preferred slot:  0
+payment  0.3
+
+
+10
+x
+valutazioni:  3
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  21.6
+preferred slot:  0
+payment  0.3
+
+
+10
+z
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  5.6
+preferred slot:  0
+payment  0.3
+
+
+10
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+10
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+10
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+11
+y
+valutazioni:  4
+bids precedenti:  [0.9999999999999999, 0.9999999999999999, 0.9999999999999999]
+vecchia utility  -1  nuova utility  30.0
+preferred slot:  0
+payment  1.0
+
+
+11
+x
+valutazioni:  5
+bids precedenti:  [0.9999999999999999, 0.9999999999999999, 0.9999999999999999]
+vecchia utility  -1  nuova utility  40.0
+preferred slot:  0
+payment  1.0
+
+
+11
+z
+valutazioni:  2
+bids precedenti:  [0.9999999999999999, 0.9999999999999999, 0.9999999999999999]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  1.0
+
+
+11
+y
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  12.8
+preferred slot:  0
+payment  0.4
+
+
+11
+x
+valutazioni:  3
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  20.8
+preferred slot:  0
+payment  0.4
+
+
+11
+z
+valutazioni:  1
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  4.8
+preferred slot:  0
+payment  0.4
+
+
+11
+y
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+11
+x
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+11
+z
+valutazioni:  0
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+12
+y
+valutazioni:  4
+bids precedenti:  [1.0999999999999999, 1.0999999999999999, 1.0999999999999999]
+vecchia utility  -1  nuova utility  29.0
+preferred slot:  0
+payment  1.1
+
+
+12
+x
+valutazioni:  5
+bids precedenti:  [1.0999999999999999, 1.0999999999999999, 1.0999999999999999]
+vecchia utility  -1  nuova utility  39.0
+preferred slot:  0
+payment  1.1
+
+
+12
+z
+valutazioni:  2
+bids precedenti:  [1.0999999999999999, 1.0999999999999999, 1.0999999999999999]
+vecchia utility  -1  nuova utility  9.0
+preferred slot:  0
+payment  1.1
+
+
+12
+y
+valutazioni:  2
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.5
+
+
+12
+x
+valutazioni:  3
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  20.0
+preferred slot:  0
+payment  0.5
+
+
+12
+z
+valutazioni:  1
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.5
+
+
+12
+y
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+12
+x
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+12
+z
+valutazioni:  0
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  -0.4
+preferred slot:  1
+payment  0.2
+vecchia utility  -0.4  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+13
+y
+valutazioni:  4
+bids precedenti:  [1.2, 1.2, 1.2]
+vecchia utility  -1  nuova utility  28.0
+preferred slot:  0
+payment  1.2
+
+
+13
+x
+valutazioni:  5
+bids precedenti:  [1.2, 1.2, 1.2]
+vecchia utility  -1  nuova utility  38.0
+preferred slot:  0
+payment  1.2
+
+
+13
+z
+valutazioni:  2
+bids precedenti:  [1.2, 1.2, 1.2]
+vecchia utility  -1  nuova utility  8.0
+preferred slot:  0
+payment  1.2
+
+
+13
+y
+valutazioni:  2
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  11.2
+preferred slot:  0
+payment  0.6
+
+
+13
+x
+valutazioni:  3
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  19.2
+preferred slot:  0
+payment  0.6
+
+
+13
+z
+valutazioni:  1
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  3.2
+preferred slot:  0
+payment  0.6
+vecchia utility  3.2  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+13
+y
+valutazioni:  1
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+13
+x
+valutazioni:  2
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+13
+z
+valutazioni:  0
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  -0.6
+preferred slot:  1
+payment  0.3
+vecchia utility  -0.6  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+14
+y
+valutazioni:  4
+bids precedenti:  [1.3, 1.3, 1.3]
+vecchia utility  -1  nuova utility  27.0
+preferred slot:  0
+payment  1.3
+
+
+14
+x
+valutazioni:  5
+bids precedenti:  [1.3, 1.3, 1.3]
+vecchia utility  -1  nuova utility  37.0
+preferred slot:  0
+payment  1.3
+
+
+14
+z
+valutazioni:  2
+bids precedenti:  [1.3, 1.3, 1.3]
+vecchia utility  -1  nuova utility  7.0
+preferred slot:  0
+payment  1.3
+
+
+14
+y
+valutazioni:  2
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  10.4
+preferred slot:  0
+payment  0.7
+vecchia utility  10.4  nuova utility  13.3
+preferred slot:  1
+payment  0.1
+
+
+14
+x
+valutazioni:  3
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  18.4
+preferred slot:  0
+payment  0.7
+vecchia utility  18.4  nuova utility  20.3
+preferred slot:  1
+payment  0.1
+
+
+14
+z
+valutazioni:  1
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  2.4
+preferred slot:  0
+payment  0.7
+vecchia utility  2.4  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+14
+y
+valutazioni:  1
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+14
+x
+valutazioni:  2
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+14
+z
+valutazioni:  0
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  -0.8
+preferred slot:  1
+payment  0.4
+vecchia utility  -0.8  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+15
+y
+valutazioni:  4
+bids precedenti:  [1.4000000000000001, 1.4000000000000001, 1.4000000000000001]
+vecchia utility  -1  nuova utility  26.0
+preferred slot:  0
+payment  1.4
+
+
+15
+x
+valutazioni:  5
+bids precedenti:  [1.4000000000000001, 1.4000000000000001, 1.4000000000000001]
+vecchia utility  -1  nuova utility  36.0
+preferred slot:  0
+payment  1.4
+
+
+15
+z
+valutazioni:  2
+bids precedenti:  [1.4000000000000001, 1.4000000000000001, 1.4000000000000001]
+vecchia utility  -1  nuova utility  6.0
+preferred slot:  0
+payment  1.4
+
+
+15
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+15
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  22.4
+preferred slot:  0
+payment  0.2
+
+
+15
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+
+
+15
+y
+valutazioni:  1
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+15
+x
+valutazioni:  2
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+15
+z
+valutazioni:  0
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+16
+y
+valutazioni:  4
+bids precedenti:  [1.5000000000000002, 1.5000000000000002, 1.5000000000000002]
+vecchia utility  -1  nuova utility  25.0
+preferred slot:  0
+payment  1.5
+
+
+16
+x
+valutazioni:  5
+bids precedenti:  [1.5000000000000002, 1.5000000000000002, 1.5000000000000002]
+vecchia utility  -1  nuova utility  35.0
+preferred slot:  0
+payment  1.5
+
+
+16
+z
+valutazioni:  2
+bids precedenti:  [1.5000000000000002, 1.5000000000000002, 1.5000000000000002]
+vecchia utility  -1  nuova utility  5.0
+preferred slot:  0
+payment  1.5
+
+
+16
+y
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  13.6
+preferred slot:  0
+payment  0.3
+
+
+16
+x
+valutazioni:  3
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  21.6
+preferred slot:  0
+payment  0.3
+
+
+16
+z
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  5.6
+preferred slot:  0
+payment  0.3
+
+
+16
+y
+valutazioni:  1
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+16
+x
+valutazioni:  2
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+16
+z
+valutazioni:  0
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+17
+y
+valutazioni:  4
+bids precedenti:  [1.6000000000000003, 1.6000000000000003, 1.6000000000000003]
+vecchia utility  -1  nuova utility  24.0
+preferred slot:  0
+payment  1.6
+
+
+17
+x
+valutazioni:  5
+bids precedenti:  [1.6000000000000003, 1.6000000000000003, 1.6000000000000003]
+vecchia utility  -1  nuova utility  34.0
+preferred slot:  0
+payment  1.6
+
+
+17
+z
+valutazioni:  2
+bids precedenti:  [1.6000000000000003, 1.6000000000000003, 1.6000000000000003]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  1.6
+vecchia utility  4.0  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+17
+y
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  12.8
+preferred slot:  0
+payment  0.4
+
+
+17
+x
+valutazioni:  3
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  20.8
+preferred slot:  0
+payment  0.4
+
+
+17
+z
+valutazioni:  1
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  4.8
+preferred slot:  0
+payment  0.4
+
+
+17
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+17
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+17
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+18
+y
+valutazioni:  4
+bids precedenti:  [1.7000000000000004, 1.7000000000000004, 0.1]
+vecchia utility  -1  nuova utility  23.0
+preferred slot:  0
+payment  1.7
+
+
+18
+x
+valutazioni:  5
+bids precedenti:  [1.7000000000000004, 1.7000000000000004, 0.1]
+vecchia utility  -1  nuova utility  33.0
+preferred slot:  0
+payment  1.7
+
+
+18
+z
+valutazioni:  2
+bids precedenti:  [1.7000000000000004, 1.7000000000000004, 0.1]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  1.7
+vecchia utility  3.0  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+18
+y
+valutazioni:  2
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.5
+
+
+18
+x
+valutazioni:  3
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  20.0
+preferred slot:  0
+payment  0.5
+
+
+18
+z
+valutazioni:  1
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.5
+
+
+18
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+18
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+18
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+19
+y
+valutazioni:  4
+bids precedenti:  [1.8000000000000005, 1.8000000000000005, 0.1]
+vecchia utility  -1  nuova utility  22.0
+preferred slot:  0
+payment  1.8
+
+
+19
+x
+valutazioni:  5
+bids precedenti:  [1.8000000000000005, 1.8000000000000005, 0.1]
+vecchia utility  -1  nuova utility  32.0
+preferred slot:  0
+payment  1.8
+
+
+19
+z
+valutazioni:  2
+bids precedenti:  [1.8000000000000005, 1.8000000000000005, 0.1]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  1.8
+vecchia utility  2.0  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+19
+y
+valutazioni:  2
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  11.2
+preferred slot:  0
+payment  0.6
+
+
+19
+x
+valutazioni:  3
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  19.2
+preferred slot:  0
+payment  0.6
+
+
+19
+z
+valutazioni:  1
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  3.2
+preferred slot:  0
+payment  0.6
+vecchia utility  3.2  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+19
+y
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+19
+x
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+19
+z
+valutazioni:  0
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+20
+y
+valutazioni:  4
+bids precedenti:  [1.9000000000000006, 1.9000000000000006, 0.1]
+vecchia utility  -1  nuova utility  21.0
+preferred slot:  0
+payment  1.9
+
+
+20
+x
+valutazioni:  5
+bids precedenti:  [1.9000000000000006, 1.9000000000000006, 0.1]
+vecchia utility  -1  nuova utility  31.0
+preferred slot:  0
+payment  1.9
+
+
+20
+z
+valutazioni:  2
+bids precedenti:  [1.9000000000000006, 1.9000000000000006, 0.1]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  1.9
+vecchia utility  1.0  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+20
+y
+valutazioni:  2
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  10.4
+preferred slot:  0
+payment  0.7
+vecchia utility  10.4  nuova utility  13.3
+preferred slot:  1
+payment  0.1
+
+
+20
+x
+valutazioni:  3
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  18.4
+preferred slot:  0
+payment  0.7
+vecchia utility  18.4  nuova utility  20.3
+preferred slot:  1
+payment  0.1
+
+
+20
+z
+valutazioni:  1
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  2.4
+preferred slot:  0
+payment  0.7
+vecchia utility  2.4  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+20
+y
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+20
+x
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+20
+z
+valutazioni:  0
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  -0.4
+preferred slot:  1
+payment  0.2
+vecchia utility  -0.4  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+21
+y
+valutazioni:  4
+bids precedenti:  [2.0000000000000004, 2.0000000000000004, 0.1]
+vecchia utility  -1  nuova utility  20.0
+preferred slot:  0
+payment  2.0
+
+
+21
+x
+valutazioni:  5
+bids precedenti:  [2.0000000000000004, 2.0000000000000004, 0.1]
+vecchia utility  -1  nuova utility  30.0
+preferred slot:  0
+payment  2.0
+
+
+21
+z
+valutazioni:  2
+bids precedenti:  [2.0000000000000004, 2.0000000000000004, 0.1]
+vecchia utility  -1  nuova utility  -4.4408920985e-15
+preferred slot:  0
+payment  2.0
+vecchia utility  -4.4408920985e-15  nuova utility  -2.22044604925e-15
+preferred slot:  1
+payment  2.0
+vecchia utility  -2.22044604925e-15  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+21
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+21
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  22.4
+preferred slot:  0
+payment  0.2
+
+
+21
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+
+
+21
+y
+valutazioni:  1
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+21
+x
+valutazioni:  2
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+21
+z
+valutazioni:  0
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  -0.6
+preferred slot:  1
+payment  0.3
+vecchia utility  -0.6  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+22
+y
+valutazioni:  4
+bids precedenti:  [2.1000000000000005, 2.1000000000000005, 0.1]
+vecchia utility  -1  nuova utility  19.0
+preferred slot:  0
+payment  2.1
+vecchia utility  19.0  nuova utility  19.5
+preferred slot:  1
+payment  0.1
+
+
+22
+x
+valutazioni:  5
+bids precedenti:  [2.1000000000000005, 2.1000000000000005, 0.1]
+vecchia utility  -1  nuova utility  29.0
+preferred slot:  0
+payment  2.1
+
+
+22
+z
+valutazioni:  2
+bids precedenti:  [2.1000000000000005, 2.1000000000000005, 0.1]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  1
+payment  2.1
+vecchia utility  -0.5  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+22
+y
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  13.6
+preferred slot:  0
+payment  0.3
+
+
+22
+x
+valutazioni:  3
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  21.6
+preferred slot:  0
+payment  0.3
+
+
+22
+z
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  5.6
+preferred slot:  0
+payment  0.3
+
+
+22
+y
+valutazioni:  1
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+22
+x
+valutazioni:  2
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+22
+z
+valutazioni:  0
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  -0.8
+preferred slot:  1
+payment  0.4
+vecchia utility  -0.8  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+23
+y
+valutazioni:  4
+bids precedenti:  [2.2000000000000006, 0.2, 0.1]
+vecchia utility  -1  nuova utility  18.0
+preferred slot:  0
+payment  2.2
+vecchia utility  18.0  nuova utility  19.5
+preferred slot:  1
+payment  0.1
+
+
+23
+x
+valutazioni:  5
+bids precedenti:  [2.2000000000000006, 0.2, 0.1]
+vecchia utility  -1  nuova utility  48.0
+preferred slot:  0
+payment  0.2
+
+
+23
+z
+valutazioni:  2
+bids precedenti:  [2.2000000000000006, 0.2, 0.1]
+vecchia utility  -1  nuova utility  9.0
+preferred slot:  1
+payment  0.2
+
+
+23
+y
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  12.8
+preferred slot:  0
+payment  0.4
+
+
+23
+x
+valutazioni:  3
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  20.8
+preferred slot:  0
+payment  0.4
+
+
+23
+z
+valutazioni:  1
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  4.8
+preferred slot:  0
+payment  0.4
+
+
+23
+y
+valutazioni:  1
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+23
+x
+valutazioni:  2
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+23
+z
+valutazioni:  0
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+24
+y
+valutazioni:  4
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  37.0
+preferred slot:  0
+payment  0.3
+
+
+24
+x
+valutazioni:  5
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  47.0
+preferred slot:  0
+payment  0.3
+
+
+24
+z
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  17.0
+preferred slot:  0
+payment  0.3
+
+
+24
+y
+valutazioni:  2
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.5
+
+
+24
+x
+valutazioni:  3
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  20.0
+preferred slot:  0
+payment  0.5
+
+
+24
+z
+valutazioni:  1
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.5
+
+
+24
+y
+valutazioni:  1
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+24
+x
+valutazioni:  2
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+24
+z
+valutazioni:  0
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+25
+y
+valutazioni:  4
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  36.0
+preferred slot:  0
+payment  0.4
+
+
+25
+x
+valutazioni:  5
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  46.0
+preferred slot:  0
+payment  0.4
+
+
+25
+z
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  16.0
+preferred slot:  0
+payment  0.4
+
+
+25
+y
+valutazioni:  2
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  11.2
+preferred slot:  0
+payment  0.6
+
+
+25
+x
+valutazioni:  3
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  19.2
+preferred slot:  0
+payment  0.6
+
+
+25
+z
+valutazioni:  1
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  3.2
+preferred slot:  0
+payment  0.6
+vecchia utility  3.2  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+25
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+25
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+25
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+26
+y
+valutazioni:  4
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  35.0
+preferred slot:  0
+payment  0.5
+
+
+26
+x
+valutazioni:  5
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  45.0
+preferred slot:  0
+payment  0.5
+
+
+26
+z
+valutazioni:  2
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  15.0
+preferred slot:  0
+payment  0.5
+
+
+26
+y
+valutazioni:  2
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  10.4
+preferred slot:  0
+payment  0.7
+vecchia utility  10.4  nuova utility  13.3
+preferred slot:  1
+payment  0.1
+
+
+26
+x
+valutazioni:  3
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  18.4
+preferred slot:  0
+payment  0.7
+vecchia utility  18.4  nuova utility  20.3
+preferred slot:  1
+payment  0.1
+
+
+26
+z
+valutazioni:  1
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  2.4
+preferred slot:  0
+payment  0.7
+vecchia utility  2.4  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+26
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+26
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+26
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+27
+y
+valutazioni:  4
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  34.0
+preferred slot:  0
+payment  0.6
+
+
+27
+x
+valutazioni:  5
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  44.0
+preferred slot:  0
+payment  0.6
+
+
+27
+z
+valutazioni:  2
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  14.0
+preferred slot:  0
+payment  0.6
+
+
+27
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+27
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  22.4
+preferred slot:  0
+payment  0.2
+
+
+27
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+
+
+27
+y
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+27
+x
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+27
+z
+valutazioni:  0
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+28
+y
+valutazioni:  4
+bids precedenti:  [0.7, 0.7, 0.7]
+vecchia utility  -1  nuova utility  33.0
+preferred slot:  0
+payment  0.7
+
+
+28
+x
+valutazioni:  5
+bids precedenti:  [0.7, 0.7, 0.7]
+vecchia utility  -1  nuova utility  43.0
+preferred slot:  0
+payment  0.7
+
+
+28
+z
+valutazioni:  2
+bids precedenti:  [0.7, 0.7, 0.7]
+vecchia utility  -1  nuova utility  13.0
+preferred slot:  0
+payment  0.7
+
+
+28
+y
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  13.6
+preferred slot:  0
+payment  0.3
+
+
+28
+x
+valutazioni:  3
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  21.6
+preferred slot:  0
+payment  0.3
+
+
+28
+z
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  5.6
+preferred slot:  0
+payment  0.3
+
+
+28
+y
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+28
+x
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+28
+z
+valutazioni:  0
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  -0.4
+preferred slot:  1
+payment  0.2
+vecchia utility  -0.4  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+29
+y
+valutazioni:  4
+bids precedenti:  [0.7999999999999999, 0.7999999999999999, 0.7999999999999999]
+vecchia utility  -1  nuova utility  32.0
+preferred slot:  0
+payment  0.8
+
+
+29
+x
+valutazioni:  5
+bids precedenti:  [0.7999999999999999, 0.7999999999999999, 0.7999999999999999]
+vecchia utility  -1  nuova utility  42.0
+preferred slot:  0
+payment  0.8
+
+
+29
+z
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.7999999999999999, 0.7999999999999999]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.8
+
+
+29
+y
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  12.8
+preferred slot:  0
+payment  0.4
+
+
+29
+x
+valutazioni:  3
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  20.8
+preferred slot:  0
+payment  0.4
+
+
+29
+z
+valutazioni:  1
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  4.8
+preferred slot:  0
+payment  0.4
+
+
+29
+y
+valutazioni:  1
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+29
+x
+valutazioni:  2
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+29
+z
+valutazioni:  0
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  -0.6
+preferred slot:  1
+payment  0.3
+vecchia utility  -0.6  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+30
+y
+valutazioni:  4
+bids precedenti:  [0.8999999999999999, 0.8999999999999999, 0.8999999999999999]
+vecchia utility  -1  nuova utility  31.0
+preferred slot:  0
+payment  0.9
+
+
+30
+x
+valutazioni:  5
+bids precedenti:  [0.8999999999999999, 0.8999999999999999, 0.8999999999999999]
+vecchia utility  -1  nuova utility  41.0
+preferred slot:  0
+payment  0.9
+
+
+30
+z
+valutazioni:  2
+bids precedenti:  [0.8999999999999999, 0.8999999999999999, 0.8999999999999999]
+vecchia utility  -1  nuova utility  11.0
+preferred slot:  0
+payment  0.9
+
+
+30
+y
+valutazioni:  2
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.5
+
+
+30
+x
+valutazioni:  3
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  20.0
+preferred slot:  0
+payment  0.5
+
+
+30
+z
+valutazioni:  1
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.5
+
+
+30
+y
+valutazioni:  1
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+30
+x
+valutazioni:  2
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+30
+z
+valutazioni:  0
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  -0.8
+preferred slot:  1
+payment  0.4
+vecchia utility  -0.8  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+31
+y
+valutazioni:  4
+bids precedenti:  [0.9999999999999999, 0.9999999999999999, 0.9999999999999999]
+vecchia utility  -1  nuova utility  30.0
+preferred slot:  0
+payment  1.0
+
+
+31
+x
+valutazioni:  5
+bids precedenti:  [0.9999999999999999, 0.9999999999999999, 0.9999999999999999]
+vecchia utility  -1  nuova utility  40.0
+preferred slot:  0
+payment  1.0
+
+
+31
+z
+valutazioni:  2
+bids precedenti:  [0.9999999999999999, 0.9999999999999999, 0.9999999999999999]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  1.0
+
+
+31
+y
+valutazioni:  2
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  11.2
+preferred slot:  0
+payment  0.6
+
+
+31
+x
+valutazioni:  3
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  19.2
+preferred slot:  0
+payment  0.6
+
+
+31
+z
+valutazioni:  1
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  3.2
+preferred slot:  0
+payment  0.6
+vecchia utility  3.2  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+31
+y
+valutazioni:  1
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+31
+x
+valutazioni:  2
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+31
+z
+valutazioni:  0
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+32
+y
+valutazioni:  4
+bids precedenti:  [1.0999999999999999, 1.0999999999999999, 1.0999999999999999]
+vecchia utility  -1  nuova utility  29.0
+preferred slot:  0
+payment  1.1
+
+
+32
+x
+valutazioni:  5
+bids precedenti:  [1.0999999999999999, 1.0999999999999999, 1.0999999999999999]
+vecchia utility  -1  nuova utility  39.0
+preferred slot:  0
+payment  1.1
+
+
+32
+z
+valutazioni:  2
+bids precedenti:  [1.0999999999999999, 1.0999999999999999, 1.0999999999999999]
+vecchia utility  -1  nuova utility  9.0
+preferred slot:  0
+payment  1.1
+
+
+32
+y
+valutazioni:  2
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  10.4
+preferred slot:  0
+payment  0.7
+vecchia utility  10.4  nuova utility  13.3
+preferred slot:  1
+payment  0.1
+
+
+32
+x
+valutazioni:  3
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  18.4
+preferred slot:  0
+payment  0.7
+vecchia utility  18.4  nuova utility  20.3
+preferred slot:  1
+payment  0.1
+
+
+32
+z
+valutazioni:  1
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  2.4
+preferred slot:  0
+payment  0.7
+vecchia utility  2.4  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+32
+y
+valutazioni:  1
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+32
+x
+valutazioni:  2
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+32
+z
+valutazioni:  0
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+33
+y
+valutazioni:  4
+bids precedenti:  [1.2, 1.2, 1.2]
+vecchia utility  -1  nuova utility  28.0
+preferred slot:  0
+payment  1.2
+
+
+33
+x
+valutazioni:  5
+bids precedenti:  [1.2, 1.2, 1.2]
+vecchia utility  -1  nuova utility  38.0
+preferred slot:  0
+payment  1.2
+
+
+33
+z
+valutazioni:  2
+bids precedenti:  [1.2, 1.2, 1.2]
+vecchia utility  -1  nuova utility  8.0
+preferred slot:  0
+payment  1.2
+
+
+33
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+33
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  22.4
+preferred slot:  0
+payment  0.2
+
+
+33
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+
+
+33
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+33
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+33
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+34
+y
+valutazioni:  4
+bids precedenti:  [1.3, 1.3, 1.3]
+vecchia utility  -1  nuova utility  27.0
+preferred slot:  0
+payment  1.3
+
+
+34
+x
+valutazioni:  5
+bids precedenti:  [1.3, 1.3, 1.3]
+vecchia utility  -1  nuova utility  37.0
+preferred slot:  0
+payment  1.3
+
+
+34
+z
+valutazioni:  2
+bids precedenti:  [1.3, 1.3, 1.3]
+vecchia utility  -1  nuova utility  7.0
+preferred slot:  0
+payment  1.3
+
+
+34
+y
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  13.6
+preferred slot:  0
+payment  0.3
+
+
+34
+x
+valutazioni:  3
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  21.6
+preferred slot:  0
+payment  0.3
+
+
+34
+z
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  5.6
+preferred slot:  0
+payment  0.3
+
+
+34
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+34
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+34
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+35
+y
+valutazioni:  4
+bids precedenti:  [1.4000000000000001, 1.4000000000000001, 1.4000000000000001]
+vecchia utility  -1  nuova utility  26.0
+preferred slot:  0
+payment  1.4
+
+
+35
+x
+valutazioni:  5
+bids precedenti:  [1.4000000000000001, 1.4000000000000001, 1.4000000000000001]
+vecchia utility  -1  nuova utility  36.0
+preferred slot:  0
+payment  1.4
+
+
+35
+z
+valutazioni:  2
+bids precedenti:  [1.4000000000000001, 1.4000000000000001, 1.4000000000000001]
+vecchia utility  -1  nuova utility  6.0
+preferred slot:  0
+payment  1.4
+
+
+35
+y
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  12.8
+preferred slot:  0
+payment  0.4
+
+
+35
+x
+valutazioni:  3
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  20.8
+preferred slot:  0
+payment  0.4
+
+
+35
+z
+valutazioni:  1
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  4.8
+preferred slot:  0
+payment  0.4
+
+
+35
+y
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+35
+x
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+35
+z
+valutazioni:  0
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+36
+y
+valutazioni:  4
+bids precedenti:  [1.5000000000000002, 1.5000000000000002, 1.5000000000000002]
+vecchia utility  -1  nuova utility  25.0
+preferred slot:  0
+payment  1.5
+
+
+36
+x
+valutazioni:  5
+bids precedenti:  [1.5000000000000002, 1.5000000000000002, 1.5000000000000002]
+vecchia utility  -1  nuova utility  35.0
+preferred slot:  0
+payment  1.5
+
+
+36
+z
+valutazioni:  2
+bids precedenti:  [1.5000000000000002, 1.5000000000000002, 1.5000000000000002]
+vecchia utility  -1  nuova utility  5.0
+preferred slot:  0
+payment  1.5
+
+
+36
+y
+valutazioni:  2
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.5
+
+
+36
+x
+valutazioni:  3
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  20.0
+preferred slot:  0
+payment  0.5
+
+
+36
+z
+valutazioni:  1
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.5
+
+
+36
+y
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+36
+x
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+36
+z
+valutazioni:  0
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  -0.4
+preferred slot:  1
+payment  0.2
+vecchia utility  -0.4  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+37
+y
+valutazioni:  4
+bids precedenti:  [1.6000000000000003, 1.6000000000000003, 1.6000000000000003]
+vecchia utility  -1  nuova utility  24.0
+preferred slot:  0
+payment  1.6
+
+
+37
+x
+valutazioni:  5
+bids precedenti:  [1.6000000000000003, 1.6000000000000003, 1.6000000000000003]
+vecchia utility  -1  nuova utility  34.0
+preferred slot:  0
+payment  1.6
+
+
+37
+z
+valutazioni:  2
+bids precedenti:  [1.6000000000000003, 1.6000000000000003, 1.6000000000000003]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  1.6
+vecchia utility  4.0  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+37
+y
+valutazioni:  2
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  11.2
+preferred slot:  0
+payment  0.6
+
+
+37
+x
+valutazioni:  3
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  19.2
+preferred slot:  0
+payment  0.6
+
+
+37
+z
+valutazioni:  1
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  3.2
+preferred slot:  0
+payment  0.6
+vecchia utility  3.2  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+37
+y
+valutazioni:  1
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+37
+x
+valutazioni:  2
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+37
+z
+valutazioni:  0
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  -0.6
+preferred slot:  1
+payment  0.3
+vecchia utility  -0.6  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+38
+y
+valutazioni:  4
+bids precedenti:  [1.7000000000000004, 1.7000000000000004, 0.1]
+vecchia utility  -1  nuova utility  23.0
+preferred slot:  0
+payment  1.7
+
+
+38
+x
+valutazioni:  5
+bids precedenti:  [1.7000000000000004, 1.7000000000000004, 0.1]
+vecchia utility  -1  nuova utility  33.0
+preferred slot:  0
+payment  1.7
+
+
+38
+z
+valutazioni:  2
+bids precedenti:  [1.7000000000000004, 1.7000000000000004, 0.1]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  1.7
+vecchia utility  3.0  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+38
+y
+valutazioni:  2
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  10.4
+preferred slot:  0
+payment  0.7
+vecchia utility  10.4  nuova utility  13.3
+preferred slot:  1
+payment  0.1
+
+
+38
+x
+valutazioni:  3
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  18.4
+preferred slot:  0
+payment  0.7
+vecchia utility  18.4  nuova utility  20.3
+preferred slot:  1
+payment  0.1
+
+
+38
+z
+valutazioni:  1
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  2.4
+preferred slot:  0
+payment  0.7
+vecchia utility  2.4  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+38
+y
+valutazioni:  1
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+38
+x
+valutazioni:  2
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+38
+z
+valutazioni:  0
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  -0.8
+preferred slot:  1
+payment  0.4
+vecchia utility  -0.8  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+39
+y
+valutazioni:  4
+bids precedenti:  [1.8000000000000005, 1.8000000000000005, 0.1]
+vecchia utility  -1  nuova utility  22.0
+preferred slot:  0
+payment  1.8
+
+
+39
+x
+valutazioni:  5
+bids precedenti:  [1.8000000000000005, 1.8000000000000005, 0.1]
+vecchia utility  -1  nuova utility  32.0
+preferred slot:  0
+payment  1.8
+
+
+39
+z
+valutazioni:  2
+bids precedenti:  [1.8000000000000005, 1.8000000000000005, 0.1]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  1.8
+vecchia utility  2.0  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+39
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+39
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  22.4
+preferred slot:  0
+payment  0.2
+
+
+39
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+
+
+39
+y
+valutazioni:  1
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+39
+x
+valutazioni:  2
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+39
+z
+valutazioni:  0
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+40
+y
+valutazioni:  4
+bids precedenti:  [1.9000000000000006, 1.9000000000000006, 0.1]
+vecchia utility  -1  nuova utility  21.0
+preferred slot:  0
+payment  1.9
+
+
+40
+x
+valutazioni:  5
+bids precedenti:  [1.9000000000000006, 1.9000000000000006, 0.1]
+vecchia utility  -1  nuova utility  31.0
+preferred slot:  0
+payment  1.9
+
+
+40
+z
+valutazioni:  2
+bids precedenti:  [1.9000000000000006, 1.9000000000000006, 0.1]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  1.9
+vecchia utility  1.0  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+40
+y
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  13.6
+preferred slot:  0
+payment  0.3
+
+
+40
+x
+valutazioni:  3
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  21.6
+preferred slot:  0
+payment  0.3
+
+
+40
+z
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  5.6
+preferred slot:  0
+payment  0.3
+
+
+40
+y
+valutazioni:  1
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+40
+x
+valutazioni:  2
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+40
+z
+valutazioni:  0
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+41
+y
+valutazioni:  4
+bids precedenti:  [2.0000000000000004, 2.0000000000000004, 0.1]
+vecchia utility  -1  nuova utility  20.0
+preferred slot:  0
+payment  2.0
+
+
+41
+x
+valutazioni:  5
+bids precedenti:  [2.0000000000000004, 2.0000000000000004, 0.1]
+vecchia utility  -1  nuova utility  30.0
+preferred slot:  0
+payment  2.0
+
+
+41
+z
+valutazioni:  2
+bids precedenti:  [2.0000000000000004, 2.0000000000000004, 0.1]
+vecchia utility  -1  nuova utility  -4.4408920985e-15
+preferred slot:  0
+payment  2.0
+vecchia utility  -4.4408920985e-15  nuova utility  -2.22044604925e-15
+preferred slot:  1
+payment  2.0
+vecchia utility  -2.22044604925e-15  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+41
+y
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  12.8
+preferred slot:  0
+payment  0.4
+
+
+41
+x
+valutazioni:  3
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  20.8
+preferred slot:  0
+payment  0.4
+
+
+41
+z
+valutazioni:  1
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  4.8
+preferred slot:  0
+payment  0.4
+
+
+41
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+41
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+41
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+42
+y
+valutazioni:  4
+bids precedenti:  [2.1000000000000005, 2.1000000000000005, 0.1]
+vecchia utility  -1  nuova utility  19.0
+preferred slot:  0
+payment  2.1
+vecchia utility  19.0  nuova utility  19.5
+preferred slot:  1
+payment  0.1
+
+
+42
+x
+valutazioni:  5
+bids precedenti:  [2.1000000000000005, 2.1000000000000005, 0.1]
+vecchia utility  -1  nuova utility  29.0
+preferred slot:  0
+payment  2.1
+
+
+42
+z
+valutazioni:  2
+bids precedenti:  [2.1000000000000005, 2.1000000000000005, 0.1]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  1
+payment  2.1
+vecchia utility  -0.5  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+42
+y
+valutazioni:  2
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.5
+
+
+42
+x
+valutazioni:  3
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  20.0
+preferred slot:  0
+payment  0.5
+
+
+42
+z
+valutazioni:  1
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.5
+
+
+42
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+42
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+42
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+43
+y
+valutazioni:  4
+bids precedenti:  [2.2000000000000006, 0.2, 0.1]
+vecchia utility  -1  nuova utility  18.0
+preferred slot:  0
+payment  2.2
+vecchia utility  18.0  nuova utility  19.5
+preferred slot:  1
+payment  0.1
+
+
+43
+x
+valutazioni:  5
+bids precedenti:  [2.2000000000000006, 0.2, 0.1]
+vecchia utility  -1  nuova utility  48.0
+preferred slot:  0
+payment  0.2
+
+
+43
+z
+valutazioni:  2
+bids precedenti:  [2.2000000000000006, 0.2, 0.1]
+vecchia utility  -1  nuova utility  9.0
+preferred slot:  1
+payment  0.2
+
+
+43
+y
+valutazioni:  2
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  11.2
+preferred slot:  0
+payment  0.6
+
+
+43
+x
+valutazioni:  3
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  19.2
+preferred slot:  0
+payment  0.6
+
+
+43
+z
+valutazioni:  1
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  3.2
+preferred slot:  0
+payment  0.6
+vecchia utility  3.2  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+43
+y
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+43
+x
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+43
+z
+valutazioni:  0
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+44
+y
+valutazioni:  4
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  37.0
+preferred slot:  0
+payment  0.3
+
+
+44
+x
+valutazioni:  5
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  47.0
+preferred slot:  0
+payment  0.3
+
+
+44
+z
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.2]
+vecchia utility  -1  nuova utility  17.0
+preferred slot:  0
+payment  0.3
+
+
+44
+y
+valutazioni:  2
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  10.4
+preferred slot:  0
+payment  0.7
+vecchia utility  10.4  nuova utility  13.3
+preferred slot:  1
+payment  0.1
+
+
+44
+x
+valutazioni:  3
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  18.4
+preferred slot:  0
+payment  0.7
+vecchia utility  18.4  nuova utility  20.3
+preferred slot:  1
+payment  0.1
+
+
+44
+z
+valutazioni:  1
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  2.4
+preferred slot:  0
+payment  0.7
+vecchia utility  2.4  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+44
+y
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+44
+x
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+44
+z
+valutazioni:  0
+bids precedenti:  [0.30000000000000004, 0.2, 0]
+vecchia utility  -1  nuova utility  -0.4
+preferred slot:  1
+payment  0.2
+vecchia utility  -0.4  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+45
+y
+valutazioni:  4
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  36.0
+preferred slot:  0
+payment  0.4
+
+
+45
+x
+valutazioni:  5
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  46.0
+preferred slot:  0
+payment  0.4
+
+
+45
+z
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  16.0
+preferred slot:  0
+payment  0.4
+
+
+45
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+45
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  22.4
+preferred slot:  0
+payment  0.2
+
+
+45
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.2, 0.1]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+
+
+45
+y
+valutazioni:  1
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+45
+x
+valutazioni:  2
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  8.5
+preferred slot:  0
+payment  0.3
+
+
+45
+z
+valutazioni:  0
+bids precedenti:  [0.4, 0.30000000000000004, 0]
+vecchia utility  -1  nuova utility  -0.6
+preferred slot:  1
+payment  0.3
+vecchia utility  -0.6  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+46
+y
+valutazioni:  4
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  35.0
+preferred slot:  0
+payment  0.5
+
+
+46
+x
+valutazioni:  5
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  45.0
+preferred slot:  0
+payment  0.5
+
+
+46
+z
+valutazioni:  2
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  15.0
+preferred slot:  0
+payment  0.5
+
+
+46
+y
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  13.6
+preferred slot:  0
+payment  0.3
+
+
+46
+x
+valutazioni:  3
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  21.6
+preferred slot:  0
+payment  0.3
+
+
+46
+z
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.30000000000000004]
+vecchia utility  -1  nuova utility  5.6
+preferred slot:  0
+payment  0.3
+
+
+46
+y
+valutazioni:  1
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  3.0
+preferred slot:  0
+payment  0.4
+
+
+46
+x
+valutazioni:  2
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+46
+z
+valutazioni:  0
+bids precedenti:  [0.5, 0.4, 0]
+vecchia utility  -1  nuova utility  -0.8
+preferred slot:  1
+payment  0.4
+vecchia utility  -0.8  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+47
+y
+valutazioni:  4
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  34.0
+preferred slot:  0
+payment  0.6
+
+
+47
+x
+valutazioni:  5
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  44.0
+preferred slot:  0
+payment  0.6
+
+
+47
+z
+valutazioni:  2
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  14.0
+preferred slot:  0
+payment  0.6
+
+
+47
+y
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  12.8
+preferred slot:  0
+payment  0.4
+
+
+47
+x
+valutazioni:  3
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  20.8
+preferred slot:  0
+payment  0.4
+
+
+47
+z
+valutazioni:  1
+bids precedenti:  [0.4, 0.4, 0.4]
+vecchia utility  -1  nuova utility  4.8
+preferred slot:  0
+payment  0.4
+
+
+47
+y
+valutazioni:  1
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+47
+x
+valutazioni:  2
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  7.5
+preferred slot:  0
+payment  0.5
+
+
+47
+z
+valutazioni:  0
+bids precedenti:  [0.6, 0.5, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+48
+y
+valutazioni:  4
+bids precedenti:  [0.7, 0.7, 0.7]
+vecchia utility  -1  nuova utility  33.0
+preferred slot:  0
+payment  0.7
+
+
+48
+x
+valutazioni:  5
+bids precedenti:  [0.7, 0.7, 0.7]
+vecchia utility  -1  nuova utility  43.0
+preferred slot:  0
+payment  0.7
+
+
+48
+z
+valutazioni:  2
+bids precedenti:  [0.7, 0.7, 0.7]
+vecchia utility  -1  nuova utility  13.0
+preferred slot:  0
+payment  0.7
+
+
+48
+y
+valutazioni:  2
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.5
+
+
+48
+x
+valutazioni:  3
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  20.0
+preferred slot:  0
+payment  0.5
+
+
+48
+z
+valutazioni:  1
+bids precedenti:  [0.5, 0.5, 0.5]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.5
+
+
+48
+y
+valutazioni:  1
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  2.0
+preferred slot:  0
+payment  0.6
+
+
+48
+x
+valutazioni:  2
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+48
+z
+valutazioni:  0
+bids precedenti:  [0.7, 0.6, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+49
+y
+valutazioni:  4
+bids precedenti:  [0.7999999999999999, 0.7999999999999999, 0.7999999999999999]
+vecchia utility  -1  nuova utility  32.0
+preferred slot:  0
+payment  0.8
+
+
+49
+x
+valutazioni:  5
+bids precedenti:  [0.7999999999999999, 0.7999999999999999, 0.7999999999999999]
+vecchia utility  -1  nuova utility  42.0
+preferred slot:  0
+payment  0.8
+
+
+49
+z
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.7999999999999999, 0.7999999999999999]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.8
+
+
+49
+y
+valutazioni:  2
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  11.2
+preferred slot:  0
+payment  0.6
+
+
+49
+x
+valutazioni:  3
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  19.2
+preferred slot:  0
+payment  0.6
+
+
+49
+z
+valutazioni:  1
+bids precedenti:  [0.6, 0.6, 0.6]
+vecchia utility  -1  nuova utility  3.2
+preferred slot:  0
+payment  0.6
+vecchia utility  3.2  nuova utility  4
+preferred slot:  2
+payment  0
+
+
+49
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+49
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  6.5
+preferred slot:  0
+payment  0.7
+
+
+49
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.7, 0]
+vecchia utility  -1  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+50
+y
+valutazioni:  4
+bids precedenti:  [0.8999999999999999, 0.8999999999999999, 0.8999999999999999]
+vecchia utility  -1  nuova utility  31.0
+preferred slot:  0
+payment  0.9
+
+
+50
+x
+valutazioni:  5
+bids precedenti:  [0.8999999999999999, 0.8999999999999999, 0.8999999999999999]
+vecchia utility  -1  nuova utility  41.0
+preferred slot:  0
+payment  0.9
+
+
+50
+z
+valutazioni:  2
+bids precedenti:  [0.8999999999999999, 0.8999999999999999, 0.8999999999999999]
+vecchia utility  -1  nuova utility  11.0
+preferred slot:  0
+payment  0.9
+
+
+50
+y
+valutazioni:  2
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  10.4
+preferred slot:  0
+payment  0.7
+vecchia utility  10.4  nuova utility  13.3
+preferred slot:  1
+payment  0.1
+
+
+50
+x
+valutazioni:  3
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  18.4
+preferred slot:  0
+payment  0.7
+vecchia utility  18.4  nuova utility  20.3
+preferred slot:  1
+payment  0.1
+
+
+50
+z
+valutazioni:  1
+bids precedenti:  [0.7, 0.7, 0.1]
+vecchia utility  -1  nuova utility  2.4
+preferred slot:  0
+payment  0.7
+vecchia utility  2.4  nuova utility  6.3
+preferred slot:  1
+payment  0.1
+
+
+50
+y
+valutazioni:  1
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  1.0
+preferred slot:  0
+payment  0.8
+vecchia utility  1.0  nuova utility  2
+preferred slot:  1
+payment  0
+
+
+50
+x
+valutazioni:  2
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+50
+z
+valutazioni:  0
+bids precedenti:  [0.7999999999999999, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+51
+y
+valutazioni:  4
+bids precedenti:  [0.9999999999999999, 0.9999999999999999, 0.5999999999999936]
+vecchia utility  -1  nuova utility  30.0
+preferred slot:  0
+payment  1.0
+
+
+51
+x
+valutazioni:  5
+bids precedenti:  [0.9999999999999999, 0.9999999999999999, 0.5999999999999936]
+vecchia utility  -1  nuova utility  40.0
+preferred slot:  0
+payment  1.0
+
+
+51
+z
+valutazioni:  2
+bids precedenti:  [0.9999999999999999, 0.9999999999999999, 0.5999999999999936]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  1.0
+
+
+51
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.2, 0.2]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+51
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.2, 0.2]
+vecchia utility  -1  nuova utility  22.4
+preferred slot:  0
+payment  0.2
+
+
+51
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.2, 0.2]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+
+
+51
+y
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+51
+x
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  9.5
+preferred slot:  0
+payment  0.1
+
+
+51
+z
+valutazioni:  0
+bids precedenti:  [0.2, 0.1, 0]
+vecchia utility  -1  nuova utility  -0.2
+preferred slot:  1
+payment  0.1
+vecchia utility  -0.2  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+52
+y
+valutazioni:  4
+bids precedenti:  [1.0999999999999999, 1.0999999999999999, 0.49999999999999367]
+vecchia utility  -1  nuova utility  29.0
+preferred slot:  0
+payment  1.1
+
+
+52
+x
+valutazioni:  5
+bids precedenti:  [1.0999999999999999, 1.0999999999999999, 0.49999999999999367]
+vecchia utility  -1  nuova utility  39.0
+preferred slot:  0
+payment  1.1
+
+
+52
+z
+valutazioni:  2
+bids precedenti:  [1.0999999999999999, 1.0999999999999999, 0.49999999999999367]
+vecchia utility  -1  nuova utility  9.0
+preferred slot:  0
+payment  1.1
+
+
+52
+y
+valutazioni:  2
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.29999999999999366]
+vecchia utility  -1  nuova utility  13.6
+preferred slot:  0
+payment  0.3
+
+
+52
+x
+valutazioni:  3
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.29999999999999366]
+vecchia utility  -1  nuova utility  21.6
+preferred slot:  0
+payment  0.3
+
+
+52
+z
+valutazioni:  1
+bids precedenti:  [0.30000000000000004, 0.30000000000000004, 0.29999999999999366]
+vecchia utility  -1  nuova utility  5.6
+preferred slot:  0
+payment  0.3
+
+
+52
+y
+valutazioni:  1
+bids precedenti:  [0.2, 0.19999999999999366, 0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.2
+
+
+52
+x
+valutazioni:  2
+bids precedenti:  [0.2, 0.19999999999999366, 0]
+vecchia utility  -1  nuova utility  9.0
+preferred slot:  0
+payment  0.2
+
+
+52
+z
+valutazioni:  0
+bids precedenti:  [0.2, 0.19999999999999366, 0]
+vecchia utility  -1  nuova utility  -0.4
+preferred slot:  1
+payment  0.2
+vecchia utility  -0.4  nuova utility  0
+preferred slot:  2
+payment  0
+
+
+53
+y
+valutazioni:  4
+bids precedenti:  [1.2, 1.2, 0.19999999999999366]
+vecchia utility  -1  nuova utility  28.0
+preferred slot:  0
+payment  1.2
+
+
+53
+x
+valutazioni:  5
+bids precedenti:  [1.2, 1.2, 0.19999999999999366]
+vecchia utility  -1  nuova utility  38.0
+preferred slot:  0
+payment  1.2
+
+
+53
+z
+valutazioni:  2
+bids precedenti:  [1.2, 1.2, 0.19999999999999366]
+vecchia utility  -1  nuova utility  8.0
+preferred slot:  0
+payment  1.2
+vecchia utility  8.0  nuova utility  9.0
+preferred slot:  1
+payment  0.2
+
+
+53
+y
+valutazioni:  2
+bids precedenti:  [0.4, 0.4, 0.19999999999999366]
+vecchia utility  -1  nuova utility  12.8
+preferred slot:  0
+payment  0.4
+
+
+53
+x
+valutazioni:  3
+bids precedenti:  [0.4, 0.4, 0.19999999999999366]
+vecchia utility  -1  nuova utility  20.8
+preferred slot:  0
+payment  0.4
+
+
+53
+z
+valutazioni:  1
+bids precedenti:  [0.4, 0.4, 0.19999999999999366]
+vecchia utility  -1  nuova utility  4.8
+preferred slot:  0
+payment  0.4
+vecchia utility  4.8  nuova utility  5.6
+preferred slot:  1
+payment  0.2
+
+
+53
+y
+valutazioni:  1
+bids precedenti:  [0.29999999999999366, 0.0, 0]
+vecchia utility  -1  nuova utility  3.5
+preferred slot:  0
+payment  0.3
+
+
+53
+x
+valutazioni:  2
+bids precedenti:  [0.29999999999999366, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+53
+z
+valutazioni:  0
+bids precedenti:  [0.29999999999999366, 0.0, 0]
+vecchia utility  -1  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+54
+y
+valutazioni:  4
+bids precedenti:  [1.3, 0.29999999999999366, 0.0]
+vecchia utility  -1  nuova utility  27.0
+preferred slot:  0
+payment  1.3
+
+
+54
+x
+valutazioni:  5
+bids precedenti:  [1.3, 0.29999999999999366, 0.0]
+vecchia utility  -1  nuova utility  47.0
+preferred slot:  0
+payment  0.3
+
+
+54
+z
+valutazioni:  2
+bids precedenti:  [1.3, 0.29999999999999366, 0.0]
+vecchia utility  -1  nuova utility  7.0
+preferred slot:  0
+payment  1.3
+vecchia utility  7.0  nuova utility  10.0
+preferred slot:  1
+payment  0.0
+
+
+54
+y
+valutazioni:  2
+bids precedenti:  [0.5, 0.29999999999999366, 0.0]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.5
+
+
+54
+x
+valutazioni:  3
+bids precedenti:  [0.5, 0.29999999999999366, 0.0]
+vecchia utility  -1  nuova utility  21.6
+preferred slot:  0
+payment  0.3
+
+
+54
+z
+valutazioni:  1
+bids precedenti:  [0.5, 0.29999999999999366, 0.0]
+vecchia utility  -1  nuova utility  4.0
+preferred slot:  0
+payment  0.5
+vecchia utility  4.0  nuova utility  7.0
+preferred slot:  1
+payment  0.0
+
+
+54
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+54
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+54
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+55
+y
+valutazioni:  4
+bids precedenti:  [0.3999999999999937, 0.1, 0.0]
+vecchia utility  -1  nuova utility  36.0
+preferred slot:  0
+payment  0.4
+
+
+55
+x
+valutazioni:  5
+bids precedenti:  [0.3999999999999937, 0.1, 0.0]
+vecchia utility  -1  nuova utility  49.0
+preferred slot:  0
+payment  0.1
+
+
+55
+z
+valutazioni:  2
+bids precedenti:  [0.3999999999999937, 0.1, 0.0]
+vecchia utility  -1  nuova utility  16.0
+preferred slot:  0
+payment  0.4
+
+
+55
+y
+valutazioni:  2
+bids precedenti:  [0.3999999999999937, 0.1, 0.0]
+vecchia utility  -1  nuova utility  12.8
+preferred slot:  0
+payment  0.4
+vecchia utility  12.8  nuova utility  13.3
+preferred slot:  1
+payment  0.1
+
+
+55
+x
+valutazioni:  3
+bids precedenti:  [0.3999999999999937, 0.1, 0.0]
+vecchia utility  -1  nuova utility  23.2
+preferred slot:  0
+payment  0.1
+
+
+55
+z
+valutazioni:  1
+bids precedenti:  [0.3999999999999937, 0.1, 0.0]
+vecchia utility  -1  nuova utility  4.8
+preferred slot:  0
+payment  0.4
+vecchia utility  4.8  nuova utility  7.0
+preferred slot:  1
+payment  0.0
+
+
+55
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+55
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+55
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+56
+y
+valutazioni:  4
+bids precedenti:  [0.49999999999999367, 0.2, 0.0]
+vecchia utility  -1  nuova utility  35.0
+preferred slot:  0
+payment  0.5
+
+
+56
+x
+valutazioni:  5
+bids precedenti:  [0.49999999999999367, 0.2, 0.0]
+vecchia utility  -1  nuova utility  45.0
+preferred slot:  0
+payment  0.5
+
+
+56
+z
+valutazioni:  2
+bids precedenti:  [0.49999999999999367, 0.2, 0.0]
+vecchia utility  -1  nuova utility  18.0
+preferred slot:  0
+payment  0.2
+
+
+56
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+56
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  23.2
+preferred slot:  0
+payment  0.1
+
+
+56
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+vecchia utility  6.4  nuova utility  7.0
+preferred slot:  1
+payment  0.0
+
+
+56
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+56
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+56
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+57
+y
+valutazioni:  4
+bids precedenti:  [0.5999999999999936, 0.30000000000000004, 0.0]
+vecchia utility  -1  nuova utility  34.0
+preferred slot:  0
+payment  0.6
+
+
+57
+x
+valutazioni:  5
+bids precedenti:  [0.5999999999999936, 0.30000000000000004, 0.0]
+vecchia utility  -1  nuova utility  47.0
+preferred slot:  0
+payment  0.3
+
+
+57
+z
+valutazioni:  2
+bids precedenti:  [0.5999999999999936, 0.30000000000000004, 0.0]
+vecchia utility  -1  nuova utility  14.0
+preferred slot:  0
+payment  0.6
+
+
+57
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+57
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  23.2
+preferred slot:  0
+payment  0.1
+
+
+57
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+vecchia utility  6.4  nuova utility  7.0
+preferred slot:  1
+payment  0.0
+
+
+57
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+57
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+57
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+58
+y
+valutazioni:  4
+bids precedenti:  [0.6999999999999936, 0.4, 0.0]
+vecchia utility  -1  nuova utility  33.0
+preferred slot:  0
+payment  0.7
+
+
+58
+x
+valutazioni:  5
+bids precedenti:  [0.6999999999999936, 0.4, 0.0]
+vecchia utility  -1  nuova utility  43.0
+preferred slot:  0
+payment  0.7
+
+
+58
+z
+valutazioni:  2
+bids precedenti:  [0.6999999999999936, 0.4, 0.0]
+vecchia utility  -1  nuova utility  16.0
+preferred slot:  0
+payment  0.4
+
+
+58
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+58
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  23.2
+preferred slot:  0
+payment  0.1
+
+
+58
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+vecchia utility  6.4  nuova utility  7.0
+preferred slot:  1
+payment  0.0
+
+
+58
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+58
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+58
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+59
+y
+valutazioni:  4
+bids precedenti:  [0.7999999999999936, 0.5, 0.0]
+vecchia utility  -1  nuova utility  32.0
+preferred slot:  0
+payment  0.8
+
+
+59
+x
+valutazioni:  5
+bids precedenti:  [0.7999999999999936, 0.5, 0.0]
+vecchia utility  -1  nuova utility  45.0
+preferred slot:  0
+payment  0.5
+
+
+59
+z
+valutazioni:  2
+bids precedenti:  [0.7999999999999936, 0.5, 0.0]
+vecchia utility  -1  nuova utility  12.0
+preferred slot:  0
+payment  0.8
+
+
+59
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+59
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  23.2
+preferred slot:  0
+payment  0.1
+
+
+59
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+vecchia utility  6.4  nuova utility  7.0
+preferred slot:  1
+payment  0.0
+
+
+59
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+59
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+59
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+60
+y
+valutazioni:  4
+bids precedenti:  [0.8999999999999936, 0.6, 0.0]
+vecchia utility  -1  nuova utility  31.0
+preferred slot:  0
+payment  0.9
+
+
+60
+x
+valutazioni:  5
+bids precedenti:  [0.8999999999999936, 0.6, 0.0]
+vecchia utility  -1  nuova utility  41.0
+preferred slot:  0
+payment  0.9
+
+
+60
+z
+valutazioni:  2
+bids precedenti:  [0.8999999999999936, 0.6, 0.0]
+vecchia utility  -1  nuova utility  14.0
+preferred slot:  0
+payment  0.6
+
+
+60
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+60
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  23.2
+preferred slot:  0
+payment  0.1
+
+
+60
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+vecchia utility  6.4  nuova utility  7.0
+preferred slot:  1
+payment  0.0
+
+
+60
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+60
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+60
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+61
+y
+valutazioni:  4
+bids precedenti:  [0.9999999999999936, 0.30000000000000393, 0.0]
+vecchia utility  -1  nuova utility  30.0
+preferred slot:  0
+payment  1.0
+
+
+61
+x
+valutazioni:  5
+bids precedenti:  [0.9999999999999936, 0.30000000000000393, 0.0]
+vecchia utility  -1  nuova utility  47.0
+preferred slot:  0
+payment  0.3
+
+
+61
+z
+valutazioni:  2
+bids precedenti:  [0.9999999999999936, 0.30000000000000393, 0.0]
+vecchia utility  -1  nuova utility  17.0
+preferred slot:  0
+payment  0.3
+
+
+61
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+61
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  23.2
+preferred slot:  0
+payment  0.1
+
+
+61
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+vecchia utility  6.4  nuova utility  7.0
+preferred slot:  1
+payment  0.0
+
+
+61
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+61
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+61
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+62
+y
+valutazioni:  4
+bids precedenti:  [0.4000000000000039, 0.20000000000000392, 0.0]
+vecchia utility  -1  nuova utility  36.0
+preferred slot:  0
+payment  0.4
+
+
+62
+x
+valutazioni:  5
+bids precedenti:  [0.4000000000000039, 0.20000000000000392, 0.0]
+vecchia utility  -1  nuova utility  48.0
+preferred slot:  0
+payment  0.2
+
+
+62
+z
+valutazioni:  2
+bids precedenti:  [0.4000000000000039, 0.20000000000000392, 0.0]
+vecchia utility  -1  nuova utility  18.0
+preferred slot:  0
+payment  0.2
+
+
+62
+y
+valutazioni:  2
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+62
+x
+valutazioni:  3
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  23.2
+preferred slot:  0
+payment  0.1
+
+
+62
+z
+valutazioni:  1
+bids precedenti:  [0.2, 0.1, 0.0]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+vecchia utility  6.4  nuova utility  7.0
+preferred slot:  1
+payment  0.0
+
+
+62
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+62
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+62
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+63
+y
+valutazioni:  4
+bids precedenti:  [0.30000000000000393, 0.10000000000000392, 0.0]
+vecchia utility  -1  nuova utility  37.0
+preferred slot:  0
+payment  0.3
+
+
+63
+x
+valutazioni:  5
+bids precedenti:  [0.30000000000000393, 0.10000000000000392, 0.0]
+vecchia utility  -1  nuova utility  49.0
+preferred slot:  0
+payment  0.1
+
+
+63
+z
+valutazioni:  2
+bids precedenti:  [0.30000000000000393, 0.10000000000000392, 0.0]
+vecchia utility  -1  nuova utility  19.0
+preferred slot:  0
+payment  0.1
+
+
+63
+y
+valutazioni:  2
+bids precedenti:  [0.2, 3.913536161803677e-15, 0.0]
+vecchia utility  -1  nuova utility  14.4
+preferred slot:  0
+payment  0.2
+
+
+63
+x
+valutazioni:  3
+bids precedenti:  [0.2, 3.913536161803677e-15, 0.0]
+vecchia utility  -1  nuova utility  24.0
+preferred slot:  0
+payment  3.9135361618e-15
+
+
+63
+z
+valutazioni:  1
+bids precedenti:  [0.2, 3.913536161803677e-15, 0.0]
+vecchia utility  -1  nuova utility  6.4
+preferred slot:  0
+payment  0.2
+vecchia utility  6.4  nuova utility  7.0
+preferred slot:  1
+payment  0.0
+
+
+63
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+63
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+63
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+64
+y
+valutazioni:  4
+bids precedenti:  [0.20000000000000392, 3.913536161803677e-15, 0.0]
+vecchia utility  -1  nuova utility  38.0
+preferred slot:  0
+payment  0.2
+
+
+64
+x
+valutazioni:  5
+bids precedenti:  [0.20000000000000392, 3.913536161803677e-15, 0.0]
+vecchia utility  -1  nuova utility  50.0
+preferred slot:  0
+payment  3.9135361618e-15
+
+
+64
+z
+valutazioni:  2
+bids precedenti:  [0.20000000000000392, 3.913536161803677e-15, 0.0]
+vecchia utility  -1  nuova utility  20.0
+preferred slot:  0
+payment  3.9135361618e-15
+
+
+64
+y
+valutazioni:  2
+bids precedenti:  [0.10000000000000392, 0.0, 0.0]
+vecchia utility  -1  nuova utility  15.2
+preferred slot:  0
+payment  0.1
+
+
+64
+x
+valutazioni:  3
+bids precedenti:  [0.10000000000000392, 0.0, 0.0]
+vecchia utility  -1  nuova utility  24.0
+preferred slot:  0
+payment  0.0
+
+
+64
+z
+valutazioni:  1
+bids precedenti:  [0.10000000000000392, 0.0, 0.0]
+vecchia utility  -1  nuova utility  7.2
+preferred slot:  0
+payment  0.1
+
+
+64
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+64
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+64
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+65
+y
+valutazioni:  4
+bids precedenti:  [0.10000000000000392, 0.0, 0.0]
+vecchia utility  -1  nuova utility  39.0
+preferred slot:  0
+payment  0.1
+
+
+65
+x
+valutazioni:  5
+bids precedenti:  [0.10000000000000392, 0.0, 0.0]
+vecchia utility  -1  nuova utility  50.0
+preferred slot:  0
+payment  0.0
+
+
+65
+z
+valutazioni:  2
+bids precedenti:  [0.10000000000000392, 0.0, 0.0]
+vecchia utility  -1  nuova utility  19.0
+preferred slot:  0
+payment  0.1
+
+
+65
+y
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0.0]
+vecchia utility  -1  nuova utility  15.2
+preferred slot:  0
+payment  0.1
+
+
+65
+x
+valutazioni:  3
+bids precedenti:  [0.1, 0.0, 0.0]
+vecchia utility  -1  nuova utility  24.0
+preferred slot:  0
+payment  0.0
+
+
+65
+z
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0.0]
+vecchia utility  -1  nuova utility  7.2
+preferred slot:  0
+payment  0.1
+
+
+65
+y
+valutazioni:  1
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  4.5
+preferred slot:  0
+payment  0.1
+
+
+65
+x
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  10.0
+preferred slot:  0
+payment  0.0
+
+
+65
+z
+valutazioni:  0
+bids precedenti:  [0.1, 0.0, 0]
+vecchia utility  -1  nuova utility  -0.5
+preferred slot:  0
+payment  0.1
+vecchia utility  -0.5  nuova utility  0.0
+preferred slot:  1
+payment  0.0
+
+
+66
+y
+valutazioni:  4
+bids precedenti:  [0.1, 0.0, 0.0]
+vecchia utility  -1  nuova utility  39.0
+preferred slot:  0
+payment  0.1
+
+
+66
+x
+valutazioni:  5
+bids precedenti:  [0.1, 0.0, 0.0]
+vecchia utility  -1  nuova utility  50.0
+preferred slot:  0
+payment  0.0
+
+
+66
+z
+valutazioni:  2
+bids precedenti:  [0.1, 0.0, 0.0]
+vecchia utility  -1  nuova utility  19.0
+preferred slot:  0
+payment  0.1

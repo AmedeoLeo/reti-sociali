@@ -1,0 +1,120 @@
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+0
+y
+
+
+0
+x
+
+
+0
+z
+
+
+1
+y
+valutazioni:  4
+bids precedenti:  [5, 4, 2]
+bidder:  y payment  2 budget:  96
+
+
+1
+x
+valutazioni:  5
+bids precedenti:  [5, 4, 2]
+bidder:  x payment  2 budget:  145
+
+
+1
+z
+valutazioni:  2
+bids precedenti:  [5, 4, 2]
+bidder:  z payment  2 budget:  58
+
+
+1
+y
+valutazioni:  2
+bids precedenti:  [3, 2, 1]
+bidder:  y payment  1 budget:  94
+
+
+1
+x
+valutazioni:  3
+bids precedenti:  [3, 2, 1]
+bidder:  x payment  1 budget:  142
+
+
+1
+z
+valutazioni:  1
+bids precedenti:  [3, 2, 1]
+bidder:  z payment  1 budget:  57
+
+
+1
+y
+valutazioni:  1
+bids precedenti:  [2, 1, 0]
+bidder:  y payment  0 budget:  93
+
+
+1
+x
+valutazioni:  2
+bids precedenti:  [2, 1, 0]
+bidder:  x payment  0 budget:  140
+
+
+1
+z
+valutazioni:  0
+bids precedenti:  [2, 1, 0]
+bidder:  z payment  0 budget:  57
+
+
+2
+y
+valutazioni:  4
+bids precedenti:  [2, 2, 2]
+bidder:  y payment  2 budget:  91
+
+
+2
+x
+valutazioni:  5
+bids precedenti:  [2, 2, 2]
+bidder:  x payment  2 budget:  138
+
+
+2
+z
+valutazioni:  2
+bids precedenti:  [2, 2, 2]
+bidder:  z payment  2 budget:  55
